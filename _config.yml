@@ -20,6 +20,7 @@ section_order:
   - "Part XVI: General Matters"
   - "Part XVII: Criminal Matters"
   - "Part XVIII: Electronic Filing and Service for Criminal Proceedings"
+  - "Part XIX: Community Disputes Resolution"
 elastic_search:
   index: intro_index
   doctype: bare
