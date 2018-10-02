@@ -18,6 +18,7 @@ section_order:
   - "Part XIV: Execution Matters"
   - "Part XV: Bills of Costs for Taxation"
   - "Part XVI: General Matters"
+  - "Part XVII: Criminal Matters"
 elastic_search:
   index: intro_index
   doctype: bare
