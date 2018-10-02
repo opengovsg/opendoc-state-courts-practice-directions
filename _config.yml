@@ -7,6 +7,7 @@ section_order:
   - "Part III: Simplified Process for Civil Proceedings in the Magistrate’s Court"
   - "Part IV: Interlocutory and other Applications"
   - "Part V: Hearings via Skype"
+  - "Part VI: Alternative Dispute Resolution"
 elastic_search:
   index: intro_index
   doctype: bare
