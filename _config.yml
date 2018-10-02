@@ -10,6 +10,7 @@ section_order:
   - "Part VI: Alternative Dispute Resolution"
   - "Part VII: Discovery and Inspection of Electronically Stored Documents"
   - "Part VIII: Evidence – Witnesses, Affidavits and Exhibits"
+  - "Part IX: Fixing of Matters for Hearing"
 elastic_search:
   index: intro_index
   doctype: bare
