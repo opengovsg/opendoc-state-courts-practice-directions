@@ -14,6 +14,7 @@ section_order:
   - "Part X: Documents and Authorities for use in Court"
   - "Part XI: Judgements and Orders"
   - "Part XII: Appeals"
+  - "Part XIII: Electronic Filing Service"
 elastic_search:
   index: intro_index
   doctype: bare
