@@ -8,6 +8,8 @@ section_order:
   - "Part IV: Interlocutory and other Applications"
   - "Part V: Hearings via Skype"
   - "Part VI: Alternative Dispute Resolution"
+  - "Part VII: Discovery and Inspection of Electronically Stored Documents"
+  - "Part VIII: Evidence – Witnesses, Affidavits and Exhibits"
 elastic_search:
   index: intro_index
   doctype: bare
