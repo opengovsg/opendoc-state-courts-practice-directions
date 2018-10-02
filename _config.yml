@@ -16,6 +16,7 @@ section_order:
   - "Part XII: Appeals"
   - "Part XIII: Electronic Filing Service"
   - "Part XIV: Execution Matters"
+  - "Part XV: Bills of Costs for Taxation"
 elastic_search:
   index: intro_index
   doctype: bare
