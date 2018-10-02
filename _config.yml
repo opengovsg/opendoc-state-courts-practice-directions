@@ -11,6 +11,7 @@ section_order:
   - "Part VII: Discovery and Inspection of Electronically Stored Documents"
   - "Part VIII: Evidence – Witnesses, Affidavits and Exhibits"
   - "Part IX: Fixing of Matters for Hearing"
+  - "Part X: Documents and Authorities for use in Court"
 elastic_search:
   index: intro_index
   doctype: bare
