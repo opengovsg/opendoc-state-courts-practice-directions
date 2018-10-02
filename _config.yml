@@ -19,6 +19,7 @@ section_order:
   - "Part XV: Bills of Costs for Taxation"
   - "Part XVI: General Matters"
   - "Part XVII: Criminal Matters"
+  - "Part XVIII: Electronic Filing and Service for Criminal Proceedings"
 elastic_search:
   index: intro_index
   doctype: bare
