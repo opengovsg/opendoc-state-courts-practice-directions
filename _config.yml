@@ -13,6 +13,7 @@ section_order:
   - "Part IX: Fixing of Matters for Hearing"
   - "Part X: Documents and Authorities for use in Court"
   - "Part XI: Judgements and Orders"
+  - "Part XII: Appeals"
 elastic_search:
   index: intro_index
   doctype: bare
