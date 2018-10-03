@@ -8,7 +8,7 @@
 
 | **Registry / Department** | **Hearing Lists** | **Criteria** |
 |---------------------------|-------------------|--------------|
-| **Civil Registry**        | <ul type='*'><li>Ex-parte summons list (Wednesday mornings)</li><li>Garnishee list (Tuesday and Thursday afternoons)</li><li>Summons for Directions (Tuesdays and Thursdays)</li><li>Duty Registrar matters (every day)</li><li>Taxation list (Friday mornings)</li></ul> | Uncontested matters for selected hearing lists where no documents will be tendered and the party attending via Skype is mentioning for all other parties (if applicable). |
+| **Civil Registry**        | Ex-parte summons list (Wednesday mornings)<br/>Garnishee list (Tuesday and Thursday afternoons)<br/>Summons for Directions (Tuesdays and Thursdays)<br/>Duty Registrar matters (every day)<br/>Taxation list (Friday mornings) | Uncontested matters for selected hearing lists where no documents will be tendered and the party attending via Skype is mentioning for all other parties (if applicable). |
 | **State Courts Centre for Dispute Resolution** | Court Dispute Resolution sessions for non-injury motor accident claims and personal injury claims arising from motor vehicle accidents (Mondays, Wednesdays and Fridays) | Court Dispute Resolution sessions for non-injury motor accident claims and personal injury claims arising from motor vehicle accidents where no documents will be tendered. |
 
 (2) This will enable solicitors to mention their cases via Skype instead of personally attending Court for many short mentions which generally will not last beyond 10 minutes.
