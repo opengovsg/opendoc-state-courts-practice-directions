@@ -1,14 +1,14 @@
 # Appendices
 
 ## Appendix A: Forms
-Form 1
+### Form 1
 
 **\[Deleted\]**
 
 *
 *
 
-<span id="_Toc524012577" class="anchor"></span>Form 2
+### Form 2
 
 > ***Sample Letter of Offer
 >***
@@ -27,7 +27,7 @@ We offer to settle \[your/your client’s claim OR the present matter\] on the f
 
 Yours faithfully,
 
-<span id="_Toc524012578" class="anchor"></span>Form 3
+### Form 3
 
 ***PLAINTIFF’S/ DEFENDANT’S LIST OF ISSUES IN DISPUTE***
 
@@ -58,7 +58,7 @@ Dated this day of 20 .
 
 **SOLICITORS FOR THE PLAINTIFF/DEFENDANT**
 
-<span id="_Toc524012579" class="anchor"></span>Form 4A
+### Form 4A
 
 ***IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE***
 
@@ -162,7 +162,7 @@ Dated this day of 20 .
 |           | TOTAL                                          | $                                  |                                                                    |                                            | $                                       |                                                                    |
 |           | (at \_\_\_\_\_\_\_ %)                          | $\_\_\_\_\_\_\_\_\_\_\_\_          |                                                                    |                                            | $\_\_\_\_\_\_\_\_\_\_\_\_               |                                                                    |
 
-<span id="_Toc524012580" class="anchor"></span>Form 4B
+### Form 4B
 
 ***IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE***
 
@@ -258,7 +258,7 @@ Dated this day of 20 .
 
                                                                                                                                                               *$*                                                        |                                                    |
 
-<span id="_Toc524012581" class="anchor"><span id="_Toc122854342" class="anchor"><span id="_Toc122854703" class="anchor"><span id="_Toc243995786" class="anchor"><span id="_Toc418079701" class="anchor"></span></span></span></span></span>Form 5
+### Form 5
 
 **ORDER TO ALLOW ENTRY AND SEARCH OF PREMISES IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE**
 
@@ -300,7 +300,7 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 
 *Entry and search of premises and vehicles on the premises*
 
-1 <span id="form5_p1" class="anchor"></span>(1) The defendant must allow \[Mr/Mrs/Miss... (“the supervising solicitor”), together with\]<sup>+</sup> \[name\] ... a solicitor of the Supreme Court from the firm of the plaintiff's solicitors ... and up to ... other persons being ... \[their capacity\] accompanying \[him/them/as appropriate\] to enter the premises mentioned or described in Schedule 1 to this order and any vehicles on the premises so that they can search for, inspect, photograph or photocopy, and deliver into the safekeeping of the plaintiff's solicitors all the documents and articles which are listed or described in Schedule 2 to this order (“the listed items”) or which \[name\] ... believes to be listed items. The defendant must allow those persons to remain on the premises until the search is complete, and if necessary to re-enter the premises on the same or the following day in order to complete the search.
+1 (1) The defendant must allow \[Mr/Mrs/Miss... (“the supervising solicitor”), together with\]<sup>+</sup> \[name\] ... a solicitor of the Supreme Court from the firm of the plaintiff's solicitors ... and up to ... other persons being ... \[their capacity\] accompanying \[him/them/as appropriate\] to enter the premises mentioned or described in Schedule 1 to this order and any vehicles on the premises so that they can search for, inspect, photograph or photocopy, and deliver into the safekeeping of the plaintiff's solicitors all the documents and articles which are listed or described in Schedule 2 to this order (“the listed items”) or which \[name\] ... believes to be listed items. The defendant must allow those persons to remain on the premises until the search is complete, and if necessary to re-enter the premises on the same or the following day in order to complete the search.
 
 (2) This order must be complied with either by the defendant himself or by a responsible employee of the defendant or by the person appearing to be in control of the premises.
 
@@ -308,7 +308,7 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 
 *Restrictions on the service and carrying out of paragraph 1 of this order*
 
-<span id="form5_p2" class="anchor"></span>2 <span id="_Hlt453749469" class="anchor"></span>Paragraph 1 of this order is subject to the following restrictions:-
+2 Paragraph 1 of this order is subject to the following restrictions:-
 
 (1) This order may only be served between 9.00 a.m. and 5.00 p.m. on a weekday which is not a public holiday.
 
@@ -322,21 +322,21 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 
 (6) The premises must not be searched, and items must not be removed from them, except in the presence of the defendant or a person appearing to be a responsible employee of the defendant.
 
-\[(7) If the supervising solicitor is satisfied that full compliance with <span id="_Hlt453749494" class="anchor"></span>subparagraph (5) or <span id="_Hlt453749520" class="anchor"></span>(<span id="_Hlt453819960" class="anchor"></span>6) above is impracticable, he may permit the search to proceed and items to be removed without compliance with the impracticable requirements.\][6]
+\[(7) If the supervising solicitor is satisfied that full compliance with subparagraph (5) or (6) above is impracticable, he may permit the search to proceed and items to be removed without compliance with the impracticable requirements.\][6]
 
 *Obtaining legal advice and applying to the Court*
 
-<span id="form5_p3" class="anchor"></span>3 Before permitting entry to the premises by any person other than \[the supervising solicitor and\]<sup>+</sup> the plaintiff's solicitors, the defendant or other person appearing to be in control of the premises may seek legal advice, and apply to the Court to vary or discharge this order, provided he does so at once. While this is being done, he may refuse entry to the premises by any other person, and may refuse to permit the search to begin, for a short time (not to exceed 2 hours, unless \[the supervising solicitor or\]<sup>+</sup> the plaintiff's solicitor agrees to a longer period).
+3 Before permitting entry to the premises by any person other than \[the supervising solicitor and\]<sup>+</sup> the plaintiff's solicitors, the defendant or other person appearing to be in control of the premises may seek legal advice, and apply to the Court to vary or discharge this order, provided he does so at once. While this is being done, he may refuse entry to the premises by any other person, and may refuse to permit the search to begin, for a short time (not to exceed 2 hours, unless \[the supervising solicitor or\]<sup>+</sup> the plaintiff's solicitor agrees to a longer period).
 
 *Delivery of listed items and computer print-outs*
 
-<span id="form5_p4" class="anchor"></span>4 (1) The defendant must immediately hand over to the plaintiff's solicitors any of the listed items which are in his possession or under his control.
+4 (1) The defendant must immediately hand over to the plaintiff's solicitors any of the listed items which are in his possession or under his control.
 
 (2) If any of the listed items exists only in computer readable form, the defendant must immediately give the plaintiff's solicitors effective access to the computers, with all necessary passwords, to enable them to be searched, and cause the listed items to be printed out. A print out of the items must be given to the plaintiff's solicitors or displayed on the computer screen so that they can be read and copied. All reasonable steps shall be taken by the plaintiff to ensure that no damage is done to any computer or data. The plaintiff and his representatives may not themselves search the defendant's computers unless they have sufficient expertise to do so without damaging the defendant's system.
 
 *Disclosure of information by the defendant*
 
-<span id="form5_p5" class="anchor"></span>5 (1) The defendant must immediately inform the plaintiff's solicitors:-
+5 (1) The defendant must immediately inform the plaintiff's solicitors:-
 
 > (a) where all the listed items are; and
 
@@ -354,9 +354,9 @@ Nothing in this order shall abrogate the defendant's right against self-incrimin
 
 *Prohibited acts*
 
-<span id="form5_p6" class="anchor"></span>6 (1) Except for the purpose of obtaining legal advice \[or advising his banker\], the defendant must not directly or indirectly inform anyone of these proceedings or of the contents of this order, or warn anyone that proceedings have been or may be brought against him by the plaintiff until \[ \].
+6 (1) Except for the purpose of obtaining legal advice \[or advising his banker\], the defendant must not directly or indirectly inform anyone of these proceedings or of the contents of this order, or warn anyone that proceedings have been or may be brought against him by the plaintiff until \[ \].
 
-<span id="form5_p6_2" class="anchor"></span>(2) \[Insert any negative injunctions.\]
+(2) \[Insert any negative injunctions.\]
 
 ***EFFECT OF THIS ORDER***
 
@@ -366,11 +366,11 @@ Nothing in this order shall abrogate the defendant's right against self-incrimin
 
 ***UNDERTAKINGS***
 
-The plaintiff, \[the supervising solicitor and\][7] the plaintiff's solicitors gave to the Court the undertakings contained in <span id="_Hlt453749552" class="anchor"></span>Sched<span id="_Hlt453820250" class="anchor"></span>ules 3, <span id="_Hlt453749570" class="anchor"></span>4 and <span id="_Hlt453820277" class="anchor"></span>5 respectively to this order.
+The plaintiff, \[the supervising solicitor and\][7] the plaintiff's solicitors gave to the Court the undertakings contained in Schedules 3, 4 and 5 respectively to this order.
 
 ***DURATION OF THIS ORDER***
 
-<span id="_Hlt453749608" class="anchor"></span>Paragraph 6<span id="_Hlt453820294" class="anchor"></span>(2) of this order shall remain in force until the trial or further order.
+Paragraph 6(2) of this order shall remain in force until the trial or further order.
 
 ***VARIATION OR DISCHARGE OF THIS ORDER***
 
@@ -415,11 +415,11 @@ SCHEDULE 1***
 
 **The premises**
 
-<span id="form5_schedule2" class="anchor"></span>***SCHEDULE 2***
+***SCHEDULE 2***
 
 **The listed items**
 
-<span id="form5_schedule3" class="anchor"></span>***SCHEDULE 3***
+***SCHEDULE 3***
 
 **Undertakings given by the plaintiff**
 
@@ -437,7 +437,7 @@ SCHEDULE 1***
 
 (7) To insure the items removed from these premises.[9]
 
-<span id="form5_schedule4" class="anchor"></span>***SCHEDULE 4***
+***SCHEDULE 4***
 
 **Undertakings given by the plaintiff's solicitors**
 
@@ -461,9 +461,9 @@ SCHEDULE 1***
 
 (2) To make and provide the plaintiff's solicitor a written report on the carrying out of the order.\][10]
 
-<span id="_Toc524012582" class="anchor"></span>Form 6A
+### Form 6A
 
-<span id="_Toc66445304" class="anchor"><span id="_Toc81709859" class="anchor"><span id="_Toc81710584" class="anchor"><span id="_Toc81717493" class="anchor"><span id="_Toc122854344" class="anchor"><span id="_Toc122854705" class="anchor"><span id="_Toc243995788" class="anchor"><span id="_Toc418079703" class="anchor"></span></span></span></span></span></span></span></span>
+
 
 **INJUNCTION PROHIBITING DISPOSAL OF ASSETS WORLDWIDE IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE**
 
@@ -500,7 +500,7 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 
 *Disposal of assets*
 
-<span id="form6_p1" class="anchor"></span>1 (1) The defendant must not (i) remove from Singapore any of his assets which are in Singapore whether in his own name or not and whether solely or jointly owned up to the value of $ or (ii) in any way dispose of or deal with or diminish the value of any of his assets whether they are in or outside Singapore whether in his own name or not and whether solely or jointly owned up to the same value. This prohibition includes the following assets in particular: -
+1 (1) The defendant must not (i) remove from Singapore any of his assets which are in Singapore whether in his own name or not and whether solely or jointly owned up to the value of $ or (ii) in any way dispose of or deal with or diminish the value of any of his assets whether they are in or outside Singapore whether in his own name or not and whether solely or jointly owned up to the same value. This prohibition includes the following assets in particular: -
 
 > (a) the property known as ... or the net sale money after payment of any mortgages if it has been sold;
 >
@@ -513,7 +513,7 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 *
 Disclosure of information*
 
-<span id="form6_p2" class="anchor"></span>2 (1) The defendant must inform the plaintiff in writing at once of all his assets whether in or outside Singapore and whether in his own name or not and whether solely or jointly owned, giving the value, location and details of all such assets.
+2 (1) The defendant must inform the plaintiff in writing at once of all his assets whether in or outside Singapore and whether in his own name or not and whether solely or jointly owned, giving the value, location and details of all such assets.
 
 (2) The information must be confirmed in an affidavit which must be served on the plaintiff's solicitors within ... days after this order has been served on the defendant.
 
@@ -633,7 +633,7 @@ Dated this day of , 20 .
 
 (10) The plaintiff shall not without the leave of the Court seek to enforce this order in any country outside Singapore \[or seek an order of a similar nature including orders conferring a charge or other security against the defendant or the defendant's assets\].\]
 
-<span id="_Toc524012583" class="anchor"><span id="_Toc66445306" class="anchor"><span id="_Toc81709861" class="anchor"><span id="_Toc81710586" class="anchor"><span id="_Toc81717495" class="anchor"><span id="_Toc122854346" class="anchor"><span id="_Toc122854707" class="anchor"><span id="_Toc243995790" class="anchor"><span id="_Toc418079705" class="anchor"></span></span></span></span></span></span></span></span></span>Form 6B
+### Form 6B
 
 **INJUNCTION PROHIBITING DISPOSAL OF ASSETS IN SINGAPORE**
 
@@ -674,7 +674,7 @@ As a result of the application IT IS ORDERED by District Judge \[ \] that:
 
 *Disposal of assets*
 
-<span id="form7_p1" class="anchor"></span>1 (1) The defendant must not remove from Singapore in any way dispose of or deal with or diminish the value of any of his assets which are in Singapore whether in his own name or not and whether solely or jointly owned up to the value $ . This prohibition includes the following assets in particular
+1 (1) The defendant must not remove from Singapore in any way dispose of or deal with or diminish the value of any of his assets which are in Singapore whether in his own name or not and whether solely or jointly owned up to the value $ . This prohibition includes the following assets in particular
 
 > (a) the property known as ... or the net sale money after payment of any mortgages if it has been sold;
 
@@ -686,7 +686,7 @@ As a result of the application IT IS ORDERED by District Judge \[ \] that:
 
 > *Disclosure of information*
 
-<span id="form7_p2" class="anchor"></span>2 The defendant must inform the plaintiff in writing at once of all his assets in Singapore whether in his own name or not and whether solely or jointly owned, giving the value, location and details of all such assets. The information must be confirmed in an affidavit which must be served on the plaintiffs solicitors within ... days after this order has been served on the defendant.
+2 The defendant must inform the plaintiff in writing at once of all his assets in Singapore whether in his own name or not and whether solely or jointly owned, giving the value, location and details of all such assets. The information must be confirmed in an affidavit which must be served on the plaintiffs solicitors within ... days after this order has been served on the defendant.
 
 ***EXCEPTIONS TO THIS ORDER***
 
@@ -794,7 +794,7 @@ Dated this day of , 20 .
 
 (8) If this order ceases to have effect, the plaintiff will immediately take all reasonable steps to inform in writing anyone to whom he has given notice of this order, or who he has reasonable grounds for supposing may act upon this order, that it has ceased to have effect.
 
-<span id="_Toc493509239" class="anchor"><span id="_Toc524012584" class="anchor"></span></span>Form 7
+### Form 7
 
 **COURT DISPUTE RESOLUTION (CDR)/ALTERNATIVE DISPUTE RESOLUTION (ADR) FORM**
 
@@ -952,7 +952,7 @@ Date:
 
 *∗ Delete where inapplicable.*
 
-<span id="_Toc524012585" class="anchor"></span>Form 8
+### Form 8
 
 ***Part A***
 
@@ -1028,7 +1028,7 @@ Date:
 
 *\*Delete where inapplicable.*
 
-<span id="_Toc524012586" class="anchor"><span id="Form9A" class="anchor"></span></span>Form 9A
+### Form 9A
 
 **LIABILITY INDICATION FORM**
 
@@ -1158,12 +1158,12 @@ Chain Collision Accident Summary for CDR
 
 > *2*
 
-<span id="_Toc524012587" class="anchor"></span>Form 9A(A)
+### Form 9A(A)
 
 **LIABILITY INDICATION FORM
 (INDUSTRIAL ACCIDENT CLAIMS)**
 
-<span id="Form9B" class="anchor"></span>Instructions: *Where liability indication is required*, this form is to be completed *before* the CDR session by *all solicitors* having conduct of the case.
+Instructions: *Where liability indication is required*, this form is to be completed *before* the CDR session by *all solicitors* having conduct of the case.
 
 Case Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Plaintiff’s Counsel/Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -1286,7 +1286,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
  Yes No Not available                                    |
 
-<span id="_Toc524012588" class="anchor"></span>Form 9B
+### Form 9B
 
 NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://www.statecourts.gov.sg*](http://www.statecourts.gov.sg)
 
@@ -1310,7 +1310,7 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
 
  **(*other items of claim*)**                                                   |
 
-<span id="_Toc524012589" class="anchor"></span>Form 9C
+### Form 9C
 
 *Form may be downloaded from http://www.statecourts.gov.sg under “Civil Justice Division – Court Dispute Resolution”*
 
@@ -1351,7 +1351,7 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
 **
 **
 
-<span id="_Toc524012590" class="anchor"></span>Form 9C(A)
+### Form 9C(A)
 
 *Form may be downloaded from http://www.statecourts.gov.sg under “Civil Justice Division – Court Dispute Resolution”*
 
@@ -1401,7 +1401,7 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
  -   SJE report is to be released by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                            |
 | -   Costs reserved to the Registrar.                                                                                                                                                                             |
 
-<span id="_Toc524012591" class="anchor"></span>Form 9D
+### Form 9D
 
 ***IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE***
 
@@ -1632,7 +1632,7 @@ And
 
 6
 
-<span id="_Toc524012592" class="anchor"></span>Form 9E
+### Form 9E
 
 ***IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE***
 
@@ -1700,7 +1700,7 @@ And
 
 **SOLICITORS FOR THE PLAINTIFF SOLICITORS FOR THE DEFENDANT**
 
-<span id="_Toc524012593" class="anchor"></span>Form 9F
+### Form 9F
 
 ***IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE***
 
@@ -1767,7 +1767,7 @@ And
 |           | TOTAL                                          | $                                  |                                                                                                                     |                                            | $                                       |                                                                                                                     |
 |           | (at \_\_\_\_\_\_%)                             | ***$\_\_\_\_\_\_\_\_\_\_\_***      |                                                                                                                     |                                            | ***$\_\_\_\_\_\_\_\_\_\_\_\_\_***       |                                                                                                                     |
 
-<span id="_Toc524012594" class="anchor"></span>Form 9G
+### Form 9G
 
 | **REQUEST FOR FAST TRACK ADCDR**                                                                                                                                                                                                                                                     
 
@@ -1804,7 +1804,7 @@ And
 
  A date for a fast track ADCDR session shall generally be given *within 3 weeks* from date of application. Please ensure that parties are ready for indication on the day of the ADCDR hearing with the completed Form 9B under Appendix A of the Practice Directions duly completed.  |
 
-<span id="_Toc524012595" class="anchor"></span>Form 9I<sup>\#</sup>
+### Form 9I<sup>\#</sup>
 
 | **RECORDING SETTLEMENT / ENTERING JUDGMENT BY CONSENT (NIMA/PI/PIMA)**                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1850,7 +1850,7 @@ And
 | <sup>\#</sup> *This Form may be downloaded from: *http://www.statecourts.gov.sg* under “Civil Justice Division – Court Dispute Resolution”                                                             
  *\*delete where appropriate<sup>.</sup> v. 01.05.2015                                                                                                                                                   |
 
-<span id="_Toc524012596" class="anchor"></span>Form 9J\*
+### Form 9J\*
 
 ***Confidential and Without Prejudice***
 
@@ -1997,7 +1997,7 @@ Dated this 2<sup>nd</sup> day of May 2012
 
 **SOLICITORS FOR THE PLAINTIFF**
 
-<span id="_Toc524012597" class="anchor"></span>Form 9J (A)\*
+### Form 9J (A)\*
 
 > ***Confidential and Without Prejudice***
 
@@ -2065,7 +2065,7 @@ The Plaintiff/Defendant suggests the following to resolve the dispute:
 >
 > **SOLICITORS FOR THE \[PLAINTIFF/DEFENDANT\]**
 
-<span id="_Toc524012598" class="anchor"></span>Form 9K\*
+### Form 9K\*
 
 ***IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE***
 
@@ -2214,9 +2214,7 @@ Dated this 2<sup>nd</sup> day of May 2012
 
 **SOLICITORS FOR THE PLAINTIFF**
 
-<span id="_Toc524012599" class="anchor"></span>Form 10
-
-<span id="_Toc66445314" class="anchor"><span id="_Toc81709869" class="anchor"><span id="_Toc81710594" class="anchor"><span id="_Toc81717503" class="anchor"><span id="_Toc122854354" class="anchor"><span id="_Toc122854728" class="anchor"><span id="_Toc243995798" class="anchor"><span id="_Toc418079709" class="anchor"></span></span></span></span></span></span></span></span>
+### Form 10
 
 **NOTICE OF OBJECTIONS TO CONTENTS OF AFFIDAVITS OF EVIDENCE-IN-CHIEF**
 
@@ -2236,9 +2234,9 @@ Dated this day of , 20 .
 
 Solicitors for
 
-<span id="_Toc524012600" class="anchor"></span>Form 11
+### Form 11
 
-<span id="_Toc81709949" class="anchor"><span id="_Toc81710674" class="anchor"><span id="_Toc81717578" class="anchor"><span id="_Toc122854454" class="anchor"><span id="_Toc122854834" class="anchor"><span id="_Toc243995912" class="anchor"><span id="_Toc418079736" class="anchor"></span></span></span></span></span></span></span>**REQUEST FOR EARLY EXPERT PRE-TRIAL CONFERENCE**
+**REQUEST FOR EARLY EXPERT PRE-TRIAL CONFERENCE**
 
 *\[Suit Number\]*
 
@@ -2253,9 +2251,9 @@ Yours faithfully,
 Cc: *\[Names of all parties to the proceedings\]*
 
 ***
-***<span id="_Toc81709950" class="anchor"><span id="_Toc81710675" class="anchor"><span id="_Toc81717579" class="anchor"></span></span></span>
+***
 
-<span id="_Toc524012601" class="anchor"><span id="_Toc81709951" class="anchor"><span id="_Toc81710676" class="anchor"><span id="_Toc81717580" class="anchor"><span id="_Toc122854456" class="anchor"><span id="_Toc122854836" class="anchor"><span id="_Toc243995914" class="anchor"><span id="_Toc418079738" class="anchor"></span></span></span></span></span></span></span></span>Form 12
+### Form 12
 
 **NOTE TO EXPERT WITNESS**
 
@@ -2351,7 +2349,7 @@ You must comply with the mandatory requirements of Order 40A, Rule 3, of the Rul
 >
 > *I also confirm that in preparing this report, I am aware that my primary duty is to the Court and not the person(s) from whom I have received my instructions or by whom I am paid”*.
 
-<span id="_Toc524012602" class="anchor"></span>Form 12A
+### Form 12A
 
 ***JOINT EXPERT REPORT***
 
@@ -2437,9 +2435,9 @@ Dated this ( )
 |     |             |                 |                                                                                               |                                                                                                         |
 |     |             |                 |                                                                                               |                                                                                                         |
 
-<span id="_Toc524012603" class="anchor"><span id="_Toc66011029" class="anchor"></span></span>Form 13
+### Form 13
 
-<span id="_Toc66445316" class="anchor"><span id="_Toc81709871" class="anchor"><span id="_Toc81710596" class="anchor"><span id="_Toc81717505" class="anchor"><span id="_Toc122854356" class="anchor"><span id="_Toc122854730" class="anchor"><span id="_Toc243995804" class="anchor"><span id="_Toc418079711" class="anchor"></span></span></span></span></span></span></span></span>**INDEX TO AGREED BUNDLE OF DOCUMENTS**
+**INDEX TO AGREED BUNDLE OF DOCUMENTS**
 
 |                               |                 |               |                        |          |
 |-------------------------------|-----------------|---------------|------------------------|----------|
@@ -2450,7 +2448,7 @@ Dated this ( )
                                                    **Copy**       | **Scope of agreement** | **Page** |
 |                               |                 |               |                        |          |
 
-<span id="_Toc418079712" class="anchor"><span id="_Toc524012604" class="anchor"></span></span>Form 14
+### Form 14
 
 **APPLICATION TO BE REGISTERED USER OFTHE**
 
@@ -2488,9 +2486,9 @@ Yours faithfully
 
 *\[Name and designation of authorised signatory\]*
 
-<span id="_Toc524012605" class="anchor"></span>Form 15
+### Form 15
 
-<span id="_Toc81709914" class="anchor"><span id="_Toc81710639" class="anchor"><span id="_Toc81717548" class="anchor"><span id="_Toc122854422" class="anchor"><span id="_Toc122854802" class="anchor"><span id="_Toc243995880" class="anchor"><span id="_Toc418079714" class="anchor"></span></span></span></span></span></span></span>**LETTER OF AUTHORITY TO ACT AS AUTHORISED BAILIFF**
+**LETTER OF AUTHORITY TO ACT AS AUTHORISED BAILIFF**
 
 **(a) Letter of Authority to be filed if the Authorised Bailiff is to be appointed at time of filing of the writ of seizure and sale (WSS) or writ of distress (WD)**
 
@@ -2526,11 +2524,11 @@ Signature of Registrar\]
 
 \*Denotes auto-generation by EFS upon acceptance of WSS or WD for filing.
 
-<span id="_Toc524012606" class="anchor"></span>Form 16
+### Form 16
 
 (Title as in the action)
 
-<span id="_Toc418079716" class="anchor"></span>**QUESTIONNAIRE FOR THE EXAMINATION OF
+**QUESTIONNAIRE FOR THE EXAMINATION OF
 (NAME OF INDIVIDUAL JUDGMENT DEBTOR)**
 
 Please be informed that you, (name of judgment debtor), have been summoned by the abovementioned judgment creditor to attend at the State Courts on (date and time) to —
@@ -2774,7 +2772,7 @@ Please provide details of any motor vehicles that you own:
 
 1.  Please provide details of the assets listed in Question 20 and state the estimated value of each asset and the basis for the estimation:
 
-<span id="_Toc524012607" class="anchor"></span>Form 17
+### Form 17
 
 (Title as in the action)
 
@@ -2982,7 +2980,7 @@ I, (name of officer of judgment debtor and NRIC No.) confirm that my answers to 
 >
 > (c) If on hire purchase, the name of the finance company and the amount outstanding under the hire purchase agreement:
 
-<span id="_Toc243995886" class="anchor"><span id="_Toc418079720" class="anchor"></span></span>**ANNEX C**
+**ANNEX C**
 
 **Particulars of Other Assets**
 
@@ -3013,7 +3011,7 @@ I, (name of officer of judgment debtor and NRIC No.) confirm that my answers to 
 
 1.  Please provide details of the assets listed in Question 22 and state the estimated value of each asset and the basis of the estimation.
 
-<span id="_Toc524012608" class="anchor"></span>Form 18
+### Form 18
 
 BILL OF COSTS FOR CONTENTIOUS BUSINESS - TRIALS
 
@@ -3165,7 +3163,7 @@ Dated this day of 20 .
 
 To:
 
-<span id="_Toc524012609" class="anchor"><span id="_Toc243995888" class="anchor"><span id="_Toc418079722" class="anchor"></span></span></span>Form 19
+### Form 19
 
 BILL OF COSTS FOR CONTENTIOUS BUSINESS OTHER THAN TRIALS
 
@@ -3307,7 +3305,7 @@ Dated this day of 20 .
 >
 > To:
 
-<span id="_Toc524012610" class="anchor"><span id="_Toc122854432" class="anchor"><span id="_Toc122854812" class="anchor"><span id="_Toc243995890" class="anchor"><span id="_Toc418079724" class="anchor"></span></span></span></span></span>Form 20
+### Form 20
 
 BILL OF COSTS FOR NON-CONTENTIOUS BUSINESS
 
@@ -3425,9 +3423,9 @@ Dated this day of 20 .
 
 To:
 
-<span id="_Toc524012611" class="anchor"></span>Form 21
+### Form 21
 
-<span id="_Toc122854434" class="anchor"><span id="_Toc122854814" class="anchor"><span id="_Toc243995892" class="anchor"><span id="_Toc418079726" class="anchor"></span></span></span></span>NOTICE OF DISPUTE ON BILL OF COSTS
+NOTICE OF DISPUTE ON BILL OF COSTS
 
 **IN THE STATE COURTS**
 
@@ -3474,7 +3472,7 @@ ABC & CO.
 
 (Address of Solicitors)
 
-<span id="form17_A" class="anchor"><span id="form17_B" class="anchor"><span id="_Toc524012612" class="anchor"><span id="_Toc66445376" class="anchor"><span id="_Toc81709933" class="anchor"><span id="_Toc81710658" class="anchor"><span id="_Toc81717564" class="anchor"><span id="_Toc122854444" class="anchor"><span id="_Toc122854824" class="anchor"><span id="_Toc243995902" class="anchor"><span id="_Toc418079728" class="anchor"></span></span></span></span></span></span></span></span></span></span></span>Form 22
+### Form 22
 
 SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 
@@ -3501,13 +3499,13 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 |     |                                                                                                                                                                             | Date                               |                                                          |     |
 |     | MD 965                                                                                                                                                                      | *\*Delete as necessary*            |                                                          |     |
 
-<span id="_Toc524012613" class="anchor"></span>Form 23
+### Form 23
 
 **\[Deleted\]**
 
-<span id="_Toc524012614" class="anchor"></span>Form 24
+### Form 24
 
-<span id="_Toc66445380" class="anchor"><span id="_Toc81709937" class="anchor"><span id="_Toc81710662" class="anchor"><span id="_Toc81717568" class="anchor"><span id="_Toc122854448" class="anchor"><span id="_Toc122854828" class="anchor"><span id="_Toc243995906" class="anchor"><span id="_Toc418079732" class="anchor"></span></span></span></span></span></span></span></span>**REQUISITION FOR IMPRESSED STAMPS**
+**REQUISITION FOR IMPRESSED STAMPS**
 
 **STATE COURTS, SINGAPORE**
 
@@ -3538,9 +3536,9 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 
 **\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_ Receipt No. Cashier Date**
 
-<span id="_Toc524012615" class="anchor"><span id="_Toc66445382" class="anchor"><span id="_Toc81709939" class="anchor"><span id="_Toc81710664" class="anchor"><span id="_Toc81717570" class="anchor"><span id="_Toc122854450" class="anchor"><span id="_Toc122854830" class="anchor"><span id="_Toc243995908" class="anchor"><span id="_Toc418079734" class="anchor"></span></span></span></span></span></span></span></span></span>Form 25
+### Form 25
 
-**NOTING OF APPEARANCE OF**<span id="_Toc66445383" class="anchor"><span id="_Toc81709940" class="anchor"><span id="_Toc81710665" class="anchor"></span></span></span> **ADVOCATES/PROSECUTORS**
+**NOTING OF APPEARANCE OF** **ADVOCATES/PROSECUTORS**
 
 |                                   |
 |-----------------------------------|
@@ -3556,7 +3554,7 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 | Email Address:                    |
 | Name of Accused/Party:            |
 
-<span id="_Toc524012616" class="anchor"></span>Form 26
+### Form 26
 
 **APPLICATION FOR RECORDS OF CRIMINAL PROCEEDINGS FOR NON-ICMS CASES**
 
@@ -3710,29 +3708,29 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 >
 > Page 2 of 2
 
-<span id="_Toc524012617" class="anchor"></span>Form 27
+### Form 27
 
 **MENTION SLIP**
 
-| <span id="_Toc418079740" class="anchor"></span>**Case No.:**                              
+| **Case No.:**                              
 
- <span id="_Toc418079741" class="anchor"></span>**PIC / DAC / MAC / PS**                    |                                                   |
+ **PIC / DAC / MAC / PS**                    |                                                   |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------|
-| <span id="_Toc418079742" class="anchor"></span>**Solicitor’s Name / **                    
+| **Solicitor’s Name / **                    
 
- <span id="_Toc418079743" class="anchor"></span>**Prosecutor’s Name**                       |                                                   |
-| <span id="_Toc418079744" class="anchor"></span>**Telephone No.:**                         |                                                   |
-| <span id="_Toc418079745" class="anchor"></span>**Fax No.:**                               |                                                   |
-| <span id="_Toc418079746" class="anchor"></span>**Name of Accused / Party he represents:** | <span id="_Toc418079747" class="anchor"></span>1.
+ **Prosecutor’s Name**                       |                                                   |
+| **Telephone No.:**                         |                                                   |
+| **Fax No.:**                               |                                                   |
+| 1.
 
-                                                                                             <span id="_Toc418079748" class="anchor"></span>2.  
+                                                                                             2.  
 
-                                                                                             <span id="_Toc418079749" class="anchor"></span>3.  |
-| <span id="_Toc418079750" class="anchor"></span>**Accused on bail/ Remanded at \***        |                                                   |
+                                                                                             3.  |
+| **Accused on bail/ Remanded at \***        |                                                   |
 
-<span id="_Toc418079751" class="anchor"></span>\*indicate place of remand
+\*indicate place of remand
 
-<span id="form28" class="anchor"><span id="_Toc524012618" class="anchor"></span></span>Form 28
+### Form 28
 
 **CLAIM**
 
@@ -3910,7 +3908,7 @@ Ministry of Culture, Community and Youth website: [*www.mccy.gov.sg*](http://www
 
 State Courts website: [*www.statecourts.gov.sg*](http://www.statecourts.gov.sg)
 
-<span id="_Toc524012619" class="anchor"></span>Form 29
+### Form 29
 
 **DECLARATION OF SERVICE**
 
@@ -3962,7 +3960,7 @@ Dated this day of , 20
 
 Name of plaintiff / applicant
 
-<span id="_Toc524012620" class="anchor"></span>Form 30
+### Form 30
 
 **REPLY**
 
@@ -4066,7 +4064,7 @@ Ministry of Culture, Community and Youth website: [*www.mccy.gov.sg*](http://www
 
 State Courts website: [*www.statecourts.gov.sg*](http://www.statecourts.gov.sg)
 
-<span id="_Toc524012621" class="anchor"></span>Form 31
+### Form 31
 
 **NOTICE OF PRE-TRIAL CONFERENCE**
 
@@ -4088,7 +4086,7 @@ Dated this \[ \] day of \[month\] 20 .
 
 *Registrar*
 
-<span id="_Toc524012622" class="anchor"></span>Form 32
+### Form 32
 
 **NOTICE OF HEARING**
 
@@ -4110,7 +4108,7 @@ Dated this \[ \] day of \[month\] 20 .
 
 *Registrar*
 
-<span id="_Toc524012623" class="anchor"></span>Form 33A
+### Form 33A
 
 **APPLICATION FOR SPECIAL DIRECTION UNDER SECTION 6(1) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -4266,7 +4264,7 @@ Ministry of Culture, Community and Youth website: [*www.mccy.gov.sg*](http://www
 
 State Courts website: [*www.statecourts.gov.sg*](http://www.statecourts.gov.sg)
 
-<span id="_Toc524012624" class="anchor"></span>Form 33B
+### Form 33B
 
 **APPLICATION FOR COMPLIANCE BOND**
 
@@ -4373,7 +4371,7 @@ Dated this day of , 20
 
 Name of applicant
 
-<span id="_Toc524012625" class="anchor"></span>Form 34A
+### Form 34A
 
 **REPLY TO APPLICATION FOR SPECIAL DIRECTION UNDER SECTION 6(1) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -4488,7 +4486,7 @@ Ministry of Culture, Community and Youth website: [*www.mccy.gov.sg*](http://www
 
 State Courts website: [*www.statecourts.gov.sg*](http://www.statecourts.gov.sg)
 
-<span id="_Toc524012626" class="anchor"></span>Form 34B
+### Form 34B
 
 **REPLY TO APPLICATION FOR COMPLIANCE BOND**
 
@@ -4597,7 +4595,7 @@ Ministry of Culture, Community and Youth website: [*www.mccy.gov.sg*](http://www
 
 State Courts website: [*www.statecourts.gov.sg*](http://www.statecourts.gov.sg)
 
-<span id="_Toc524012627" class="anchor"></span>Form 35
+### Form 35
 
 **APPLICATION FOR EXCLUSION ORDER UNDER SECTION 9(1) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -4733,7 +4731,7 @@ Ministry of Culture, Community and Youth website: [*www.mccy.gov.sg*](http://www
 
 State Courts website: [*www.statecourts.gov.sg*](http://www.statecourts.gov.sg)
 
-<span id="_Toc524012628" class="anchor"></span>Form 36
+### Form 36
 
 **REPLY TO APPLICATION FOR EXCLUSION ORDER UNDER SECTION 9(1) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -4846,7 +4844,7 @@ Ministry of Culture, Community and Youth website: [*www.mccy.gov.sg*](http://www
 
 State Courts website: [*www.statecourts.gov.sg*](http://www.statecourts.gov.sg)
 
-<span id="_Toc524012629" class="anchor"></span>Form 37
+### Form 37
 
 **APPLICATION TO SET ASIDE ORDER, JUDGMENT, DIRECTION**
 
@@ -4916,7 +4914,7 @@ Dated this day of , 20
 
 Name of applicant
 
-<span id="_Toc524012630" class="anchor"></span>Form 38
+### Form 38
 
 **REPLY TO APPLICATION TO SET ASIDE ORDER, JUDGMENT, DIRECTION**
 
@@ -4982,7 +4980,7 @@ Dated this day of , 20
 
 Name of respondent
 
-<span id="_Toc524012631" class="anchor"></span>Form 39
+### Form 39
 
 **NOTICE OF HEARING OF APPLICATION TO SET ASIDE ORDER**
 
@@ -5000,7 +4998,7 @@ Dated this day of , 20
 
 *Registrar*
 
-<span id="_Toc524012632" class="anchor"></span>Form 40
+### Form 40
 
 **APPLICATION FOR LEAVE TO APPEAL UNDER SECTION 26(2) OF COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -5031,7 +5029,7 @@ Dated this day of , 20
 
 Name of appellant:
 
-<span id="_Toc524012633" class="anchor"></span>Form 41
+### Form 41
 
 **REPLY TO APPLICATION FOR LEAVE TO APPEAL
 UNDER SECTION 26(2) OF COMMUNITY DISPUTES RESOLUTION ACT**
@@ -5101,7 +5099,7 @@ Dated this day of , 20
 
 Name of respondent
 
-<span id="_Toc524012634" class="anchor"></span>Form 42
+### Form 42
 
 **NOTICE OF HEARING OF APPLICATION FOR LEAVE TO APPEAL**
 
@@ -5119,7 +5117,7 @@ Dated this \[ \] day of \[month\] 20 .
 
 *Registrar*
 
-<span id="_Toc524012635" class="anchor"></span>Form 43
+### Form 43
 
 **NOTICE OF APPEAL**
 
@@ -5155,7 +5153,7 @@ Dated this day of , 20
 
 Name of appellant
 
-<span id="_Toc524012636" class="anchor"></span>Form 44
+### Form 44
 
 **CERTIFICATE FOR SECURITY FOR COSTS**
 
@@ -5179,7 +5177,7 @@ Dated this day of , 20
 
 *Registrar*
 
-<span id="_Toc524012637" class="anchor"></span>Form 45
+### Form 45
 
 **UNDERTAKING FOR SECURITY FOR COSTS**
 
@@ -5205,7 +5203,7 @@ Dated this day of , 20
 
 *Solicitors for the Appellant*
 
-<span id="_Toc524012638" class="anchor"></span>Form 46
+### Form 46
 
 **CERTIFICATE FOR SECURITY FOR COSTS**
 
@@ -5233,7 +5231,7 @@ Dated this day of , 20
 
 *Solicitors for the Appellant*
 
-<span id="_Toc524012639" class="anchor"></span>Form 47
+### Form 47
 
 **IN THE COMMUNITY DISPUTES RESOLUTION TRIBUNALS**
 
@@ -5273,7 +5271,7 @@ Dated this \[ \] day of \[month\] 20 .
 
 *Registrar*
 
-<span id="_Toc524012640" class="anchor"></span>Form 48
+### Form 48
 
 **IN THE COMMUNITY DISPUTES RESOLUTION TRIBUNALS**
 
@@ -5326,7 +5324,7 @@ Dated this \[ \] day of \[month\] 20 .
 *Registrar*
 
 *
-*<span id="_Toc524012641" class="anchor"></span>Form 49
+*### Form 49
 
 **IN THE COMMUNITY DISPUTES RESOLUTION TRIBUNALS**
 
@@ -5356,7 +5354,7 @@ Dated this \[ \] day of \[month\] 20 .
 
 *Registrar*
 
-<span id="_Toc524012642" class="anchor"></span>Form 50
+### Form 50
 
 **BOND TO ENSURE COMPLIANCE WITH SPECIAL DIRECTION UNDER SECTION 6(3) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -5394,7 +5392,7 @@ Interpreter Tribunal Judge
 
 \[In \_\_\_\_\_\_\_\_\_\_\_\_\_\_\]
 
-<span id="_Toc524012643" class="anchor"></span>Form 51
+### Form 51
 
 **APPLICATION FOR REPRESENTATION UNDER SECTION 29(2)(a) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -5457,7 +5455,7 @@ The original application form and the above documents must be submitted at the C
 | **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.** |
 |------------------------------------------------|
 
-<span id="_Toc524012644" class="anchor"></span>Form 52
+### Form 52
 
 **APPLICATION FOR REPRESENTATION UNDER SECTION 29(2)(b) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -5508,7 +5506,7 @@ The original application form and the above documents must be submitted at the C
 | **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.** |
 |------------------------------------------------|
 
-<span id="_Toc524012645" class="anchor"></span>Form 53
+### Form 53
 
 **APPLICATION FOR REPRESENTATION UNDER SECTION 29(2)(c) OF THE COMMUNITY DISPUTES RESOLUTION ACT – SELF-INITIATED**
 
@@ -5569,7 +5567,7 @@ The original application form and the above documents must be submitted at the C
 | **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.** |
 |------------------------------------------------|
 
-<span id="_Toc524012646" class="anchor"></span>Form 54
+### Form 54
 
 **APPLICATION FOR REPRESENTATION UNDER SECTION 29(2)(c) OF THE COMMUNITY DISPUTES RESOLUTION ACT – INITIATED BY THIRD PARTY**
 
@@ -5630,7 +5628,7 @@ The original application form and the above documents must be submitted at the C
 | **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.** |
 |------------------------------------------------|
 
-<span id="_Toc524012647" class="anchor"></span>Form 55
+### Form 55
 
 **APPLICATION FOR REPRESENTATION UNDER SECTION 29(3) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -5667,7 +5665,7 @@ Contact Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **\* *Delete where inapplicable***
 
-<span id="_Toc524012648" class="anchor"></span>Form 56
+### Form 56
 
 **ORDER FOR MEDIATION UNDER SECTION 30(2) OF THE COMMUNITY DISPUTES RESOLUTION ACT**
 
@@ -5702,7 +5700,7 @@ Singapore
  **Any person who fails to comply with the Registrar’s or tribunal judge’s order made under subsection (2) commits contempt of court and action may be taken against that person under section 8 of the State Courts Act (Cap. 321).**  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-<span id="_Toc524012649" class="anchor"></span>Form 57
+### Form 57
 
 **APPLICATION FOR ORDER TO A WITNESS UNDER RULE 13(2) OF THE COMMUNITY DISPUTES RESOLUTION TRIBUNALS RULES 2015**
 
@@ -5732,7 +5730,7 @@ Singapore
 
 **\* *Delete where inapplicable***
 
-<span id="_Toc524012650" class="anchor"></span>Form 58
+### Form 58
 
 **ORDER TO A WITNESS UNDER RULE 13(2) OF THE COMMUNITY DISPUTES RESOLUTION TRIBUNALS RULES 2015**
 
@@ -5782,7 +5780,7 @@ Dated this day of , 20 .
 
 *Registrar*
 
-<span id="_Toc524012651" class="anchor"></span>Form 59
+### Form 59
 
 **NOTICE OF APPEAL**
 
@@ -5821,7 +5819,7 @@ Name of appellant
 **
 **
 
-<span id="_Toc524012652" class="anchor"></span>Form 60
+### Form 60
 
 **NOTICE OF HEARING OF APPEAL**
 
@@ -5842,7 +5840,7 @@ Dated this day of , 20
 **
 **
 
-<span id="_Toc524012653" class="anchor"></span>Form 61
+### Form 61
 
 **APPLICATION FOR VARIATION OF MODE OF SERVICE OF DOCUMENTS UNDER RULE 21 OF THE COMMUNITY DISPUTES RESOLUTION TRIBUNALS RULES 2015**
 
@@ -5899,7 +5897,7 @@ Dated this day of , 20
 
 **\* *Delete where inapplicable***
 
-<span id="_Toc524012654" class="anchor"></span>Form 62
+### Form 62
 
 **APPLICATION FOR REDACTION OF INFORMATION**
 
@@ -5931,7 +5929,7 @@ The Name and Residential Address of the Plaintiff / Respondent shall NOT be reda
 
 **\* *Delete where inapplicable***
 
-<span id="_Toc524012655" class="anchor"></span>Form 63
+### Form 63
 
 **WRITTEN CONSENT FOR WITHDRAWAL OF ACTION**
 
@@ -5967,7 +5965,7 @@ Name of Respondent: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **\* *Delete where inapplicable***
 
-<span id="_Toc524012656" class="anchor"></span>Form 64
+### Form 64
 
 **APPLICATION FORM - GENERAL**
 
@@ -5994,7 +5992,7 @@ Name of Respondent: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **\* *Delete where inapplicable***
 
-<span id="_Toc524012657" class="anchor"><span id="_Toc418759458" class="anchor"><span id="AppendixC" class="anchor"></span></span></span>Form 65
+### Form 65
 
 **EMPLOYMENT CLAIMS TRIBUNALS**
 
@@ -6743,8 +6741,7 @@ Dated this day of , 20
 
 \# This form requires sealing by the Court and the signature of the Registrar / Tribunal.
 
-**
-Form 75**
+### Form 75
 
 **EMPLOYMENT CLAIMS TRIBUNALS**
 
@@ -8054,7 +8051,7 @@ Name of respondent
 
 (\**delete as appropriate*)
 
-## Appendix B - Guidelines for Court Dispute Resolution for Non-Injury Motor Accident Claims and Personal Injury Claims
+## Appendix B: Guidelines for Court Dispute Resolution for Non-Injury Motor Accident Claims and Personal Injury Claims
 
 **1. Introduction**
 
@@ -8330,11 +8327,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 | *Date and brief description of the Accident *                                                                                                         |
 |                                                                                                                                                       |                                                                                                                    |
 
-<span id="_Toc418079765" class="anchor"><span id="_Toc467084233" class="anchor"><span id="_Toc374698891" class="anchor"></span></span></span> Appendix C
-========================================================================================================================================================
-
-<span id="_Toc418079766" class="anchor"></span>**Pre-action Protocol for
-Non-Injury Motor Accident Cases**
+## Appendix C: Pre-action Protocol for Non-Injury Motor Accident Cases
 
 1. **Application**
 
@@ -8556,8 +8549,7 @@ Non-Injury Motor Accident Cases**
 
 15.2 Should Court proceedings be commenced to prevent the operation of the time bar under the Limitation Act (Cap.163), the Court may nevertheless stay the action thereafter to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
 
-**
-**<span id="_Toc467084234" class="anchor"></span>**Form 1**
+**Form 1**
 
 **Sample Notice of Accident (To Be Copied to the Insurer)**
 
@@ -8583,8 +8575,7 @@ cc \[Defendant’s insurer\]
 
 (*Note*: This sample letter, with the necessary modifications, can also be used as a sample letter to the defendant’s insurer.)
 
-**
-**<span id="_Toc467084235" class="anchor"><span id="_Toc418759465" class="anchor"></span></span>**Form 2**
+**Form 2**
 
 **Sample Insurer’s Reply to Notice of Accident**
 
@@ -8608,7 +8599,7 @@ Please let us know within two (2) working days whether you agree to the appointm
 
 Yours faithfully,
 
-<span id="_Toc467084236" class="anchor"></span>**Form 3**
+**Form 3**
 
 **Sample Letter of Claim to Defendant**
 
@@ -8649,8 +8640,7 @@ encs
 
 (Note: This sample letter, with the necessary modifications, can also be used as a sample letter to the defendant’s insurer.)
 
-**
-**<span id="_Toc418759466" class="anchor"><span id="_Toc467084237" class="anchor"></span></span>**Form 4**
+**Form 4**
 
 **Sample Acknowledgement of Letter of Claim**
 
@@ -8679,8 +8669,7 @@ Yours faithfully,
 
 cc \[Other defendants and their insurers\]
 
-**
-**<span id="_Toc418759467" class="anchor"><span id="_Toc467084238" class="anchor"></span></span>**Form 4A**
+**Form 4A**
 
 **Sample Letter of Offer**
 
@@ -8707,9 +8696,9 @@ Yours faithfully,
 
 Cc \[Other defendants and their insurers\]
 
-<span id="_Toc418759468" class="anchor"></span>
 
-<span id="_Toc467084239" class="anchor"></span>**Form 5**
+
+**Form 5**
 
 **Sample Letter by Claimant before Issue of Writ of Summons**
 
@@ -8730,7 +8719,7 @@ Yours faithfully,
 
 cc. \[Other defendants and their insurers\]
 
-<span id="_Toc418759469" class="anchor"><span id="_Toc467084240" class="anchor"></span></span>**Form 6**
+**Form 6**
 
 **WRIT OF SUMMONS**
 
@@ -8756,124 +8745,121 @@ And the plaintiff claims:
 
 (3) costs; etc.
 
-<span id="_Toc524012660" class="anchor"><span id="_Toc418079767" class="anchor"><span id="_Toc374698897" class="anchor"></span></span></span>Appendix D
-=======================================================================================================================================================
+## Appendix D: Protocol for Medical Negligence Claims
 
-**PROTOCOL FOR MEDICAL NEGLIGENCE CLAIMS**<span id="appendix_fa_annex_a_htm" class="anchor"></span>
+### Part One: Pre-Action Specific Discovery of Documents**
 
-**PART ONE: PRE-ACTION SPECIFIC DISCOVERY OF DOCUMENTS**
+#### 1. **Application**
 
-1. **Application**
+1.1 The aim of Part One of the Protocol for Medical Negligence Claims (“the protocol”) is to prescribe a framework for pre-writ exchange of documents, information and communication with a view to resolve medical negligence disputes arising out of a negligent act or omission in the course of medical or dental treatment without protracted litigation and to maintain/restore the patient/healthcare provider relationship.
 
-> 1.1 The aim of Part One of the Protocol for Medical Negligence Claims (“the protocol”) is to prescribe a framework for pre-writ exchange of documents, information and communication with a view to resolve medical negligence disputes arising out of a negligent act or omission in the course of medical or dental treatment without protracted litigation and to maintain/restore the patient/healthcare provider relationship.
->
-> 1.2 Part One of the protocol will apply from the time a potential claimant contemplates filing a medical negligence claim in Court. Prior to such time, either party is at liberty to communicate, correspond or negotiate with the opposing party in any manner they see fit.
->
-> 1.3 This protocol does not affect any privilege that may apply to communication between parties undertaken in compliance with it (including medical reports and medical records furnished to the claimant’s solicitor by the doctor and/or the hospital (“health care provider”) pursuant to this protocol).     
->
-> 1.4 For avoidance of doubt, this protocol equally applies to actions arising from dental treatments.
+1.2 Part One of the protocol will apply from the time a potential claimant contemplates filing a medical negligence claim in Court. Prior to such time, either party is at liberty to communicate, correspond or negotiate with the opposing party in any manner they see fit.
 
-2. **Letter of request for medical report and other related medical records**
+1.3 This protocol does not affect any privilege that may apply to communication between parties undertaken in compliance with it (including medical reports and medical records furnished to the claimant’s solicitor by the doctor and/or the hospital (“health care provider”) pursuant to this protocol).     
 
-> 2.1 Generally, to enable the claimant to consider whether he has a viable cause of action against the health care provider for medical negligence, a medical report and medical records of the patient from the health care provider are essential. The application for the medical report and medical records that may be necessary for the claimant and/or his solicitor to ascertain if there is a cause of action should be made by letter (see Form 1 below) setting out briefly the basis of the claim and the nature of the information sought in the medical report, including:
->
+1.4 For avoidance of doubt, this protocol equally applies to actions arising from dental treatments.
+
+#### 2. **Letter of request for medical report and other related medical records**
+
+2.1 Generally, to enable the claimant to consider whether he has a viable cause of action against the health care provider for medical negligence, a medical report and medical records of the patient from the health care provider are essential. The application for the medical report and medical records that may be necessary for the claimant and/or his solicitor to ascertain if there is a cause of action should be made by letter (see Form 1 below) setting out briefly the basis of the claim and the nature of the information sought in the medical report, including:
+
 > (a) symptoms presented by the claimant or the deceased (where the patient has passed away and the claimant is the deceased’s next-of-kin or executor or administrator of his estate) prior to treatment;
->
+
 > (b) clinical findings;
->
+
 > (c) diagnosis;
->
+
 > (d) treatment prescribed, whether there are risks in such treatment and if so, when and how such risks were communicated to the claimant or the deceased and/or his next-of-kin;
->
+
 > (e) whether alternatives to the prescribed treatment were disclosed to the claimant or the deceased and/or his next-of-kin and if so, why the prescribed treatment was preferred over these alternatives;
->
+
 > (f) assessment of the claimant’s or the deceased's condition at the last consultation and the cause of such condition or the cause of the deceased’s death;
->
+
 > (g) prognosis and recommended future treatment, if available.
->
-> 2.2 The above guidelines on the contents of the medical report are meant to ensure that the report is as comprehensive as possible. Depending on the facts and nature of the medical management in each case, the contents of the medical report may be suitably modified. The application for the medical report may be dispensed with where the harm caused to the patient is res ipsa loquitur.
->
-> 2.3 If the claimant and/or his solicitor wish to obtain copies of medical records from the health care provider, this should also be made clear in the letter. The various types of medical records that the claimant and/or his solicitor may seek from the health care provider are set out in Form 1. The medical records listed in Form 1 are not exhaustive, but act as guides. The claimant and/or his solicitor may request any other medical records that are relevant and necessary for the claim, which can depend on the nature and focus of the complaint, the type of medical treatment rendered and advice sought as well as whether the health care provider is a doctor or hospital.
->
-> 2.4 The application for the medical report and medical records should be accompanied by the claimant’s letter (see Form 1A below) authorising the health care provider to release the medical report and medical reports to the claimant’s solicitor.
->
-> 2.5 Within 7 days of receipt of the application, the health care provider shall inform the claimant what the requisite charges are for the medical report and medical records.
->
-> 2.6 The medical report and medical records should be provided to the claimant within 6 weeks upon payment of the requisite charges. The claimant may where necessary, seek further information or clarification from the health care provider on any aspect of the report, in which case, the health care provider should respond within 4 weeks from receipt of the further request.
->
-> 2.7 If the health care provider has difficulty complying with the timeline prescribed above, the problem and reason for the difficulty must be explained to the claimant in writing and the necessary extension of time sought.
->
-> 2.8 If the health care provider fails to provide the requisite medical report, medical records and/or clarification within the timeline prescribed above or agreed extension period, the claimant may proceed to apply to the Court for an order for pre-action discovery under Order 24 Rule 6 of the Rules of Court (Cap. 322, R 5), without further notice to the health care provider. The Court will take into account any unreasonable delay in providing the medical report, medical records and/or clarification when considering the issue of costs.
->
-> 3. **Letter of request for discussion**
->
-> 3.1 Upon receipt of the medical report and/or medical records and before commencement of legal proceedings, the claimant is to write to the health care provider against whom he intends to pursue his claim to arrange for a without prejudice discussion (see Form 2 below). The health care provider must respond within 14 days after receipt of the letter, proposing a date and time for the meeting which should be held within 2 months from the date of the letter of request. This important step opens additional channels of communication between the health care provider and claimant, affording the health care provider an opportunity to explain medical procedures to the claimant and for the claimant to clarify with the health care provider any queries or doubts which he may have. Quite often, legal proceedings are taken because of miscommunication between the health care provider and patient or because the patient interprets a perceived lack of information and empathy as lack of due care and attention on the part of the health care provider. Hence, such discussions may pave the way for an amicable resolution of the claim. To facilitate the discussion, either party may in suitable cases, engage a separate or joint third party medical opinion on the medical management provided.
->
-> 3.2 The letter to the health care provider is to be sent by way of A R Registered mail or by hand (in which case an acknowledgment of receipt should be obtained).
->
-> 3.3 If the health care provider fails to propose a date and time for the meeting within the requisite 14 days or if without reasonable cause, the meeting is not held within the requisite 2 months, the claimant may commence proceedings without any sanction by the Court.
 
-4. **Negotiation**
+2.2 The above guidelines on the contents of the medical report are meant to ensure that the report is as comprehensive as possible. Depending on the facts and nature of the medical management in each case, the contents of the medical report may be suitably modified. The application for the medical report may be dispensed with where the harm caused to the patient is res ipsa loquitur.
 
-> 4.1 After the initial discussion, the parties are at liberty to correspond or negotiate with each other in any manner they see fit with a view to resolving the matter amicably at the earliest opportunity. Litigation should not be commenced prematurely if there are reasonable prospects for resolution. Where reasonable effort has been made without reasonable prospects of resolution, and after the expiry of 2 months from the date of request for a without prejudice discussion, save where paragraph 3.3 applies, the claimant must give 10 clear days’ notice, by letter (see Form 3 below) to the potential defendant of his intention to proceed with a writ. He is also to inform each potential defendant, to the best of his knowledge, the names of all the parties he is contemplating to sue.
->
-> 4.2 Where the claim is affected by limitation and/or the claimant's position needs to be protected by the early commencement of an action, the claimant need only comply with this protocol as far as he is able.
+2.3 If the claimant and/or his solicitor wish to obtain copies of medical records from the health care provider, this should also be made clear in the letter. The various types of medical records that the claimant and/or his solicitor may seek from the health care provider are set out in Form 1. The medical records listed in Form 1 are not exhaustive, but act as guides. The claimant and/or his solicitor may request any other medical records that are relevant and necessary for the claim, which can depend on the nature and focus of the complaint, the type of medical treatment rendered and advice sought as well as whether the health care provider is a doctor or hospital.
 
-**PART TWO: COMMENCEMENT OF SUIT AND PRE-TRIAL PROCEEDINGS**
+2.4 The application for the medical report and medical records should be accompanied by the claimant’s letter (see Form 1A below) authorising the health care provider to release the medical report and medical reports to the claimant’s solicitor.
 
-5. **Application**
+2.5 Within 7 days of receipt of the application, the health care provider shall inform the claimant what the requisite charges are for the medical report and medical records.
 
-> 5.1 Part Two of the protocol relates to the commencement of proceedings for medical negligence and the pre-trial procedures in such cases.
+2.6 The medical report and medical records should be provided to the claimant within 6 weeks upon payment of the requisite charges. The claimant may where necessary, seek further information or clarification from the health care provider on any aspect of the report, in which case, the health care provider should respond within 4 weeks from receipt of the further request.
 
-6. **Filing of medical reports and lists of documents**
+2.7 If the health care provider has difficulty complying with the timeline prescribed above, the problem and reason for the difficulty must be explained to the claimant in writing and the necessary extension of time sought.
 
-> 6.1 A claimant commencing a medical negligence suit in Court is required under Order 18 Rule 12(1A) to file and serve a medical report and a statement of the special damages claimed with the Statement of Claim. The medical report(s) should include expert report(s) that the claimant intends to rely on.
->
-> 6.2 The defendant is also required to file and serve a medical report within 6 weeks after the filing of the memorandum of appearance.
->
-> 6.3 For cases that are subject to the simplified process under Order 108 of the Rules of Court (Magistrate’s Court cases filed on or after 1st November 2014 and by consent, District Court cases filed on or after 1st November 2014), each party is required to file and serve a list of documents together with the relevant pleading on the other party within the time limited for the service of such pleading under Order 108 Rule 2(4) of the Rules of Court.
->
-> 6.4 For cases that are not subject to the simplified process, if there are documents other than the medical report filed with a claimant's pleading and the medical report that will be filed by a defendant under paragraph 6.2 which are:
+2.8 If the health care provider fails to provide the requisite medical report, medical records and/or clarification within the timeline prescribed above or agreed extension period, the claimant may proceed to apply to the Court for an order for pre-action discovery under Order 24 Rule 6 of the Rules of Court (Cap. 322, R 5), without further notice to the health care provider. The Court will take into account any unreasonable delay in providing the medical report, medical records and/or clarification when considering the issue of costs.
+
+#### 3. **Letter of request for discussion**
+
+3.1 Upon receipt of the medical report and/or medical records and before commencement of legal proceedings, the claimant is to write to the health care provider against whom he intends to pursue his claim to arrange for a without prejudice discussion (see Form 2 below). The health care provider must respond within 14 days after receipt of the letter, proposing a date and time for the meeting which should be held within 2 months from the date of the letter of request. This important step opens additional channels of communication between the health care provider and claimant, affording the health care provider an opportunity to explain medical procedures to the claimant and for the claimant to clarify with the health care provider any queries or doubts which he may have. Quite often, legal proceedings are taken because of miscommunication between the health care provider and patient or because the patient interprets a perceived lack of information and empathy as lack of due care and attention on the part of the health care provider. Hence, such discussions may pave the way for an amicable resolution of the claim. To facilitate the discussion, either party may in suitable cases, engage a separate or joint third party medical opinion on the medical management provided.
+
+3.2 The letter to the health care provider is to be sent by way of A R Registered mail or by hand (in which case an acknowledgment of receipt should be obtained).
+
+3.3 If the health care provider fails to propose a date and time for the meeting within the requisite 14 days or if without reasonable cause, the meeting is not held within the requisite 2 months, the claimant may commence proceedings without any sanction by the Court.
+
+#### 4. **Negotiation**
+
+4.1 After the initial discussion, the parties are at liberty to correspond or negotiate with each other in any manner they see fit with a view to resolving the matter amicably at the earliest opportunity. Litigation should not be commenced prematurely if there are reasonable prospects for resolution. Where reasonable effort has been made without reasonable prospects of resolution, and after the expiry of 2 months from the date of request for a without prejudice discussion, save where paragraph 3.3 applies, the claimant must give 10 clear days’ notice, by letter (see Form 3 below) to the potential defendant of his intention to proceed with a writ. He is also to inform each potential defendant, to the best of his knowledge, the names of all the parties he is contemplating to sue.
+
+4.2 Where the claim is affected by limitation and/or the claimant's position needs to be protected by the early commencement of an action, the claimant need only comply with this protocol as far as he is able.
+
+### Part Two: COMMENCEMENT OF SUIT AND PRE-TRIAL PROCEEDINGS**
+
+#### 5. **Application**
+
+5.1 Part Two of the protocol relates to the commencement of proceedings for medical negligence and the pre-trial procedures in such cases.
+
+#### 6. **Filing of medical reports and lists of documents**
+
+6.1 A claimant commencing a medical negligence suit in Court is required under Order 18 Rule 12(1A) to file and serve a medical report and a statement of the special damages claimed with the Statement of Claim. The medical report(s) should include expert report(s) that the claimant intends to rely on.
+
+6.2 The defendant is also required to file and serve a medical report within 6 weeks after the filing of the memorandum of appearance.
+
+6.3 For cases that are subject to the simplified process under Order 108 of the Rules of Court (Magistrate’s Court cases filed on or after 1st November 2014 and by consent, District Court cases filed on or after 1st November 2014), each party is required to file and serve a list of documents together with the relevant pleading on the other party within the time limited for the service of such pleading under Order 108 Rule 2(4) of the Rules of Court.
+
+6.4 For cases that are not subject to the simplified process, if there are documents other than the medical report filed with a claimant's pleading and the medical report that will be filed by a defendant under paragraph 6.2 which are:
 >
 > (a) documents on which a party relies or will rely; and
 >
 > (b) documents which could —
->
-> (i) adversely affect a party's own case;
->
-> (ii) adversely affect another party’s case; or
->
-> (iii) support another party’s case,
->
-> that party is required to file and serve a list of documents on the other party within 6 weeks after the filing of the memorandum of appearance using Form 37 of Appendix A of the Rules of Court.
 
-7. **Steps to be taken after close of pleadings**
+>> (i) adversely affect a party's own case;
 
-> 7.1 In order to encourage parties to delineate undisputed facts and issues at an early stage, parties are required to file a list of undisputed facts and issues 2 weeks after the close of pleadings or as directed by the Court.
->
-> 7.2 Currently, a party may file a notice to admit facts under Order 27 Rule 2 of the Rules of Court only after a matter is set down for trial. For medical negligence cases, such a notice to admit may be served at any time after the close of pleadings.
+>> (ii) adversely affect another party’s case; or
 
-8. **CDR session**
+>> (iii) support another party’s case,
 
-> 8.1 For all medical negligence cases that are filed in Court, the Court will convene the first CDR session under Order 34A of the Rules of Court within 2 weeks after the filing of the memorandum of appearance.
->
-> 8.2 At the first CDR session, parties will explore the possibility of resolving the case by mediation, neutral evaluation, conciliation or other forms of CDR under the prevailing CDR framework. Solicitors for all parties seeking an indication on liability must submit a duly completed “Liability Indication Form (Medical Negligence Claims)” (see Form 4 below) to the Court at the CDR session. Whether or not an indication on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an indication on quantum. Solicitors requesting for an indication on quantum must obtain each other’s consent before the CDR session, and submit the duly completed Quantum Indication Form (i.e. Form 9B in Appendix A) to the Court.
->
-> 8.3 No directions for general discovery will be given as most discovery of documents would have taken place at the pre-action stage and pleadings stage. However, parties may apply for specific discovery as provided for under the Rules of Court.
->
-> 8.4 The Court may, where appropriate, appoint a medical professional to co-mediate at the CDR session.
+that party is required to file and serve a list of documents on the other party within 6 weeks after the filing of the memorandum of appearance using Form 37 of Appendix A of the Rules of Court.
 
-9. **Compliance with the protocol**
+#### 7. **Steps to be taken after close of pleadings**
 
-> 9.1 In the interest of saving time and costs, claimants are expected to use this protocol as a checklist on the required steps to be taken before commencing court proceedings and during pre-trial proceedings. Parties must comply with the terms of the protocol in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the protocol insofar as they are able.
->
-> 9.2 In exercising its discretion and powers, the Court will have regard to compliance with this protocol or lack thereof, including staying an action for the party in default to comply with the protocol, and in determining the amount of costs to be awarded under Order 59 Rule 5 of the Rules of Court.
+7.1 In order to encourage parties to delineate undisputed facts and issues at an early stage, parties are required to file a list of undisputed facts and issues 2 weeks after the close of pleadings or as directed by the Court.
+
+7.2 Currently, a party may file a notice to admit facts under Order 27 Rule 2 of the Rules of Court only after a matter is set down for trial. For medical negligence cases, such a notice to admit may be served at any time after the close of pleadings.
+
+#### 8. **CDR session**
+
+8.1 For all medical negligence cases that are filed in Court, the Court will convene the first CDR session under Order 34A of the Rules of Court within 2 weeks after the filing of the memorandum of appearance.
+
+8.2 At the first CDR session, parties will explore the possibility of resolving the case by mediation, neutral evaluation, conciliation or other forms of CDR under the prevailing CDR framework. Solicitors for all parties seeking an indication on liability must submit a duly completed “Liability Indication Form (Medical Negligence Claims)” (see Form 4 below) to the Court at the CDR session. Whether or not an indication on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an indication on quantum. Solicitors requesting for an indication on quantum must obtain each other’s consent before the CDR session, and submit the duly completed Quantum Indication Form (i.e. Form 9B in Appendix A) to the Court.
+
+8.3 No directions for general discovery will be given as most discovery of documents would have taken place at the pre-action stage and pleadings stage. However, parties may apply for specific discovery as provided for under the Rules of Court.
+
+8.4 The Court may, where appropriate, appoint a medical professional to co-mediate at the CDR session.
+
+#### 9. **Compliance with the protocol**
+
+9.1 In the interest of saving time and costs, claimants are expected to use this protocol as a checklist on the required steps to be taken before commencing court proceedings and during pre-trial proceedings. Parties must comply with the terms of the protocol in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the protocol insofar as they are able.
+
+9.2 In exercising its discretion and powers, the Court will have regard to compliance with this protocol or lack thereof, including staying an action for the party in default to comply with the protocol, and in determining the amount of costs to be awarded under Order 59 Rule 5 of the Rules of Court.
 >
 > 9.3 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default.
 
-<span id="appendix_fa_form_1_htm" class="anchor"><span id="_Toc374698899" class="anchor"><span id="_Toc418079771" class="anchor"><span id="_Toc494477895" class="anchor"><span id="_Toc524012661" class="anchor"></span></span></span></span></span>Form 1
+### Form 1
 
-<span id="_Toc243995954" class="anchor"><span id="_Toc418079772" class="anchor"></span></span>**Sample Letter of Request for Medical Report and Medical Records**
+**Sample Letter of Request for Medical Report and Medical Records**
 
 To: Medical Records Officer
 
@@ -8943,9 +8929,9 @@ Please let us know within 7 days from the receipt of this letter the requisite c
 
 Yours faithfully,
 
-<span id="appendix_fa_form_1a_htm" class="anchor"><span id="_Toc374698900" class="anchor"><span id="_Toc418079773" class="anchor"><span id="_Toc494477896" class="anchor"><span id="_Toc524012662" class="anchor"></span></span></span></span></span>Form 1A
+### Form 1A
 
-<span id="_Toc243995956" class="anchor"><span id="_Toc418079774" class="anchor"></span></span>**Sample Letter of Authorisation**
+**Sample Letter of Authorisation**
 
 Date:
 
@@ -8957,9 +8943,9 @@ I, \[full name and NRIC or passport number\] being the abovenamed patient *\[bei
 
 Signature:
 
-<span id="appendix_fa_form_2_htm" class="anchor"><span id="_Toc374698901" class="anchor"><span id="_Toc418079775" class="anchor"><span id="_Toc494477897" class="anchor"><span id="_Toc524012663" class="anchor"></span></span></span></span></span>Form 2
+### Form 2
 
-<span id="_Toc243995958" class="anchor"><span id="_Toc418079776" class="anchor"></span></span>**Sample Letter of Request for Discussion**
+**Sample Letter of Request for Discussion**
 
 To: Head *without prejudice save as to costs*
 
@@ -8987,11 +8973,11 @@ All communications arising out of this meeting will be treated in strict confide
 
 Yours faithfully,
 
-cc. \[name of the defendant doctor(s)\]<span id="appendix_fa_form_3_htm" class="anchor"><span id="_Toc374698902" class="anchor"></span></span>
+cc. \[name of the defendant doctor(s)\]
 
-<span id="_Toc494477898" class="anchor"><span id="_Toc524012664" class="anchor"></span></span>Form 3
+### Form 3
 
-<span id="_Toc243995960" class="anchor"><span id="_Toc418079777" class="anchor"></span></span>**Sample Letter by Claimant Before Issue of Writ of Summons**
+**Sample Letter by Claimant Before Issue of Writ of Summons**
 
 To: Head
 
@@ -9015,7 +9001,7 @@ Yours faithfully,
 
 cc. \[name of the defendant doctor(s)\]
 
-<span id="_Toc498004834" class="anchor"><span id="_Toc524012665" class="anchor"></span></span>Form 4
+### Form 4
 
 **LIABILITY INDICATION FORM
 (MEDICAL NEGLIGENCE CLAIMS)**
@@ -9064,10 +9050,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
  
 
-<span id="_Toc418079778" class="anchor"><span id="_Toc524012666" class="anchor"></span></span>Appendix E
-========================================================================================================
-
-> **PRE-ACTION PROTOCOL FOR PERSONAL INJURY CLAIMS**
+## Appendix E: Pre-Action Protocol for Personal Injury Claims
 
 **1. Application**
 
@@ -9682,7 +9665,7 @@ The duty of the single joint expert, like any other medical expert, is similarly
 > (e) A doctor may only provide opinions in relation to matters that lie within his own expertise and make it clear when a question or issue falls outside his expertise. In the case when he is not able to reach a definite opinion, for example, because he has insufficient information, he should state the extent to which any opinion given by him is provisional or qualified by further information or facts.
 
 Appendix F
-==========
+
 
 **BENCHMARK RATES FOR COST OF RENTAL AND LOSS OF USE**
 
@@ -9761,10 +9744,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
  
 
-<span id="_Toc524012668" class="anchor"><span id="_Toc374698911" class="anchor"></span></span>Appendix G
-========================================================================================================
-
-<span id="_Toc418079784" class="anchor"></span>SAMPLE BILLS OF COSTS
+## Appendix G: Sample Bill of Costs
 
 <span id="appendix_h_sample_a_htm" class="anchor"><span id="_Toc418079785" class="anchor"><span id="_Toc524012669" class="anchor"><span id="_Toc374698912" class="anchor"></span></span></span></span>Sample A
 
@@ -10224,12 +10204,7 @@ Dated this day of 20 .
 
 To: 
 
-<span id="_Toc524012672" class="anchor"><span id="_Toc418079794" class="anchor"><span id="_Toc374698917" class="anchor"></span></span></span>Appendix H
-=======================================================================================================================================================
-
-<span id="_Toc418079795" class="anchor"></span>GUIDELINES FOR PARTIES USING EARLY EXPERT PRE-TRIAL CONFERENCE
-
-<span id="appendix_j_appendix_j_htm" class="anchor"></span>
+## Appendix H: Guidelines for Parties using Early Expert Pre-Trial Conference
 
 1.  An EPTC can be held for the following non-exhaustive list of common areas in dispute:
 
@@ -10270,16 +10245,9 @@ To: 
 5. At the EPTC hearing, the Court may pursuant to Order 34A of the Rules of Court exercise all powers to make orders and give directions for the just, expeditious and economical disposal of proceedings. Such orders may include extensions of time to file and serve pleadings, the appointment of a single joint expert, the appointment of a limited number of experts for each party and such other orders necessary for the effective management of expert issues.
 
  
+## Appendix I: Discovery and Inspection of Electronic Documents
 
-<span id="_Toc524012673" class="anchor"><span id="_Toc418079796" class="anchor"><span id="_Toc374698923" class="anchor"></span></span></span>Appendix I
-=======================================================================================================================================================
-
-<span id="_Toc418079797" class="anchor"></span>DISCOVERY AND INSPECTION OF
-ELECTRONIC DOCUMENTS
-
-<span id="appendix_m_part_1_htm" class="anchor"><span id="_Toc524012674" class="anchor"><span id="_Toc374698924" class="anchor"><span id="_Toc418079798" class="anchor"></span></span></span></span>Part 1
-
-**Agreed electronic discovery protocol**
+### Part 1: Agreed electronic discovery protocol
 
 **(1) Scope of electronic discovery**
 
@@ -10329,9 +10297,7 @@ ELECTRONIC DOCUMENTS
 
 > For the avoidance of doubt, nothing in this protocol shall compel any party to give discovery of any document or produce any document for inspection which is not otherwise discoverable under Order 24, Rules 7 or 13 of the Rules of Court.
 
-<span id="appendix_m_part_2_htm" class="anchor"><span id="_Toc418079799" class="anchor"><span id="_Toc524012675" class="anchor"><span id="_Toc374698925" class="anchor"></span></span></span></span>Part 2
-
-<span id="_Toc418079800" class="anchor"></span>**Protocol for Inspection of Computer Databases and Electronic Media or Recording Devices**
+### Part 2: Protocol for Inspection of Computer Databases and Electronic Media or Recording Devices
 
 **(1) Appointment of computer experts**
 
@@ -10425,9 +10391,7 @@ ELECTRONIC DOCUMENTS
 >
 > For the avoidance of doubt, nothing in this protocol shall compel any party to give discovery of any document or produce any document for inspection which is not otherwise discoverable under Order 24, Rules 7 or 13 of the Rules of Court.
 
-<span id="appendix_m_part_3_htm" class="anchor"><span id="_Toc374698926" class="anchor"><span id="_Toc418079801" class="anchor"><span id="_Toc524012676" class="anchor"></span></span></span></span>Part 3
-
-<span id="_Toc418079802" class="anchor"></span>Reasonably Usable Formats
+### Part 3: Reasonably Usable Formats
 
 | **File Format**                                      | **Version**                                                                     |
 |------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -10472,31 +10436,25 @@ ELECTRONIC DOCUMENTS
 
  
 
-<span id="_Toc422158494" class="anchor"><span id="_Toc524012677" class="anchor"></span></span>Appendix J
-========================================================================================================
-
-UPLOADING REDACTED CHARGES UNDER PRACTICE DIRECTION 138
+## Appendix J: Uploading Redacted Charges under Practice Direction 138
 
 **ILLUSTRATION I - Uploading a copy of a redacted charge into the ICMS**
 
-**Step 1:** Select the **Add Document Icon** <img src="media/image4.png" width="28" height="19" /> of the relevant charge in the ***Redacted Document*** Tab.
+**Step 1:** Select the **Add Document Icon** <img src="assets/app-j-step-1-icon.png" width="28" height="19" /> of the relevant charge in the ***Redacted Document*** Tab.
 
-<img src="media/image5.png" width="601" height="160" />
+<img src="assets/app-j-step-1.png" width="601" height="160" />
 
 **Step 2:** Click on “Add Files”, select the redacted document to be uploaded and click “Start upload”. Click “Save” thereafter.
 
-<img src="media/image6.png" width="601" height="359" />
+<img src="assets/app-j-step-2a.png" width="601" height="359" />
 
-<img src="media/image7.png" width="601" height="364" />
+<img src="assets/app-j-step-2b.png" width="601" height="364" />
 
 **Step 3:** The redacted charge sheet will be uploaded successfully in the ICMS as shown below.
 
-<img src="media/image8.png" width="601" height="163" />
+<img src="assets/app-j-step-3.png" width="601" height="163" />
 
-Appendix K
-==========
-
-**PRE-ACTION PROTOCOL FOR DEFAMATION ACTIONS**
+## Appendix K - Pre-Action Protocol for Defamation Actions
 
 1.  **APPLICATION**
 
