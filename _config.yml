@@ -23,7 +23,7 @@ section_order:
   - "Part XIX: Community Disputes Resolution"
   - "Part XX: Employment Claims"
   - "Part XXI: Defamation Actions"
-  - "Appendix A"
+  - "Appendices"
 elastic_search:
   index: intro_index
   doctype: bare

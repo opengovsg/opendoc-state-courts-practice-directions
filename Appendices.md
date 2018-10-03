@@ -1,8 +1,7 @@
-# Appendix A
+# Appendices
 
-<span id="_Toc524012575" class="anchor"></span>FORMS
-
-<span id="form4" class="anchor"><span id="_Toc524012576" class="anchor"><span id="_Toc66445300" class="anchor"><span id="_Toc81709855" class="anchor"><span id="_Toc81710580" class="anchor"><span id="_Toc81717489" class="anchor"><span id="_Toc122854340" class="anchor"><span id="_Toc122854701" class="anchor"><span id="_Toc243995784" class="anchor"><span id="_Toc418079699" class="anchor"></span></span></span></span></span></span></span></span></span></span>Form 1
+## Appendix A: Forms
+Form 1
 
 **\[Deleted\]**
 
@@ -8055,10 +8054,7 @@ Name of respondent
 
 (\**delete as appropriate*)
 
-APPENDIX B
-==========
-
-**GUIDELINES FOR COURT DISPUTE RESOLUTION FOR NON-INJURY MOTOR ACCIDENT CLAIMS AND PERSONAL INJURY CLAIMS**
+## Appendix B - Guidelines for Court Dispute Resolution for Non-Injury Motor Accident Claims and Personal Injury Claims
 
 **1. Introduction**
 
@@ -8334,7 +8330,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 | *Date and brief description of the Accident *                                                                                                         |
 |                                                                                                                                                       |                                                                                                                    |
 
-<span id="_Toc418079765" class="anchor"><span id="_Toc467084233" class="anchor"><span id="_Toc374698891" class="anchor"></span></span></span> APPENDIX C
+<span id="_Toc418079765" class="anchor"><span id="_Toc467084233" class="anchor"><span id="_Toc374698891" class="anchor"></span></span></span> Appendix C
 ========================================================================================================================================================
 
 <span id="_Toc418079766" class="anchor"></span>**Pre-action Protocol for
@@ -8760,7 +8756,7 @@ And the plaintiff claims:
 
 (3) costs; etc.
 
-<span id="_Toc524012660" class="anchor"><span id="_Toc418079767" class="anchor"><span id="_Toc374698897" class="anchor"></span></span></span>APPENDIX D
+<span id="_Toc524012660" class="anchor"><span id="_Toc418079767" class="anchor"><span id="_Toc374698897" class="anchor"></span></span></span>Appendix D
 =======================================================================================================================================================
 
 **PROTOCOL FOR MEDICAL NEGLIGENCE CLAIMS**<span id="appendix_fa_annex_a_htm" class="anchor"></span>
@@ -9068,7 +9064,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
  
 
-<span id="_Toc418079778" class="anchor"><span id="_Toc524012666" class="anchor"></span></span>APPENDIX E
+<span id="_Toc418079778" class="anchor"><span id="_Toc524012666" class="anchor"></span></span>Appendix E
 ========================================================================================================
 
 > **PRE-ACTION PROTOCOL FOR PERSONAL INJURY CLAIMS**
@@ -9685,7 +9681,7 @@ The duty of the single joint expert, like any other medical expert, is similarly
 
 > (e) A doctor may only provide opinions in relation to matters that lie within his own expertise and make it clear when a question or issue falls outside his expertise. In the case when he is not able to reach a definite opinion, for example, because he has insufficient information, he should state the extent to which any opinion given by him is provisional or qualified by further information or facts.
 
-APPENDIX F
+Appendix F
 ==========
 
 **BENCHMARK RATES FOR COST OF RENTAL AND LOSS OF USE**
@@ -9765,7 +9761,7 @@ The benchmark rates in this Appendix shall apply to claims for rental and loss o
 
  
 
-<span id="_Toc524012668" class="anchor"><span id="_Toc374698911" class="anchor"></span></span>APPENDIX G
+<span id="_Toc524012668" class="anchor"><span id="_Toc374698911" class="anchor"></span></span>Appendix G
 ========================================================================================================
 
 <span id="_Toc418079784" class="anchor"></span>SAMPLE BILLS OF COSTS
@@ -10228,7 +10224,7 @@ Dated this day of 20 .
 
 To: 
 
-<span id="_Toc524012672" class="anchor"><span id="_Toc418079794" class="anchor"><span id="_Toc374698917" class="anchor"></span></span></span>APPENDIX H
+<span id="_Toc524012672" class="anchor"><span id="_Toc418079794" class="anchor"><span id="_Toc374698917" class="anchor"></span></span></span>Appendix H
 =======================================================================================================================================================
 
 <span id="_Toc418079795" class="anchor"></span>GUIDELINES FOR PARTIES USING EARLY EXPERT PRE-TRIAL CONFERENCE
@@ -10275,7 +10271,7 @@ To: 
 
  
 
-<span id="_Toc524012673" class="anchor"><span id="_Toc418079796" class="anchor"><span id="_Toc374698923" class="anchor"></span></span></span>APPENDIX I
+<span id="_Toc524012673" class="anchor"><span id="_Toc418079796" class="anchor"><span id="_Toc374698923" class="anchor"></span></span></span>Appendix I
 =======================================================================================================================================================
 
 <span id="_Toc418079797" class="anchor"></span>DISCOVERY AND INSPECTION OF
@@ -10476,7 +10472,7 @@ ELECTRONIC DOCUMENTS
 
  
 
-<span id="_Toc422158494" class="anchor"><span id="_Toc524012677" class="anchor"></span></span>APPENDIX J
+<span id="_Toc422158494" class="anchor"><span id="_Toc524012677" class="anchor"></span></span>Appendix J
 ========================================================================================================
 
 UPLOADING REDACTED CHARGES UNDER PRACTICE DIRECTION 138
@@ -10497,7 +10493,7 @@ UPLOADING REDACTED CHARGES UNDER PRACTICE DIRECTION 138
 
 <img src="media/image8.png" width="601" height="163" />
 
-APPENDIX K
+Appendix K
 ==========
 
 **PRE-ACTION PROTOCOL FOR DEFAMATION ACTIONS**
