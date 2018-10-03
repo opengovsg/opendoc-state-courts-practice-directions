@@ -21,6 +21,9 @@ section_order:
   - "Part XVII: Criminal Matters"
   - "Part XVIII: Electronic Filing and Service for Criminal Proceedings"
   - "Part XIX: Community Disputes Resolution"
+  - "Part XX: Employment Claims"
+  - "Part XXI: Defamation Actions"
+  - "Appendix A"
 elastic_search:
   index: intro_index
   doctype: bare
