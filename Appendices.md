@@ -8055,41 +8055,41 @@ Name of respondent
 
 **1. Introduction**
 
-> 1.1 The State Courts Centre for Dispute Resolution provides Court Dispute Resolution (CDR) services for all civil matters. Two main processes – mediation and neutral evaluation – are used.
+1.1 The State Courts Centre for Dispute Resolution provides Court Dispute Resolution (CDR) services for all civil matters. Two main processes – mediation and neutral evaluation – are used.
 >
-> 1.2 According to Practice Directions 37 and 38, all non-injury motor accident claims and personal injury claims are to proceed for CDR within 8 weeks after the Memorandum of Appearance has been filed.
+1.2 According to Practice Directions 37 and 38, all non-injury motor accident claims and personal injury claims are to proceed for CDR within 8 weeks after the Memorandum of Appearance has been filed.
 >
-> 1.3 Neutral evaluation will be used in the CDR sessions for these cases. This Appendix sets out the guidelines to be followed by solicitors.
+1.3 Neutral evaluation will be used in the CDR sessions for these cases. This Appendix sets out the guidelines to be followed by solicitors.
 
 **2. Application**
 
-> 2.1 The guidelines in this Appendix shall apply to all writs for non-injury motor accident and personal injury claims that are filed in Court on or after 1st April 2016 and to all motor accident cases (whether or not involving any claim for personal injuries) and actions for personal injuries arising out of an industrial accident that are commenced in the High Court on or after 1<sup>st</sup> December 2016 and transferred to the District Court.
+2.1 The guidelines in this Appendix shall apply to all writs for non-injury motor accident and personal injury claims that are filed in Court on or after 1st April 2016 and to all motor accident cases (whether or not involving any claim for personal injuries) and actions for personal injuries arising out of an industrial accident that are commenced in the High Court on or after 1<sup>st</sup> December 2016 and transferred to the District Court.
 
 **3. Date of CDR**
 
-> 3.1 As stated in Practice Directions 37(2) and 38(2), solicitors in these cases will receive a notice from the Court fixing the first CDR session.
+3.1 As stated in Practice Directions 37(2) and 38(2), solicitors in these cases will receive a notice from the Court fixing the first CDR session.
 >
-> 3.2 A request for an adjournment of a CDR session shall be made ***only*** by filing a “Request for Refixing/Vacation of Hearing Dates” via the Electronic Filing Service.
+3.2 A request for an adjournment of a CDR session shall be made ***only*** by filing a “Request for Refixing/Vacation of Hearing Dates” via the Electronic Filing Service.
 >
-> 3.3 The applicant must obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all the parties.
+3.3 The applicant must obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all the parties.
 >
-> 3.4 The request must be made *not less than 2 working days before the date of the CDR.*
+3.4 The request must be made *not less than 2 working days before the date of the CDR.*
 >
-> 3.5 An adjournment of a CDR session will be granted only for good reason e.g. the solicitor is engaged in a trial or other hearing in the High Court or the State Courts, is away on in-camp training, is overseas, or on medical leave; or the party or his witness, if asked to attend, is out of the country or otherwise unavailable for good reason.
+3.5 An adjournment of a CDR session will be granted only for good reason e.g. the solicitor is engaged in a trial or other hearing in the High Court or the State Courts, is away on in-camp training, is overseas, or on medical leave; or the party or his witness, if asked to attend, is out of the country or otherwise unavailable for good reason.
 >
-> 3.6 A CDR session from which one or all parties are absent without good reason will be counted as one CDR session.
+3.6 A CDR session from which one or all parties are absent without good reason will be counted as one CDR session.
 
 **4. Attendance at CDR**
 
-> 4.1 Only solicitors are required to attend CDR sessions. Their clients need not be present unless the Judge directs their attendance.
+4.1 Only solicitors are required to attend CDR sessions. Their clients need not be present unless the Judge directs their attendance.
 >
-> 4.2 In certain cases, the Judge may direct the parties to attend subsequent CDR sessions. For instance, the drivers of the vehicles involved in a motor accident and eyewitnesses may be asked to be present at a later CDR session for the purpose of a more accurate neutral evaluation or to facilitate in negotiating a settlement.
+4.2 In certain cases, the Judge may direct the parties to attend subsequent CDR sessions. For instance, the drivers of the vehicles involved in a motor accident and eyewitnesses may be asked to be present at a later CDR session for the purpose of a more accurate neutral evaluation or to facilitate in negotiating a settlement.
 
 **5. Preparation for CDR**
 
-> 5.1 In all non-injury motor accident and personal injury claims, solicitors should exchange before the first CDR session, a list of all the relevant documents relating to both liability and quantum.
+5.1 In all non-injury motor accident and personal injury claims, solicitors should exchange before the first CDR session, a list of all the relevant documents relating to both liability and quantum.
 >
-> 5.2 In addition, solicitors should exchange the following documents before the first CDR session:
+5.2 In addition, solicitors should exchange the following documents before the first CDR session:
 >
 > 5.2.1 For CDRs for **motor accident claims** -
 >
@@ -8171,7 +8171,7 @@ Name of respondent
 >
 > (e) Any other supporting documents.
 >
-> 5.3 ***Documents and instructions***
+5.3 ***Documents and instructions***
 >
 > 5.3.1 Solicitors shall endeavour to obtain from their clients all documents in good time for exchange between the parties before the first CDR session. They should also check that all documents needed for consideration of the claim are ready. If any *additional* documents apart from those referred to in paragraph 5.2 are required, this shall be made known to the other party well before the CDR date. If a re-inspection of the other party's vehicle is required, it shall be conducted and the report exchanged before the first CDR session.
 >
@@ -8183,27 +8183,27 @@ Name of respondent
 >
 > 5.3.5 Third party proceedings, if any, should be commenced before the first CDR session.
 >
-> 5.4 To make the full use of CDR sessions, it is essential that solicitors be well prepared and familiar with their cases. This also applies to duty solicitors assigned by their firms to deal with the firm’s cases on a particular day. Duty solicitors must receive their files in good time and with clear instructions from the solicitor in charge so that they can familiarise themselves with the cases, understand the basis of instructions (i.e. why a certain position is taken) and to act on them (e.g. to convey the clients’ offer on quantum or liability to the opposing solicitor). Duty solicitors must, after the CDR session, ensure that they convey to the solicitor in charge, the rationale for the Judge’s indication, the discussion at CDR sessions, and the follow-up action to be taken before the date of the next CDR session.
+5.4 To make the full use of CDR sessions, it is essential that solicitors be well prepared and familiar with their cases. This also applies to duty solicitors assigned by their firms to deal with the firm’s cases on a particular day. Duty solicitors must receive their files in good time and with clear instructions from the solicitor in charge so that they can familiarise themselves with the cases, understand the basis of instructions (i.e. why a certain position is taken) and to act on them (e.g. to convey the clients’ offer on quantum or liability to the opposing solicitor). Duty solicitors must, after the CDR session, ensure that they convey to the solicitor in charge, the rationale for the Judge’s indication, the discussion at CDR sessions, and the follow-up action to be taken before the date of the next CDR session.
 
 **6. CDR Session**
 
-> ***Claims subject to the simplified process under Order 108 of the Rules of Court***
+***Claims subject to the simplified process under Order 108 of the Rules of Court***
 >
-> 6.1 All cases commenced by writ on or after 1st November 2014 in a Magistrate’s Court and any case commenced by writ on or after 1st November 2014 in a District Court (where parties have filed their consent in Form 233 of Appendix A of the Rules of Court for Order 108 to apply) will be subject to the simplified process under Order 108 of the Rules of Court (Cap. 322, R 5).
+6.1 All cases commenced by writ on or after 1st November 2014 in a Magistrate’s Court and any case commenced by writ on or after 1st November 2014 in a District Court (where parties have filed their consent in Form 233 of Appendix A of the Rules of Court for Order 108 to apply) will be subject to the simplified process under Order 108 of the Rules of Court (Cap. 322, R 5).
 >
-> 6.2 The requirement for upfront discovery under Order 108 Rule 2(4) of the Rules of Court (Cap. 322, R 5) and Practice Direction 19 (Upfront discovery) apply to such cases.
+6.2 The requirement for upfront discovery under Order 108 Rule 2(4) of the Rules of Court (Cap. 322, R 5) and Practice Direction 19 (Upfront discovery) apply to such cases.
 >
-> 6.3 These claims will continue to be called for CDR within 8 weeks after the filing of the memorandum of appearance. There will be no case management conference convened. The rest of the guidelines in Appendix B also apply to CDRs for these claims.
+6.3 These claims will continue to be called for CDR within 8 weeks after the filing of the memorandum of appearance. There will be no case management conference convened. The rest of the guidelines in Appendix B also apply to CDRs for these claims.
 >
-> 6.4 Where parties are unable to resolve the case through CDR, the Court will manage the case, having regard to the provisions in Order 108 Rule 5 of the Rules of Court, by, inter alia, —
+6.4 Where parties are unable to resolve the case through CDR, the Court will manage the case, having regard to the provisions in Order 108 Rule 5 of the Rules of Court, by, inter alia, —
 
-1.  giving such directions as the Court thinks fit in order to ensure that the case progresses expeditiously (including directions for the list of witnesses to be called for trial, the appointment of a single joint expert where appropriate, the exchange and filing of Affidavits of Evidence-in-Chief and setting the matter down for trial);
+> 6.4.1  giving such directions as the Court thinks fit in order to ensure that the case progresses expeditiously (including directions for the list of witnesses to be called for trial, the appointment of a single joint expert where appropriate, the exchange and filing of Affidavits of Evidence-in-Chief and setting the matter down for trial);
 
-2.  fixing timelines to manage and control the progress of the case; and
+> 6.4.2  fixing timelines to manage and control the progress of the case; and
 
-3.  taking such other action or making such other direction as the Court thinks appropriate in the circumstances including costs sanctions or unless orders.
+> 6.4.3  taking such other action or making such other direction as the Court thinks appropriate in the circumstances including costs sanctions or unless orders.
 
-> 6.5 Where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Court may, having regard to the provisions in Order 108, Rule 5(3) of the Rules of Court, appoint the expert for the parties at a CDR session. Each party is expected to furnish the following for the determination of the single joint expert:
+6.5 Where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Court may, having regard to the provisions in Order 108, Rule 5(3) of the Rules of Court, appoint the expert for the parties at a CDR session. Each party is expected to furnish the following for the determination of the single joint expert:
 >
 > (a) names and *curriculum vitae* of two experts the party considers suitable to appoint (for which purpose a party may nominate the expert who has conducted an inspection, survey or review for him or provided him with medical treatment);
 >
@@ -8217,42 +8217,42 @@ Name of respondent
 
 ***Indications on liability and quantum***
 
-> 6.6 For NIMA and PIMA cases, the Court will provide an indication on liability
+6.6 For NIMA and PIMA cases, the Court will provide an indication on liability
 > if —
 >
 > (a) the factual matrix of the particular motor accident does not correspond substantially with any of the scenarios set out in the *Motor Accident* *Guide* (1<sup>st</sup> Edn., 2014 State Courts, Singapore) (“*Motor Accident* *Guide*”) ; or
 >
 > (b) despite the parties’ reasonable efforts in resolving the question of liability through negotiation with reference to the *Motor Accident* *Guide* before the CDR session, no settlement has been reached.
 >
-> 6.7 Solicitors for all the parties seeking an indication on liability in NIMA and PIMA cases must submit a duly completed “Liability Indication Form (NIMA and PIMA Claims)” (see Form 9A) to the Court at the first CDR session. Except in cases where no corresponding scenario is provided for in the *Motor Accident Guide*, solicitors must specify in the Liability Indication Form the scenario(s) in the *Motor Accident Guide* that is/are relevant to the parties’ factual accounts of the accident and state their respective proposals on liability.
+6.7 Solicitors for all the parties seeking an indication on liability in NIMA and PIMA cases must submit a duly completed “Liability Indication Form (NIMA and PIMA Claims)” (see Form 9A) to the Court at the first CDR session. Except in cases where no corresponding scenario is provided for in the *Motor Accident Guide*, solicitors must specify in the Liability Indication Form the scenario(s) in the *Motor Accident Guide* that is/are relevant to the parties’ factual accounts of the accident and state their respective proposals on liability.
 >
-> 6.8 Solicitors for all parties seeking an indication on liability in industrial accident cases must submit a duly completed “Liability Indication Form (Industrial Accident Claims)” (see Form 9A(A)) to the Court at the first CDR session.
+6.8 Solicitors for all parties seeking an indication on liability in industrial accident cases must submit a duly completed “Liability Indication Form (Industrial Accident Claims)” (see Form 9A(A)) to the Court at the first CDR session.
 >
-> 6.9 In CDR sessions for all personal injury claims, *except PIMA claims*, the Court will provide an indication on *both liability and quantum* of the claim. Solicitors for all the parties shall submit a duly completed “Quantum Indication Form” (see Form 9B) to the Court at the first CDR session.
+6.9 In CDR sessions for all personal injury claims, *except PIMA claims*, the Court will provide an indication on *both liability and quantum* of the claim. Solicitors for all the parties shall submit a duly completed “Quantum Indication Form” (see Form 9B) to the Court at the first CDR session.
 >
-> 6.10 In respect of PIMA cases, whether or not an indication on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an indication on quantum. Solicitors requesting for an indication on quantum must obtain each other’s consent before the CDR session, and submit the duly completed Quantum Indication Form (i.e. Form 9B) to the Court.
+6.10 In respect of PIMA cases, whether or not an indication on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an indication on quantum. Solicitors requesting for an indication on quantum must obtain each other’s consent before the CDR session, and submit the duly completed Quantum Indication Form (i.e. Form 9B) to the Court.
 
 **7. Help and Co-operation of Insurers in facilitating CDR**
 
-> 7.1 Insurers play a key role in the success of CDR. CDR sessions are intended for substantive discussion of the issues. A CDR is unproductive if:
->
+7.1 Insurers play a key role in the success of CDR. CDR sessions are intended for substantive discussion of the issues. A CDR is unproductive if:
+
 > 7.1.1 parties have not —
->
-> (a) exchanged the relevant documents listed in paragraph 5; or
->
-> (b) identified the scenario(s) in the *Motor Accident Guide* that is/are relevant to their respective factual accounts of the accident
->
+
+>> (a) exchanged the relevant documents listed in paragraph 5; or
+
+>> (b) identified the scenario(s) in the *Motor Accident Guide* that is/are relevant to their respective factual accounts of the accident
+
 > well before the CDR session to facilitate assessment and discussion of options;
->
+
 > 7.1.2 one or more of the solicitors for the parties have not received or are still taking client’s instructions; or
->
+
 > 7.1.3 parties are still negotiating or are awaiting instructions upon a counter-offer.
 
 **8.** **Follow up action after CDR**
 
-> 8.1 Solicitors must inform their clients of the outcome of a CDR session and render their advice quickly on the liability and/or quantum indications given by the Court. To facilitate settlement, solicitors should obtain their clients' instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR date. Reasons shall be given for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients' mandate at the next CDR session.
+8.1 Solicitors must inform their clients of the outcome of a CDR session and render their advice quickly on the liability and/or quantum indications given by the Court. To facilitate settlement, solicitors should obtain their clients' instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR date. Reasons shall be given for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients' mandate at the next CDR session.
 >
-> 8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an *Interlocutory Judgment* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is far less costly than a full trial.
+8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an *Interlocutory Judgment* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is far less costly than a full trial.
 
 **Form 9A(A)**
 
@@ -8855,7 +8855,7 @@ that party is required to file and serve a list of documents on the other party 
 
 9.2 In exercising its discretion and powers, the Court will have regard to compliance with this protocol or lack thereof, including staying an action for the party in default to comply with the protocol, and in determining the amount of costs to be awarded under Order 59 Rule 5 of the Rules of Court.
 >
-> 9.3 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default.
+9.3 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default.
 
 ### Form 1
 
@@ -9112,7 +9112,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 >
 > the claimant shall include his proposed list of medical expert(s) in each relevant specialty in his letter of claim. The claimant should preferably include the doctors who provided him treatment and/or review of his medical condition in his proposed list.
 >
-> 3.4 In respect of claims where the estimated quantum exceeds the jurisdiction of a Magistrate’s Court, the claimant and the potential defendant and/or their respective insurers are encouraged, to follow the procedure set out in paragraph 4.3 of this protocol for the appointment of a mutually agreed medical expert.
+3.4 In respect of claims where the estimated quantum exceeds the jurisdiction of a Magistrate’s Court, the claimant and the potential defendant and/or their respective insurers are encouraged, to follow the procedure set out in paragraph 4.3 of this protocol for the appointment of a mutually agreed medical expert.
 
 3.5 If the claimant is non-resident in Singapore, the letter of claim must further state the date the claimant is required to depart from Singapore once the relevant permits expire or are cancelled and, where available, the date of his intended departure from Singapore. This is to afford the potential defendant or his insurer an opportunity to arrange for a medical examination of the claimant by a medical expert mutually agreed by both parties in each relevant specialty, or where there is no agreement, a medical re-examination of the claimant by a medical expert appointed by the potential defendant or his insurer prior to the claimant’s departure from Singapore.
 
@@ -9202,13 +9202,13 @@ Where the claim is for both personal injury and property damage, the claimant mu
 
 **4. Potential Defendant’s response**
 
-> ***Acknowledgment letter***
+***Acknowledgment letter***
 
 4.1 The potential defendant must send an acknowledgement letter (Form 2 or Form 2A in this protocol) to the claimant within **14 days** from the date of receipt of the letter of claim. If he is ready to take a position on the claim, he must state his position. If not, he must first send an acknowledgement.
 
 4.2 If the claimant does not receive an acknowledgement letter from the potential defendant within the requisite **14 days**, he may commence proceedings without any sanction by the Court.
 
-> ***Joint selection of medical experts***
+***Joint selection of medical experts***
 
 4.3 In respect of claims where the estimated quantum falls within the jurisdiction of a Magistrate’s Court, within **14 days** of sending the acknowledgment letter to the claimant, the potential defendant shall send a letter to the claimant stating whether he agrees or has any objections to the appointment of any of the medical experts proposed by the claimant for the relevant specialty.
 
@@ -10206,7 +10206,7 @@ To: 
 
 ## Appendix H: Guidelines for Parties using Early Expert Pre-Trial Conference
 
-1.  An EPTC can be held for the following non-exhaustive list of common areas in dispute:
+1\.  An EPTC can be held for the following non-exhaustive list of common areas in dispute:
 
 > 1.1  In relation to damage to property, the cause, the extent of damage, and costs of replacement or repair.
 >
@@ -10214,7 +10214,7 @@ To: 
 >
 > 1.3 In relation to injuries or death to persons, the cause, the extent of injuries, and the costs of medical needs.
 
-2. Expert witnesses commonly appearing in Court include:
+2\. Expert witnesses commonly appearing in Court include:
 
 > 2.1 Medical experts – personal injuries and medical negligence claims;
 >
@@ -10228,9 +10228,9 @@ To: 
 >
 > 2.6 Handwriting experts – On issues relating to forgery
 
-3. The letter of request in Form 11 of Appendix A of the State Courts' Practice Directions should be copied to all relevant parties. Within 7 days after receiving the request, the Court will as far as practicable inform all parties of the EPTC hearing date.
+3\. The letter of request in Form 11 of Appendix A of the State Courts' Practice Directions should be copied to all relevant parties. Within 7 days after receiving the request, the Court will as far as practicable inform all parties of the EPTC hearing date.
 
-4.  The EPTC hearing may be conducted through such video conferencing systems approved for use by the Court. Parties are expected to address the Court on the following issues:
+4\.  The EPTC hearing may be conducted through such video conferencing systems approved for use by the Court. Parties are expected to address the Court on the following issues:
 
 > 4.1 A summary of the facts of the case;
 >
@@ -10242,7 +10242,7 @@ To: 
 >
 > 4.5  The type of intended expert.
 
-5. At the EPTC hearing, the Court may pursuant to Order 34A of the Rules of Court exercise all powers to make orders and give directions for the just, expeditious and economical disposal of proceedings. Such orders may include extensions of time to file and serve pleadings, the appointment of a single joint expert, the appointment of a limited number of experts for each party and such other orders necessary for the effective management of expert issues.
+5\. At the EPTC hearing, the Court may pursuant to Order 34A of the Rules of Court exercise all powers to make orders and give directions for the just, expeditious and economical disposal of proceedings. Such orders may include extensions of time to file and serve pleadings, the appointment of a single joint expert, the appointment of a limited number of experts for each party and such other orders necessary for the effective management of expert issues.
 
  
 ## Appendix I: Discovery and Inspection of Electronic Documents
