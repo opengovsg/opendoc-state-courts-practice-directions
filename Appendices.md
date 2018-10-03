@@ -288,9 +288,9 @@ BEFORE THE DISTRICT JUDGE \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ IN CHAMBERS
 
 **(4) You are entitled to refuse to permit entry before 9.00 a.m. or after 5.00 p.m. or at all on Saturdays, Sundays and public holidays.**
 
-**(5) You are entitled to seek legal advice, and to ask the Court to vary or discharge this order, provided you do so at once, and provided that meanwhile you permit** **\[the supervising solicitor (who is a solicitor of the Court acting independently of the plaintiff) and\]**[1] **the plaintiff's solicitor to enter, but not start to search: see paragraph 3 below.**
+**(5) You are entitled to seek legal advice, and to ask the Court to vary or discharge this order, provided you do so at once, and provided that meanwhile you permit** **\[the supervising solicitor (who is a solicitor of the Court acting independently of the plaintiff) and\]**[^1] **the plaintiff's solicitor to enter, but not start to search: see paragraph 3 below.**
 
-**(6) If you ... the defendant disobey this order you will be guilty of contempt of Court and may be sent to prison or fined.**[2]
+**(6) If you ... the defendant disobey this order you will be guilty of contempt of Court and may be sent to prison or fined.**[^2]
 
 **THE ORDER**
 
@@ -314,7 +314,7 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 
 (2) This order may not be carried out at the same time as any search warrant.
 
-(3) \[This order must be served by the supervising solicitor, and paragraph 1 of the order must be carried out in his presence and under his supervision.\][3] \[At least 1 of the persons accompanying him as provided by paragraph 1 of this order shall be a woman.\][4]<sup>+</sup> \[At least 1 of the persons carrying out the order shall be a woman.\][5]
+(3) \[This order must be served by the supervising solicitor, and paragraph 1 of the order must be carried out in his presence and under his supervision.\][^3] \[At least 1 of the persons accompanying him as provided by paragraph 1 of this order shall be a woman.\][^4]<sup>+</sup> \[At least 1 of the persons carrying out the order shall be a woman.\][^5]
 
 (4) This order does not require the person served with the order to allow anyone \[or anyone except \[name\] ... \] who could gain commercially from anything he might read or see on the premises if the person served with the order objects.
 
@@ -322,7 +322,7 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 
 (6) The premises must not be searched, and items must not be removed from them, except in the presence of the defendant or a person appearing to be a responsible employee of the defendant.
 
-\[(7) If the supervising solicitor is satisfied that full compliance with subparagraph (5) or (6) above is impracticable, he may permit the search to proceed and items to be removed without compliance with the impracticable requirements.\][6]
+\[(7) If the supervising solicitor is satisfied that full compliance with subparagraph (5) or (6) above is impracticable, he may permit the search to proceed and items to be removed without compliance with the impracticable requirements.\][^6]
 
 *Obtaining legal advice and applying to the Court*
 
@@ -366,7 +366,7 @@ Nothing in this order shall abrogate the defendant's right against self-incrimin
 
 ***UNDERTAKINGS***
 
-The plaintiff, \[the supervising solicitor and\][7] the plaintiff's solicitors gave to the Court the undertakings contained in Schedules 3, 4 and 5 respectively to this order.
+The plaintiff, \[the supervising solicitor and\][^7] the plaintiff's solicitors gave to the Court the undertakings contained in Schedules 3, 4 and 5 respectively to this order.
 
 ***DURATION OF THIS ORDER***
 
@@ -431,11 +431,11 @@ SCHEDULE 1***
 
 (4) To serve on the defendant at the same time as this order is served on him the writ and copies of the affidavits and copy-able exhibits containing the evidence relied on by the plaintiff. \[Copies of the confidential exhibits ... \[specify\] need not be served, but they must be made available for inspection by or on behalf of the defendant in the presence of the plaintiff's solicitors while the order is carried out. Afterwards they must be provided to a solicitor representing the defendant who gives a written undertaking not to permit the defendant to see them or make copies of them except in his presence and not to permit the defendant to make or take away any note or record of the exhibits.\]
 
-\[(5) To serve on the defendant a copy of the supervising solicitor's report on the carrying out of this order as soon as it is received and to produce a copy of the report to the Court.\][8]
+\[(5) To serve on the defendant a copy of the supervising solicitor's report on the carrying out of this order as soon as it is received and to produce a copy of the report to the Court.\][^8]
 
 (6) Not, without the leave of the Court, to inform anyone else of this order or the carrying out of this order or to use any information or documents obtained as a result of carrying out this order except for the purposes of these proceedings or to inform anyone else of these proceedings until the trial or further order.
 
-(7) To insure the items removed from these premises.[9]
+(7) To insure the items removed from these premises.[^9]
 
 ***SCHEDULE 4***
 
@@ -459,7 +459,7 @@ SCHEDULE 1***
 
 (1) To offer to explain to the person served with the order its meaning and effect fairly and in everyday language, and to inform him of his right to seek legal advice and apply to vary or discharge the order as mentioned in paragraph 3 of the order.
 
-(2) To make and provide the plaintiff's solicitor a written report on the carrying out of the order.\][10]
+(2) To make and provide the plaintiff's solicitor a written report on the carrying out of the order.\][^10]
 
 ### Form 6A
 
@@ -489,7 +489,7 @@ BEFORE THE DISTRICT JUDGE \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ IN CHAMBERS
 
 **(1) This order prohibits you from dealing with your assets up to the amount stated. The order is subject to the exceptions stated at the end of the order. You should read all the terms of the order very carefully. You are advised to consult a solicitor as soon as possible. You have a right to ask the Court to vary or discharge this order.**
 
-**(2) If you disobey this order you will be guilty of contempt of Court and may be sent to prison or fined.**[11]
+**(2) If you disobey this order you will be guilty of contempt of Court and may be sent to prison or fined.**[^11]
 
 **
 THE ORDER**
@@ -663,7 +663,7 @@ BEFORE THE DISTRICT JUDGE \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ IN CHAMBERS
 
 **(1) This order prohibits you from dealing with your assets up to the amount stated. The order is subject to the exceptions stated at the end of the order. You should read all the terms of the order very carefully. You are advised to consult a solicitor as soon as possible. You have a right to ask the Court to vary or discharge this order.**
 
-**(2) If you disobey this order you will be guilty of contempt of Court and may be sent to prison or fined.**[12]
+**(2) If you disobey this order you will be guilty of contempt of Court and may be sent to prison or fined.**[^12]
 
 **
 THE ORDER**
@@ -3670,11 +3670,11 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 
 | **Document Type**                                                                                                                              | **Fee Amount**                                                                                                                  | **Remarks**                                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Registrar’s Certificate[13]                                                                                                                    | $20                                                                                                                             | Payable upon Application                                                                                  |
-| All other documents (including a copy of any Judgment, Sentence, Order, Deposition or other part of the record of any criminal proceedings[14] | $5 for each type of document requested in the application and $0.50 per page thereof, subject to a minimum of $15 per document. | Minimum of $15 (per document) payable upon Application                                                    
+| Registrar’s Certificate[^13]                                                                                                                    | $20                                                                                                                             | Payable upon Application                                                                                  |
+| All other documents (including a copy of any Judgment, Sentence, Order, Deposition or other part of the record of any criminal proceedings[^14] | $5 for each type of document requested in the application and $0.50 per page thereof, subject to a minimum of $15 per document. | Minimum of $15 (per document) payable upon Application                                                    
 
                                                                                                                                                                                                                                                                                     \**Any additional amount (based on number of pages) may be payable before collection of the document(s).*  |
-| Application for an additional copy of the record of any criminal proceedings or the Grounds of Decision[15]                                    | $0.50 for each page thereof, subject to a minimum of $10 for each copy of the record of proceedings and grounds of decision     | Minimum of $10 (per document) payable upon Application                                                    
+| Application for an additional copy of the record of any criminal proceedings or the Grounds of Decision[^15]                                    | $0.50 for each page thereof, subject to a minimum of $10 for each copy of the record of proceedings and grounds of decision     | Minimum of $10 (per document) payable upon Application                                                    
 
                                                                                                                                                                                                                                                                                     \**Any additional amount (based on number of pages) may be payable before collection of the document(s).*  |
 
@@ -6656,7 +6656,7 @@ And
 | **Name of Applicant:**                                                                                                                                                                                                               |                                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **NRIC / ID / UEN No.:**                                                                                                                                                                                                             |                                                                                                                                                                                     |
-| **Type of application: Tick () where applicable**                                                                                                                                                                                    | For a member of the union (Ordinary Branch[16]) to be represented by the union.                                                                                                     
+| **Type of application: Tick () where applicable**                                                                                                                                                                                    | For a member of the union (Ordinary Branch[^16]) to be represented by the union.                                                                                                     
 
                                                                                                                                                                                                                                         For a party below the age of 18 years old to be represented by a parent or guardian.                                                                                                 
 
@@ -10492,7 +10492,7 @@ To: 
 
 > 3.2.4.  the exact words complained of and the date of publication or broadcast (if known), and where possible, a copy, screenshot or transcript of the words complained of should be enclosed;
 
-> 3.2.5.  if the words complained of are not in the English language, a translation of the words in the English language[17];
+> 3.2.5.  if the words complained of are not in the English language, a translation of the words in the English language[^17];
 
 > 3.2.6.  sufficient details of the factual inaccuracies or unsupportable comments within the words complained of to enable the potential defendant to appreciate why the words are inaccurate or unsupportable;
 
@@ -10608,7 +10608,7 @@ State that you are / your client is claiming against the potential defendant in 
 
 1.  Set out the natural and ordinary meaning of the words complained of.
 
-2.  Where applicable, set out the innuendo meaning[18] of the words complained of and the facts that give rise to the innuendo meaning which are known to the person(s) to whom the words complained of were made.
+2.  Where applicable, set out the innuendo meaning[^18] of the words complained of and the facts that give rise to the innuendo meaning which are known to the person(s) to whom the words complained of were made.
 
 3.  Provide an explanation as to why the words complained of are inaccurate or unsupportable.
 
@@ -10690,7 +10690,7 @@ State that you / your client acknowledge(s) receipt of the letter of claim dated
 
 1.  State whether, and to what, extent the claim is accepted, whether more information is required or whether the claim is rejected.
 
-2.  If the claim is fully accepted, state that you / your client accept(s) the claim and the remedies which you are / your client is willing to offer (for example, retraction, clarification, apology, undertaking, offer of amends[19] and/or monetary payment (in which case, specify the quantum and as far as possible, refer to relevant case precedents and/or other authorities)).
+2.  If the claim is fully accepted, state that you / your client accept(s) the claim and the remedies which you are / your client is willing to offer (for example, retraction, clarification, apology, undertaking, offer of amends[^19] and/or monetary payment (in which case, specify the quantum and as far as possible, refer to relevant case precedents and/or other authorities)).
 
 3.  If the claim is partially accepted:
 
@@ -10804,40 +10804,42 @@ I have provided my client(s) with an estimate of the costs to be incurred if the
 
 \[Signed off by claimant’s solicitors\]
 
-[1] <sup>+</sup> Where a supervising solicitor is ordered.
+### Footnotes
 
-[2] <sup>1</sup> This notice is not a substitute for the endorsement of a penal notice.
+[^1]: <sup>+</sup> Where a supervising solicitor is ordered.
 
-[3] <sup>+</sup> Where a supervising solicitor is ordered.
+[^2]: <sup>1</sup> This notice is not a substitute for the endorsement of a penal notice.
 
-[4] <sup>2</sup> These words are to be included in a case where the premises are likely to be occupied by an unaccompanied woman and the supervising solicitor is a man.
+[^3]: <sup>+</sup> Where a supervising solicitor is ordered.
 
-[5] <sup>3</sup> These words are to be included in a case where the premises are likely to be occupied by an unaccompanied woman.
+[^4]: <sup>2</sup> These words are to be included in a case where the premises are likely to be occupied by an unaccompanied woman and the supervising solicitor is a man.
 
-[6] <sup>+</sup> Where a supervising solicitor is ordered.
+[^5]: <sup>3</sup> These words are to be included in a case where the premises are likely to be occupied by an unaccompanied woman.
 
-[7] <sup>+</sup> Where a supervising solicitor is ordered.
+[^6]: <sup>+</sup> Where a supervising solicitor is ordered.
 
-[8] <sup>+</sup> Where a supervising solicitor is ordered.
+[^7]: <sup>+</sup> Where a supervising solicitor is ordered.
 
-[9] <sup>4</sup> In appropriate cases.
+[^8]: <sup>+</sup> Where a supervising solicitor is ordered.
 
-[10] <sup>+</sup> Where a supervising solicitor is ordered.
+[^9]: <sup>4</sup> In appropriate cases.
 
-[11] <sup>1</sup> This notice is not a substitute for the endorsement of a penal notice.
+[^10]: <sup>+</sup> Where a supervising solicitor is ordered.
 
-[12] This notice is not a substitute for the indorsement of a penal notice
+[^11]: <sup>1</sup> This notice is not a substitute for the endorsement of a penal notice.
 
-[13] Pursuant to section 45A(4) of the Evidence Act (Cap. 97).
+[^12]: This notice is not a substitute for the indorsement of a penal notice
 
-[14] Pursuant to paragraph 3 of the Fees (State Courts – Criminal Jurisdiction) Order 2014, and regulation 2(2) of the Criminal Procedure Code (Prescribed Fees) Regulations 2013, read with section 426(1) of the Criminal Procedure Code (Cap. 68).
+[^13]: Pursuant to section 45A(4) of the Evidence Act (Cap. 97).
 
-[15] Pursuant to regulation 2(1)(b) of the Criminal Procedure Code (Prescribed Fees) Regulations 2013, read with section 377(6) of the Criminal Procedure Code (Cap. 68).
+[^14]: Pursuant to paragraph 3 of the Fees (State Courts – Criminal Jurisdiction) Order 2014, and regulation 2(2) of the Criminal Procedure Code (Prescribed Fees) Regulations 2013, read with section 426(1) of the Criminal Procedure Code (Cap. 68).
 
-[16] Ordinary Branch members can have their union represent them for wage negotiations and workplace issues.
+[^15]: Pursuant to regulation 2(1)(b) of the Criminal Procedure Code (Prescribed Fees) Regulations 2013, read with section 377(6) of the Criminal Procedure Code (Cap. 68).
 
-[17] Please refer to Order 92, Rule 1 of the Rules of Court (Cap. 322 R 5).
+[^16]: Ordinary Branch members can have their union represent them for wage negotiations and workplace issues.
 
-[18] In their innuendo meaning, *ie*, in some other meaning (apart from the natural and ordinary meaning) which, although not defamatory from the viewpoint of the ordinary reasonable person, is nonetheless defamatory from the viewpoint of person(s) with knowledge of the special meaning of the offending words or the relevant extrinsic facts.
+[^17]: Please refer to Order 92, Rule 1 of the Rules of Court (Cap. 322 R 5).
 
-[19] Please refer to section 7 of the Defamation Act (Cap. 75).
+[^18]: In their innuendo meaning, *ie*, in some other meaning (apart from the natural and ordinary meaning) which, although not defamatory from the viewpoint of the ordinary reasonable person, is nonetheless defamatory from the viewpoint of person(s) with knowledge of the special meaning of the offending words or the relevant extrinsic facts.
+
+[^19]: Please refer to section 7 of the Defamation Act (Cap. 75).
