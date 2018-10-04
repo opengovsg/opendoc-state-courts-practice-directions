@@ -343,9 +343,9 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 > (b) so far as he is aware:
 
 > (i) the name and address of everyone who has supplied him, or offered to supply him, with listed items;
->
+
 > (ii) the name and address of everyone to whom he has supplied, or offered to supply, listed items; and
->
+
 > (iii) full details of the dates and quantities of every such supply and offer.
 
 (2) Within ... days after being served with this order the defendant must prepare and swear an affidavit confirming the above information.
@@ -503,9 +503,9 @@ As a result of the application **IT IS ORDERED** by District Judge \[ \] that:
 1 (1) The defendant must not (i) remove from Singapore any of his assets which are in Singapore whether in his own name or not and whether solely or jointly owned up to the value of $ or (ii) in any way dispose of or deal with or diminish the value of any of his assets whether they are in or outside Singapore whether in his own name or not and whether solely or jointly owned up to the same value. This prohibition includes the following assets in particular: -
 
 > (a) the property known as ... or the net sale money after payment of any mortgages if it has been sold;
->
+
 > (b) the property and assets of the defendant's business known as ... (or carried on at ..) or the sale money if any of them have been sold; and
->
+
 > (c) any money in the accounts numbered ....... at .....
 
 (2) If the total unencumbered value of the defendant's assets in Singapore exceeds $ the defendant may remove any of those assets from Singapore or may dispose of or deal with them so long as the total unencumbered value of his assets still in Singapore remains above $ . If the total unencumbered value of the defendant's assets in Singapore does not exceed $ , the defendant must not remove any of those assets from Singapore and must not dispose of or deal with any of them, but if he has other assets outside Singapore the defendant may dispose of or deal with those assets so long as the total unencumbered value of all his assets whether in or outside Singapore remains above $          .
@@ -612,9 +612,9 @@ Dated this day of , 20 .
 \[(2) The plaintiff, in respect of any order the Court may make pursuant to paragraph (1) above, will:
 
 > (a) on or before \[date\] provide to the defendant security in the sum of \[$ \] by causing \[payment to be made into Court / a bond to be issued by an insurance company with a place of business within Singapore / a written guarantee to be issued from a bank with a place of business within Singapore / payment to the plaintiff’s solicitor to be held by the solicitor as an officer of the Court pending further order\]\*; and
->
+
 > (\*Delete where appropriate)
->
+
 > (b) cause evidence of the provision of security to be extended to the defendant immediately after the security has been put up.\]
 
 (3) As soon as practicable the plaintiff shall \[issue and\] serve on the defendant \[a\] \[the\] writ of summons \[in the form of the draft writ produced to the Court\] \[claiming appropriate relief\] together with this order.
@@ -777,9 +777,9 @@ Dated this day of , 20 .
 \[(2) The plaintiff, in respect of any order the Court may make pursuant to paragraph (1) above, will:
 
 > (a) on or before \[date\] provide to the defendant security in the sum of \[$ \] by causing \[payment to be made into Court / a bond to be issued by an insurance company with a place of business within Singapore / a written guarantee to be issued from a bank with a place of business within Singapore / payment to the plaintiff’s solicitor to be held by the solicitor as an officer of the Court pending further order\]\*; and
->
+
 > (\*Delete where appropriate)
->
+
 > (b) cause evidence of the provision of security to be extended to the defendant immediately after the security has been put up.\]
 
 (3) As soon as practicable the plaintiff shall \[issue and\] serve on the defendant \[a\] \[the\] writ of summons \[in the form of the draft writ produced to the Court\] \[claiming appropriate relief\] together with this order.
@@ -801,9 +801,9 @@ Dated this day of , 20 .
 *The State Courts regard Court Dispute Resolution (CDR) and Alternative Dispute Resolution (ADR) as the **first stop of a court process.** CDR/ADR is crucial in the cost-effective and amicable resolution of disputes. Early identification of cases is essential to help the parties save costs and improve settlement prospects. To assist in this regard, this Form should be completed by you and your client before the following hearings:*
 
 > *(a) Case Management Conference, for MC writs filed on or after 1st November 2014 and by consent, DC writs (pursuant to Order 108 of the Rules of Court and Practice Direction 20);*
->
+
 > *(b) Pre-Trial Conference called pursuant to Practice Direction 36 (which PTC will be called in respect of MC writs filed before 1st November 2014 and all DC writs filed on or after 1st April 2014); or*
->
+
 > *(c) any Summons for Directions that is filed (pursuant to Practice Direction 26).*
 
 *Information concerning CDR/ADR is provided on the second page of this Form.*
@@ -917,7 +917,7 @@ Date:
 -   I wish to opt out from CDR/ADR.
 
 > Reason(s):\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 -   I would like to be referred for the following CDR/ADR service(s):
@@ -1863,9 +1863,9 @@ And
 **1. Parties attending the mediation session**
 
 > (a) Plaintiff/Defendant/other party to suit
->
+
 > (b) \[Name of any other party attending; reason for attending\]
->
+
 > (c)
 
 *Where party is a corporate entity,*
@@ -1889,7 +1889,7 @@ And
 **A. Essential documents**
 
 > The following *essential* documents are currently being relied on to support our claim/defence (without prejudice to modification after discovery):
->
+
 > (a) \[Provide very brief details on how document supports your case. Append a copy of document to opening statement.\]
 
 > (b)
@@ -1899,7 +1899,7 @@ And
 **B. Essential witnesses**
 
 > We currently intend to rely on the following *essential* witnesses if the case goes to court (without prejudice to modification after extracting order of court containing court’s directions for exchange of affidavits of evidence-in-chief):
->
+
 > (a) \[Provide very brief outline of what you believe each essential witness will say.\]
 
 > (b)
@@ -1911,9 +1911,9 @@ And
 The parties have not engaged in any negotiations to settle the dispute OR
 
 > The parties have been engaging in discussions to attempt to settle the dispute privately. The parties have made the following offers on a “without prejudice” basis:
->
+
 > (a) \[Provide details on the offer, and why it was not accepted.\]
->
+
 > (b)
 
 **6. Other relevant information for settlement**
@@ -1950,7 +1950,7 @@ Dated this \[-\] day of \[-\] 20\_\_
 **3. Claim and Defence to Counterclaim**
 
 > The Plaintiff’s claim lies in misrepresentation. She was induced by statements in the course brochure and statements made by the Defendant’s Principal on 10 December to enrol for the course. Both statements concerning the credentials of the lecturer and the inclusion of guest lecturers in the course were untrue. The Plaintiff seeks rescission of the contract and refund of the entire course fees. In the alternative, the Plaintiff claims that there were breaches of contract entitling her to damages.
->
+
 > With regard to the Defendant’s counterclaim, the Plaintiff has pleaded the defence of justification. The Plaintiff has sufficient evidence to show that there have been many instances of the Defendant’s dishonest dealings with other students.
 
 ***Confidential and Without Prejudice***
@@ -1968,21 +1968,21 @@ Dated this \[-\] day of \[-\] 20\_\_
 **B. Essential witnesses**
 
 > We currently intend to rely on the following *essential* witnesses if the case goes to court (without prejudice to modification after extracting order of court containing court’s directions for exchange of affidavits of evidence-in-chief):
->
+
 > (a) Ms Chloe See
->
+
 > Ms See was with the Plaintiff when she enrolled for the course at the Defendant school. She heard the statements made by the principal concerning the promises made in the course brochure.
->
+
 > (b) Ms Denise Bo
->
+
 > Ms Bo enrolled for a similar course with the Defendant school and was similarly disappointed by the Defendant’s misrepresentation.
 
 **5. Negotiation history**
 
 > The parties have been engaging in discussions to attempt to settle the dispute privately. The parties have made the following offers on a “without prejudice” basis:
->
+
 > (a) The Defendant suggested on 2 April 2012 that the parties settle on a “drop hands” basis. The Plaintiff declined as she thinks that the Counterclaim has no merit.
->
+
 > (b) The Plaintiff made a counter-proposal on 4 April 2012 that the Defendant gave a $5,000 refund. This was declined by the Defendant without any reasons.
 
 ***Confidential and Without Prejudice***
@@ -2004,7 +2004,7 @@ Dated this 2<sup>nd</sup> day of May 2012
 ***IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE***
 
 > ***\[CASE NUMBER\]***
->
+
 > ***OPENING STATEMENT FOR PLAINTIFF/DEFENDANT (CONCILIATION)***
 
 **1. Parties attending the conciliation session**
@@ -2014,9 +2014,9 @@ Dated this 2<sup>nd</sup> day of May 2012
 2.  \[Name of any other party attending; reason for attending\]
 
 > (c)
->
+
 > *Where party is a corporate entity,*
->
+
 > (a) \[Name and position of authorised representative of Plaintiff/Defendant\]
 
 **2. Brief summary of facts**
@@ -2034,19 +2034,19 @@ Dated this 2<sup>nd</sup> day of May 2012
 **4. Evidence supporting claim**
 
 > **A. Essential documents**
->
+
 > The following *essential* documents are currently being relied on to support our claim/defence (without prejudice to modification after discovery):
->
+
 > (a) \[Provide very brief details on how each document supports your case. Append a copy of the essential documents to your opening statement.\]
->
+
 > (b) …
->
+
 > **B. Essential witnesses**
->
+
 > We currently intend to rely on the following *essential* witnesses if the case goes to court (without prejudice to modification after extracting order of court containing court’s directions for exchange of affidavits of evidence-in-chief):
->
+
 > (a) \[Provide a very brief outline of what you believe each essential witness will say.\]
->
+
 > (b) …
 
 **5. Suggested Possible Solution/s at Resolving Dispute**
@@ -2058,11 +2058,11 @@ The Plaintiff/Defendant suggests the following to resolve the dispute:
 **6. Other relevant information for settlement**
 
 > \[Provide any other information that may be beneficial in reaching a settlement.\]
->
+
 > Dated this \[-\] day of \[-\] 20\_\_
->
+
 > **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
->
+
 > **SOLICITORS FOR THE \[PLAINTIFF/DEFENDANT\]**
 
 ### Form 9K\*
@@ -2100,7 +2100,7 @@ The Plaintiff/Defendant suggests the following to resolve the dispute:
 **A. Legal issues in dispute**
 
 > (a) \[Summarise legal issue and refer to relevant legal authorities supporting your submission.\]
->
+
 > (b)
 
 > (c)
@@ -2110,7 +2110,7 @@ The Plaintiff/Defendant suggests the following to resolve the dispute:
 > (a) \[Summarise dispute of fact.\]
 
 > Refer to *essential* documents you are currently relying on to support your position. This is without prejudice to modification after discovery. Append a copy of the relevant documents to the Opening Statement.
->
+
 > Refer to *essential* witnesses you are relying on, and provide brief outline of what you believe the witnesses will say. This is without prejudice to modification after extracting order of court containing directions for exchange of affidavits of evidence-in-chief.\]
 
 > (b)
@@ -2147,13 +2147,13 @@ Dated this \[-\] day of \[-\] 20\_\_
 **2. Brief summary of facts**
 
 > The Defendant Mr Koh Xin Bok engaged the Plaintiff company to carry out renovation works of their property at 20 XX Street, Singapore on 3 January 2012. In a written agreement signed by the parties, the required works were specified in detail and it was stated that $70,000 to be paid to the Plaintiff in 4 payments. By 2 March 2012, the Defendant had paid a total sum of $40,000. The last payment of $30,000 was due on 3 April 2012.
->
+
 > On 15 March, the Plaintiff contacted Mr Ho, alleging that there were defects that had to be repaired before he would make payment. Mr Ho arranged to rectify the alleged defects on 16 March. However, by 21 March, the Defendant told Mr Ho that the rectification was not done satisfactorily. On 22 March, Mr Ho and the Plaintiff’s workers were unable to enter the premises as the Defendant had changed the lock. In a heated conversation, the Defendant told Mr Ho that he was terminating the renovation works and would not pay the balance due. The Plaintiff commenced this suit on 2 April 2012 to claim for the sum of $30,000 due under the contract. The Defendant has counterclaimed for the estimated cost of $35,000 that is required to rectify the alleged defects.
 
 **3. Claim/Defence to Counterclaim**
 
 > The Plaintiff claims that the Defendant had wrongfully terminated the renovation contract by preventing the Defendant from entering the premises to rectify the defects when they were willing and ready to do so. The specified works in the written agreement were completed by the Plaintiff according to the Defendant’s instructions. The Plaintiff now claims for the balance sum due under the written contract, as well as loss of profits caused by the Defendant’s wrongful termination.
->
+
 > The Defendant has hired a surveyor to list the alleged defects that were not rectified satisfactorily by the Plaintiff, and to provide the estimated cost of rectification. The Plaintiff avers that many of these items were not defects, and that the cost of rectification in any case would be lower than the Plaintiff’s estimated sum of $35,000.
 
 **4. Issues for Neutral Evaluation Evidence supporting claim**
@@ -2346,7 +2346,7 @@ You must comply with the mandatory requirements of Order 40A, Rule 3, of the Rul
 -   a statement that you understand that in giving this report, your duty is to the Court, and that you have complied with that duty.
 
 > *“I confirm that insofar as the facts stated in my report are within my own knowledge I have made clear they are and I believe them to be correct, and that the opinions I have expressed represent my accurate and complete professional opinion.*
->
+
 > *I also confirm that in preparing this report, I am aware that my primary duty is to the Court and not the person(s) from whom I have received my instructions or by whom I am paid”*.
 
 ### Form 12A
@@ -2358,11 +2358,11 @@ You must comply with the mandatory requirements of Order 40A, Rule 3, of the Rul
 DC Suit No. of 20 /
 
 > Between
->
+
 > ( ) ... Plaintiff
->
+
 > And
->
+
 > ( ) ... Defendant
 
 **List of expert witnesses:**
@@ -2540,15 +2540,15 @@ Please be informed that you, (name of judgment debtor), have been summoned by th
 > (i) your bank statements for the past 6 months;
 
 > (ii) your payslips for the past 3 months;
->
+
 > (iii) your income tax returns and Form IR8A for the last period of assessment;
->
+
 > (iv) your last 3 statements from the Central Provident Fund (CPF) Board;
->
+
 > (v) your last 3 statements from the Central Depository (CDP) and/or your securities broker or fund manager in respect of your shares, bonds and/or unit trusts;
->
+
 > (vi) your motor vehicle log card/printout of your vehicle registration details and hire purchase agreement in respect of your motor vehicle;
->
+
 > (vii) your lease agreements, title deeds or certificates of title in respect of your properties, or your rental agreements.
 
 Please answer these questions carefully as the Court will require you to confirm on oath that your answers are true to the best of your knowledge, information and belief. Please bring this completed questionnaire and the documents with you at the Court hearing.
@@ -2788,13 +2788,13 @@ Please be informed that you, (name of officer of judgment debtor), have been sum
 > (i) the Company’s bank statements for the past 6 months;
 
 > (ii) the Company’s audited returns for the last period of assessment;
->
+
 > (iii) the Company’s last 3 statements from the Central Provident Fund (CPF) Board;
->
+
 > (iv) the Company’s last 3 statements from the Central Depository (CDP) and/or its securities broker or fund manager in respect of its shares, bonds and/or unit trusts;
->
+
 > (v) the Company’s motor vehicle log card/printout of its motor vehicle registration details and hire purchase agreement in respect of the Company’s motor vehicle;
->
+
 > (vi) the Company’s lease agreements, title deeds or certificates of title in respect of its properties, or its rental agreements.
 
 Please answer these questions carefully as the Court will require you to confirm on oath that your answers are true to the best of your knowledge, information and belief. Please bring this completed questionnaire and the documents with you at the Court hearing.
@@ -2965,9 +2965,9 @@ I, (name of officer of judgment debtor and NRIC No.) confirm that my answers to 
 1.  Please provide details of the tenancy of any immoveable property that the Company owns:
 
 > (a) Name of tenant and address of tenanted property:
->
+
 > (b) Period of tenancy, amount of monthly rental received and due date of rental:
->
+
 > (c) Whether there is any written tenancy agreement:
 
 **(From Question 18)**
@@ -2975,9 +2975,9 @@ I, (name of officer of judgment debtor and NRIC No.) confirm that my answers to 
 1.  Please provide details of the vehicles the Company owns:
 
 > (a) The registration number, make and colour of the motor vehicle(s):
->
+
 > (b) Whether the motor vehicle(s) is/are on hire purchase:
->
+
 > (c) If on hire purchase, the name of the finance company and the amount outstanding under the hire purchase agreement:
 
 **ANNEX C**
@@ -3158,7 +3158,7 @@ Basis for taxation: Judgment dated \_\_\_\_\_\_\_\_ ordering \[*set out the orde
 Dated this day of 20 .
 
 > Solicitors for
->
+
 > \[*State the party for whom the bill is filed*\].
 
 To:
@@ -3300,9 +3300,9 @@ Basis for taxation: Judgment dated \_\_\_\_\_\_\_\_ ordering \[*set out the orde
 Dated this day of 20 .
 
 > Solicitors for
->
+
 > \[*State the party for whom the bill is filed*\].
->
+
 > To:
 
 ### Form 20
@@ -3418,7 +3418,7 @@ Basis for taxation: \[*Set out the basis under which the bill of costs may be ta
 Dated this day of 20 .
 
 > Solicitors for
->
+
 > \[*State the party for whom the bill is filed*\].
 
 To:
@@ -3659,13 +3659,13 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 **Collection Time: Mondays to Fridays – 9.00 am to 1:00pm & 2.00pm to 5.00pm**
 
 > 1. All requests for copies of the records of any criminal proceedings are subject to the approval of the court.
->
+
 > 2. Once the request has been approved and the applicant has been informed on the availability of the requested document(s) and the cost (where applicable), the said documents will be available for collection for a period of 21 days. Any document(s) not collected within the stipulated period will be destroyed and a fresh request must be submitted thereafter if the applicant still requires the document(s).
->
+
 > 3. An application for copies of the records of any criminal proceedings will only be processed after the stipulated payment has been made.
->
+
 > **Prescribed Fees**
->
+
 > 4. The fees payable are as follows:
 
 | **Document Type**                                                                                                                              | **Fee Amount**                                                                                                                  | **Remarks**                                                                                               |
@@ -3679,33 +3679,33 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
                                                                                                                                                                                                                                                                                     \**Any additional amount (based on number of pages) may be payable before collection of the document(s).*  |
 
 > 5. There is a $5 non-refundable application fee for each type of document applied for. A fee of $0.50 for each page of the document, subject to a minimum fee of $15 for each type of document requested is also payable. The total sum of $15 is payable when the application for the records is submitted.
->
+
 > 6. The additional amount of fee (based on the actual number of pages provided) is payable before the document(s) can be collected.
->
+
 > **Refund of Fees Paid**
->
+
 > 7. The $5 application fee is non-refundable.
->
+
 > 8. A refund of the minimum fee already collected will only be made through directly crediting the applicant’s bank account. The applicant must furnish the photocopies of the following:
->
+
 > a. applicant’s NRIC or Passport; and
->
+
 > b. applicant’s bank statement or savings passbook (reflecting his name and the account number)
->
+
 > **Payment Modes**
->
+
 > 9. Local Applicants: Cash, NETS or local Solicitor’s cheque
->
+
 > \[For cheque payment, please make the cheque payable to *“Registrar, State Courts”* and indicate the Case Number at the back of the cheque\]
->
+
 > 10. Overseas Applicants: Bank Draft in Singapore Currency (payable to *Registrar, State Courts*)
->
+
 > Payment should also include all bank charges
->
+
 > **Contact Us**
->
+
 > For enquiries pertaining to Criminal Justice matters, please email us at [*StateCourts\_Crime\_Registry@statecourts.gov.sg*](javascript:_e(%7B%7D,'cvml','StateCourts_Crime_Registry@statecourts.gov.sg');) or contact us at (65) 6435 5095
->
+
 > Page 2 of 2
 
 ### Form 27
@@ -3760,15 +3760,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 1.  I wish to lodge a claim under section 4 of the Community Disputes Resolution Act (Act No. 7 of 2015) against the respondent.
@@ -3776,13 +3776,13 @@ And
 2.  The respondent’s particulars are as follows:
 
 > (a) Name:
->
+
 > (b) Address:
->
+
 > (c) Telephone No. (if known):
->
+
 > (d) E-mail Address (if known):
->
+
 > (e) Fax No. (if known):
 
 **
@@ -3793,25 +3793,25 @@ And
 1.  The respondent is a neighbour who lawfully resides *(please tick only one box)*:
 
 > □ in the same building as I do.
->
+
 > □ within 100 metres of my place of residence.
 
 1.  The respondent has caused unreasonable interference with my enjoyment or use of my place of residence in the following way / ways *(please tick the relevant box / boxes)*:
 
 > □ causing excessive noise, smell, smoke, light or vibration.
->
+
 > □ littering at or in the vicinity of my place of residence.
->
+
 > □ obstructing my place of residence, by placing any thing or object, or by any other manner, at or in the vicinity of my place of residence.
->
+
 > □ interfering with me/my movable property, at or in the vicinity of my place of residence.
->
+
 > □ surveillance of me or my place of residence, where the surveillance is done at or in the vicinity of my place of residence.
->
+
 > □ trespassing on my place of residence.
->
+
 > □ allowing an animal owned by or under the care or control of the respondent to trespass on my place of residence, to cause excessive noise or smell, or to defecate or urinate at or in the vicinity of my place of residence.
->
+
 > □ others (please state) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 1.  The particulars of each incident are as follows *(please provide details of each incident, including the relevant date and time of each incident, and according to the actual sequence of incidents)*:
@@ -3822,31 +3822,31 @@ And
 1.  I wish to claim the following remedies *(please tick the relevant box / boxes)*:
 
 > □ a tribunal order for damages in the sum of $\_\_\_\_\_\_\_\_\_\_\_.
->
+
 > □ an injunction (*please state the specific act / acts which you want to be stopped*):
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
->
+
 > □ specific performance *(please state the specific act / acts which you want to be performed)*:
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
->
+
 > □ an apology to me, in such form or manner as the court thinks fit.
->
+
 > □ other remedies *(please specify what other remedies):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 1.  I attach the following evidence in support of my claim *(please tick the relevant box / boxes)* :
 
 > □ Document (s) *(please specify what documents):*
->
+
 > *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*\_\_
->
+
 > □ Photograph (s).
->
+
 > □ Other evidence (including video recordings, audio recordings, electronic documents or other records) *(please specify what other evidence):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  The evidence which I attached in paragraph 5 above shows the following acts in support of my claim *(please specify what acts are relied upon in *each piece of evidence* provided, including the relevant date and time of each act, and according to the actual sequence of incidents)*:
@@ -3885,7 +3885,7 @@ EXPLANATORY NOTE TO THE PLAINTIFF**
 4. Your neighbour must be an individual who lawfully resides in a place of residence that is:
 
 > (a) in the same building as your place of residence; or
->
+
 > (b) within 100 metres of your place of residence.
 
 This *does not* include an individual who occupies the same place of residence as you, such as a person who lives with you in the same flat / house but in a different room.
@@ -3929,25 +3929,25 @@ And
 I, \[name of plaintiff / applicant\], \[plaintiff’s / applicant’s NRIC No.\], the plaintiff / applicant, declare that I did on the \[ \] day of \[month\] \[year\] at \[time\] serve the \[claim / application for a special direction / application for a compliance bond / application for exclusion order\] and supporting evidence on \[name of respondent / person to be bonded / other party to be served\] (*please delete as appropriate)* by:
 
 > □ leaving a copy of the abovementioned documents with the respondent / person to be bonded / other party to be served.
->
+
 > □ leaving at the address of the respondent / persons to be bonded / other party to be served *(please specify address and manner of service):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
->
+
 > □ ordinary post to the address of the respondent / person to be bonded / other party to be served *(please specify address):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
->
+
 > □ fax to the fax number of the respondent / person to be bonded / other party to be served *(please specify fax number):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
->
+
 > □ manner as agreed between the respondent / person to be bonded / other party to be served and I *(please specify method)*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
->
+
 > □ manner as directed by the court *(please specify method)*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 I declare that the information that I have provided in this declaration is true and correct.
@@ -3990,15 +3990,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document and Foreign Identification Number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 **Part B – Particulars of Claim**
@@ -4013,13 +4013,13 @@ And
 1.  I attach the following evidence in support of my reply:
 
 > □ document (s) *(please specify what documents)*:
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
+
 > □ photograph (s)
->
+
 > □ other evidence (including video recordings, audio recordings, electronic documents or other records) *(please specify what other evidence):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  The evidence which I attach shows the following acts in support of my reply *(please specify what acts are relied upon in *each* piece of evidence provided, including the relevant date and time of each act, and according to the actual sequence of incidents)*:
@@ -4138,15 +4138,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document/foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 1.  I wish to apply for a special direction under section 6(1) of the Community Disputes Resolution Act (Act 7 of 2015) (“the Act”), as the respondent has failed to comply with an order of the Community Disputes Resolution Tribunal (“the Tribunal”) made under section 5 of the Act (“the Tribunal Order”).
@@ -4154,13 +4154,13 @@ And
 2.  The respondent’s particulars are as follows:
 
 > (a) Name:
->
+
 > (b) Address:
->
+
 > (c) Telephone No. (if known):
->
+
 > (d) E-mail Address (if known):
->
+
 > (e) Fax No. (if known):
 
 **
@@ -4181,15 +4181,15 @@ Part B – Particulars of Application**
 1.  I attach the following evidence in support of my application *(please tick the relevant box / boxes)*:
 
 > □ a copy of the Tribunal Order **(required)**.
->
+
 > □ document (s) *(please specify what documents)*:
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
+
 > □ photograph (s)
->
+
 > *□* other evidence *(including video recordings, audio recordings, electronic documents or other records) (please specify what other evidence):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  The evidence which I attach shows the following acts in support of my application *(please specify what acts are relied upon in each piece of evidence provided, including the relevant date and time of *each* act, and according to the actual sequence of incidents)*:
@@ -4294,41 +4294,41 @@ And
 1. My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document/foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 2. The respondent’s particulars are as follows:
 
 > (a) Name:
->
+
 > (b) Address:
->
+
 > (c) Telephone No. (if known):
->
+
 > (d) E-mail Address (if known):
->
+
 > (e) Fax No. (if known):
->
+
 > 3. Particulars of the person to be bonded are as follows:
->
+
 > (a) Name:
->
+
 > (b) Address:
->
+
 > (c) Telephone No. (if known):
->
+
 > (d) E-mail Address (if known):
->
+
 > (e) Fax No. (if known):
->
+
 > (f) Relationship with the respondent:
 
 **Part B – Particulars of Application**
@@ -4345,13 +4345,13 @@ And
 1.  I attach the following evidence in support of my application *(please tick the relevant box / boxes)*:
 
 > □ Document (s) *(please specify what documents)*:
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
+
 > □ Photograph (s)
->
+
 > *□* Other evidence *(including video recordings, audio recordings, electronic documents or other records) (please specify what other evidence):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  The evidence which I attach shows the following acts in support of my application (*please specify what facts are relied upon in each piece of evidence provided, including the relevant date and time of each act, and according to the actual sequence of incidents*):
@@ -4401,15 +4401,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document /foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 **Part B – Particulars of Reply**
@@ -4424,13 +4424,13 @@ And
 1.  I attach the following evidence in support of my reply *(please tick the relevant box / boxes)*
 
 > □ Document (s) *(please specify what documents)*:
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
+
 > □ Photograph (s)
->
+
 > *□* Other evidence *(including video recordings, audio recordings, electronic documents or other records) (please specify what other evidence):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  The evidence which I attach shows the following acts in support of my reply *(please specify what acts are relied upon in each piece of evidence provided, including the relevant date and time of each act, and according to the actual sequence of incidents*):
@@ -4469,7 +4469,7 @@ Name of respondent
 4. A breach of a Special Direction by the Tribunal amounts to a criminal offence under section 7(1) of the Community Disputes Resolution Act. A person who fails to comply with a Special Direction shall be liable on conviction –
 
 > (a) To a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; and
->
+
 > (b) In the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of the day during which the offence continues after conviction, but not exceeding $10,000 in total.
 
 **BRIEF PROCEDURE FOR FILING A REPLY**
@@ -4516,15 +4516,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document /foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 **Part B – Particulars of Objection**
@@ -4539,13 +4539,13 @@ And
 1.  I attach the following evidence in support of my reply *(please tick the relevant box / boxes)*
 
 > □ Document (s) *(please specify what documents)*:
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
+
 > □ Photograph (s)
->
+
 > *□* Other evidence *(including video recordings, audio recordings, electronic documents or other records) (please specify what other evidence):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  The evidence which I attach shows the following acts in support of my reply *(please specify what acts are relied upon in *each piece of* evidence provided, including the relevant date and time of each act, and according to the actual sequence of incidents*):
@@ -4625,15 +4625,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document /foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 1.  I wish to apply for an exclusion order under section 9(1) of the Community Disputes Resolution Act (Act 7 of 2015) (“the Act”), as the respondent has failed to comply with the special direction of the Community Disputes Resolution Tribunal (“the Tribunal”) made under section 6(1) of the Act (“the special direction”).
@@ -4641,13 +4641,13 @@ And
 2.  The respondent’s particulars are as follows:
 
 > (a) Name:
->
+
 > (b) Address:
->
+
 > (c) Telephone No. (if known):
->
+
 > (d) E-mail Address (if known):
->
+
 > (e) Fax No. (if known):
 
 **Part B – Particulars of Application**
@@ -4667,15 +4667,15 @@ And
 1.  I attach the following evidence in support of my application *(please tick the relevant box / boxes)*
 
 > □ A copy of the special direction (***required***).
->
+
 > □ Document (s) *(please specify what documents)*:
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
+
 > □ Photograph (s)
->
+
 > *□* Other evidence *(including video recordings, audio recordings, electronic documents or other records) (please specify what other evidence):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  The evidence which I attach shows the following acts in support of my application *(please specify what acts are relied upon in *each piece of* evidence provided, including the relevant date and time of each act, and according to the actual sequence of incidents* ):
@@ -4761,15 +4761,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document /foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 **Part B – Particulars of Reply**
@@ -4784,13 +4784,13 @@ And
 1.  I attach the following evidence in support of my reply *(please tick the relevant box / boxes)*
 
 > □ Document (s) *(please specify what documents)*:
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
->
+
 > □ Photograph (s)
->
+
 > *□* Other evidence *(including video recordings, audio recordings, electronic documents or other records) (please specify what other evidence):*
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  The evidence which I attach shows the following acts in support of my reply *(please specify what acts are relied upon in *each* piece of evidence provided, including the relevant date and time of each act, and according to the actual sequence of incidents*):
@@ -4827,7 +4827,7 @@ Name of respondent
 4. A breach of an Exclusion Order by the Tribunal amounts to a criminal offence under section 10(1) of the Community Dispute Resolution Act. A person who fails to comply with an Exclusion Order shall be liable on conviction –
 
 > (a) To a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; and
->
+
 > (b) In the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of the day during which the offence continues after conviction, but not exceeding $10,000 in total.
 
 **BRIEF PROCEDURE FOR FILING A REPLY**
@@ -4872,15 +4872,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document /foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 1.  I am the plaintiff / respondent (\*delete as appropriate) in this case.
@@ -4888,9 +4888,9 @@ And
 2.  I wish to apply to set aside the following judgment / order / direction that was made against me by the Registrar / Judge (\*delete as appropriate) on \[date\]:
 
 > Name which judgment / order / direction was made in favour of:
->
+
 > Date of judgment / order / direction:
->
+
 > Reference no. of judgment / order / direction:
 
 1.  I was not present at the Pre-Trial Conference / hearing (\*delete as appropriate) on the abovementioned date because *(please provide details for your reasons):*
@@ -4942,15 +4942,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document /foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 **Part B – Particulars of Reply**
@@ -4958,9 +4958,9 @@ And
 1.  The applicant has lodged an application to set aside the following judgment / order / direction (*delete as appropriate*) that was made by the Registrar / Judge:
 
 > Name which judgment / order / direction was made in favour of:
->
+
 > Date of judgment / order / direction:
->
+
 > Reference no. of judgment / order / direction:
 
 1.  I am opposing the application for the following reasons *(please provide details for your reasons, including the relevant date and time of *each* incident which you wish to raise, and according to the actual sequence of incidents)* :
@@ -5057,15 +5057,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen/Singapore Permanent Resident)/No., type and country of issue of foreign identification document (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 **Part B – Particulars of Reply**
@@ -5073,9 +5073,9 @@ And
 1.  The applicant has lodged an application for leave to appeal against the following decision / direction / order (*delete as appropriate*) of the Community Disputes Resolution Tribunal:
 
 > Name which decision / direction / order was made in favour of:
->
+
 > Date of decision / direction / order:
->
+
 > Reference no. of decision / direction / order:
 
 1.  I am opposing the application for the following reasons *(please provide details for your reasons, including the relevant date and time of *each* incident which you wish to raise, and according to the actual sequence of incidents)* :
@@ -5258,13 +5258,13 @@ In Open Court/In Chambers
 1.  \[Court order\]
 
 > (a) \[Court order\]
->
+
 > (b) \[Court order\]
 
 1.  \[Court order\]
 
 > (a) \[Court order\]
->
+
 > (b) \[Court order\]
 
 Dated this \[ \] day of \[month\] 20 .
@@ -5302,13 +5302,13 @@ In Open Court/In Chambers
 1.  \[Special direction\]
 
 > (a) \[Special direction\]
->
+
 > (b) \[Special direction\]
 
 1.  \[Special direction\]
 
 > (a) \[Special direction\]
->
+
 > (b) \[Special direction\]
 
 ***IT IS FURTHER DIRECTED*** that:
@@ -6070,7 +6070,7 @@ And
 1.  I wish to claim the following remedies *(please tick the relevant box / boxes)*:
 
 > a tribunal order for the sum of $ to be paid by the respondent to me.
->
+
 > a tribunal order requiring the respondent to pay costs of these proceedings.
 
 1.  I attach the following evidence in support of my claim *(please tick the relevant box / boxes)*:
@@ -6080,7 +6080,7 @@ And
 Timesheet(s)
 
 > Pay slip(s)
->
+
 > Bank statements
 
 Document(s) *(please specify what documents)*:
@@ -6106,7 +6106,7 @@ Document(s) *(please specify what documents)*:
 Dated this day of , 20
 
 > \[Signature of claimant\]
->
+
 > Name of claimant
 
 **
@@ -6196,15 +6196,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen / Singapore Permanent Resident) / No., type and country of issue of foreign identification document and Foreign Identification Number (FIN) (for foreign citizen) / UEN No.:
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 **Part B – Particulars of \*Response / Response to Counterclaim** (\**delete as appropriate*)
@@ -6216,9 +6216,9 @@ And
 3.  I attach the following evidence in support of my response:
 
 > Document(s) *(please specify what documents)*:
->
+
 > Photograph(s)
->
+
 > Other evidence (including video recordings, audio recordings, electronic documents or other records) *(please specify what other evidence)*:
 
 **Part C – Confirmation of Contents**
@@ -6230,7 +6230,7 @@ And
 Dated this day of , 20
 
 > \[Signature of respondent\]
->
+
 > Name of respondent
 
 (\**delete as appropriate*)
@@ -6299,15 +6299,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen / Singapore Permanent Resident) / No., type and country of issue of foreign identification document / foreign identification number (FIN) (for foreign citizen) / UEN No.:
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 **Part B – Particulars of Counterclaim**
@@ -6325,7 +6325,7 @@ And
 1.  I wish to claim the following remedies *(please tick the relevant box / boxes)*:
 
 > a tribunal order for the sum of $ to be paid by the respondent to me.
->
+
 > a tribunal order requiring the respondent to pay costs of these proceedings.
 
 1.  I attach the following evidence in support of my application *(please specify)*:
@@ -6335,7 +6335,7 @@ And
 Timesheet(s)
 
 > Pay slip(s)
->
+
 > Bank statements
 
 Document(s) *(please specify what documents)*:
@@ -6361,7 +6361,7 @@ Document(s) *(please specify what documents)*:
 Dated this day of , 20
 
 > \[Signature of counterclaimant\]
->
+
 > Name of counterclaimant
 
 (\**delete as appropriate*)
@@ -6422,19 +6422,19 @@ And
 I, \[name\], \[NRIC No. / Fin No. / UEN No.\], the \*claimant / respondent / counterclaimant / applicant in these proceedings, declare that I did on the \[ \] day of \[month\] \[year\] at \[time\] serve the \[\*claim / response / counterclaim / amended claim / application / (state other document) on \[name of party\] by:
 
 > delivering it to that person at his last known place of residence *(please specify address)*:
->
+
 > .
->
+
 > sending it by registered post to the party’s last known place of residence or business in an envelope addressed to the person *(please specify address)*:
->
+
 > .
->
+
 > delivering it to the director, manager, secretary or other like officer of the body of persons or body corporate at its registered office or principal place of business *(please specify address)*:
->
+
 > .
->
+
 > sending it by registered post addressed to the body of persons or body corporate at its registered office or principal place of business *(please specify address)*:
->
+
 > .
 
 any other manner as directed by the tribunal or Registrar *(please specify method)*:
@@ -6481,9 +6481,9 @@ And
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
 
 > 1. I am the \*claimant / respondent in this case.
->
+
 > 2. I wholly \[discontinue the \*claim / counterclaim against the \*respondent / claimant\] OR \[withdraw my response to the \*claim / counterclaim\] OR \[withdraw the following specified employment dispute(s)\]:
->
+
 > 3. The reasons for discontinuing the \*claim / counterclaim are:
 
 -   The \*claimant / respondent has paid the amount claimed.
@@ -6497,7 +6497,7 @@ And
 Dated this day of , 20
 
 > \[Signature of \*claimant / counterclaimant / respondent\]
->
+
 > Name of \*claimant / counterclaimant / respondent
 
 (\**delete as appropriate*)
@@ -6530,7 +6530,7 @@ And
 1.  I am the \*claimant / counterclaimant / respondent in this case.
 
 > 2. I wholly \[discontinue the \*claim / counterclaim against the \*respondent / claimant\] OR \[withdraw my response to the \*claim / counterclaim\] OR \[withdraw the following specified employment dispute\]:
->
+
 > 3. The reasons for discontinuing the \*claim / counterclaim are:
 
 -   The \*claimant / respondent has paid the amount claimed.
@@ -6544,7 +6544,7 @@ And
 Dated this day of , 20
 
 > \[Signature of \*claimant / counterclaimant / respondent\]
->
+
 > Name of \*claimant / counterclaimant / respondent
 
 (\**delete as appropriate*)
@@ -6775,7 +6775,7 @@ And
 2.  I wish to apply to set aside the following decision / direction / order that was made against me by the \*Registrar / tribunal on \[date\] in my absence:
 
 > Date of \*decision / direction / order :
->
+
 > Reference no. of \*decision / direction / order :
 
 1.  I was not present at the \*Case Management Conference / hearing on the abovementioned date because *(please provide details for your reasons)*:
@@ -6791,7 +6791,7 @@ And
 Dated this day of , 20
 
 > \[Signature of applicant\]
->
+
 > Name of applicant
 
 (\**delete as appropriate*)
@@ -6833,7 +6833,7 @@ And
 1.  The applicant has lodged an application to set aside the following \*decision / direction / order that was made by the \*Registrar / Tribunal:
 
 > Date of \*decision / direction / order:
->
+
 > Reference no. of \*decision / direction / order:
 
 1.  I am opposing the application for the following reasons *(please provide details for your reasons)*:
@@ -6889,7 +6889,7 @@ And
 1.  I, bearing Identification Number , the \*claimant / counterclaimant / respondent in Case No. , am applying to correct the following order of the tribunal:
 
 > Date of \*decision / direction / order:
->
+
 > Reference no. of \*decision / direction / order:
 
 1.  The reasons for my application are:
@@ -6903,7 +6903,7 @@ And
 Dated this day of , 20
 
 > \[Signature of applicant\]
->
+
 > Name of applicant
 
 (\**delete as appropriate*)
@@ -6940,7 +6940,7 @@ And
 1.  The applicant has lodged an application to correct the order of tribunal:-
 
 > Date of \*decision / direction / order:
->
+
 > Reference no. of \*decision / direction / order:
 
 1.  I wish to oppose the application for the following reasons:
@@ -6954,9 +6954,9 @@ And
 Dated this day of , 20
 
 > \[Signature of respondent\]
->
+
 > Name of respondent
->
+
 > (\**delete as appropriate*)
 
 **Form 79**
@@ -7009,7 +7009,7 @@ To the Registrar and the Respondent:
 Dated this day of , 20
 
 > \[Signature of appellant\]
->
+
 > Name of appellant
 
 (\**delete as appropriate*)
@@ -7053,7 +7053,7 @@ And
 1.  I am applying for leave to appeal to the High Court against the following order of the Tribunal Magistrate:
 
 > Date of order:
->
+
 > Reference no. of order:
 
 1.  I understand that under section 23 of the Employment Claims Act, I am only allowed to appeal to the High Court on a question of law, and/or on the basis that the claim was outside the jurisdiction of the tribunal.
@@ -7061,7 +7061,7 @@ And
 2.  I am making my application on the following ground(s):
 
 > There is a question of law involved; and / or
->
+
 > The claim was outside the jurisdiction of the tribunal.
 
 1.  The following is my summary:
@@ -7127,7 +7127,7 @@ And
 1.  The applicant has lodged an application for leave to appeal to the High Court against the following order of the Employment Claims Tribunals:
 
 > Date of order:
->
+
 > Reference no. of \*decision / direction / order:
 
 1.  I am opposing the application for the following reasons *(please provide details for your reasons)*:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -7199,7 +7199,7 @@ The appeal is against the following order of the Tribunal Magistrate \[name\] gi
 Dated this day of , 20
 
 > \[Signature of \*appellant / respondent\]
->
+
 > Name of \*appellant / respondent
 
 (\**delete as appropriate*)
@@ -7390,9 +7390,9 @@ To:
 4.  I believe the appeal is deemed to be withdrawn (*please tick*):
 
 > **☐** because the appellant’s case was not filed within the time specified in the Employment Claims Rules (“**Rules**”).
->
+
 > **☐** because no respondent’s case was filed in the appeal, and the record of appeal was not filed and served by the appellant in accordance with the Rules.
->
+
 > **☐** because no record of appeal was filed by either the appellant or the respondent after the filing of the respondent’s case in the appeal.
 
 1.  (*Where applicable*) I have been unable to obtain the respondent’s written consent for payment of the security for costs to me because: (*to state reasons, if any*):
@@ -7620,15 +7620,15 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen / Singapore Permanent Resident) / No., type and country of issue of foreign identification document / foreign identification number (FIN) (for foreign citizen) / UEN No.:
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 1.  I wish to apply to register the settlement agreement that was entered into by the respondent and me on \[date\].
@@ -7771,25 +7771,25 @@ And
 1.  My particulars are as follows:
 
 > (a) Name:
->
+
 > (b) NRIC No. (for Singapore citizen / Singapore Permanent Resident) / No., type and country of issue of foreign identification document / foreign identification number (FIN) (for foreign citizen):
->
+
 > (c) Address:
->
+
 > (d) Telephone No.:
->
+
 > (e) E-mail Address (optional):
->
+
 > (f) Fax No. (if available):
 
 1.  I wish to apply to set aside the registration of the settlement agreement (*state registration number*) on the following grounds:
 
 > the settlement agreement is void or voidable because of incapacity, fraud, misrepresentation, duress, coercion, mistake or any other ground for invalidating a contract;
->
+
 > the settlement agreement includes subject matter that does not relate to a specified employment dispute;
->
+
 > any term of the settlement agreement is not capable of enforcement as an order made by a District Court; or
->
+
 > the registration of the settlement agreement is contrary to public policy.
 
 1.  The reason(s) for my application is / are (\*delete as appropriate) as follows: *(please provide details):*
@@ -8056,9 +8056,9 @@ Name of respondent
 **1. Introduction**
 
 1.1 The State Courts Centre for Dispute Resolution provides Court Dispute Resolution (CDR) services for all civil matters. Two main processes – mediation and neutral evaluation – are used.
->
+
 1.2 According to Practice Directions 37 and 38, all non-injury motor accident claims and personal injury claims are to proceed for CDR within 8 weeks after the Memorandum of Appearance has been filed.
->
+
 1.3 Neutral evaluation will be used in the CDR sessions for these cases. This Appendix sets out the guidelines to be followed by solicitors.
 
 **2. Application**
@@ -8068,133 +8068,133 @@ Name of respondent
 **3. Date of CDR**
 
 3.1 As stated in Practice Directions 37(2) and 38(2), solicitors in these cases will receive a notice from the Court fixing the first CDR session.
->
+
 3.2 A request for an adjournment of a CDR session shall be made ***only*** by filing a “Request for Refixing/Vacation of Hearing Dates” via the Electronic Filing Service.
->
+
 3.3 The applicant must obtain the consent of the other parties to the adjournment, and list the dates that are unsuitable for all the parties.
->
+
 3.4 The request must be made *not less than 2 working days before the date of the CDR.*
->
+
 3.5 An adjournment of a CDR session will be granted only for good reason e.g. the solicitor is engaged in a trial or other hearing in the High Court or the State Courts, is away on in-camp training, is overseas, or on medical leave; or the party or his witness, if asked to attend, is out of the country or otherwise unavailable for good reason.
->
+
 3.6 A CDR session from which one or all parties are absent without good reason will be counted as one CDR session.
 
 **4. Attendance at CDR**
 
 4.1 Only solicitors are required to attend CDR sessions. Their clients need not be present unless the Judge directs their attendance.
->
+
 4.2 In certain cases, the Judge may direct the parties to attend subsequent CDR sessions. For instance, the drivers of the vehicles involved in a motor accident and eyewitnesses may be asked to be present at a later CDR session for the purpose of a more accurate neutral evaluation or to facilitate in negotiating a settlement.
 
 **5. Preparation for CDR**
 
 5.1 In all non-injury motor accident and personal injury claims, solicitors should exchange before the first CDR session, a list of all the relevant documents relating to both liability and quantum.
->
+
 5.2 In addition, solicitors should exchange the following documents before the first CDR session:
->
+
 > 5.2.1 For CDRs for **motor accident claims** -
->
+
 > (a) Full and complete Singapore Accident Statements and police reports including the names, identity card numbers and addresses of all persons involved in the accident, together with type-written transcripts of their factual accounts of the accident;
->
+
 > (b) Police sketch plan and if unavailable, the parties' sketches of the accident;
->
+
 > (c) Results of police investigations or outcome of prosecution for traffic offence(s);
->
+
 > (d) Police vehicle damage reports;
->
+
 > (e) Original, coloured copies or scanned photographs of damage to all vehicles;
->
+
 > (f) Original, coloured copies or scanned photographs of the accident scene;
->
+
 > (g) Video recording of the accident (if any);
->
+
 > (h) Accident reconstruction report (if any);
->
+
 > (i) Names and addresses of witnesses (if any);
->
+
 > (j) Repairer’s bill and evidence of payment;
->
+
 > (k) Surveyor’s report;
->
+
 > (l) Excess bill or receipt;
->
+
 > (m) Vehicle registration card;
->
+
 > (n) COE/PARF certificates;
->
+
 > (o) Rental agreement, invoice and receipt for rental of replacement vehicle (if any);
->
+
 > (p) Correspondences with the defendant's insurer relating to pre-repair survey and/or post-repair inspection of the plaintiff's vehicle;
->
+
 > (q) Any other supporting documents.
->
+
 > 5.2.2 For CDRs for **personal injury claims** or where **personal injury forms part of the motor accident claim** -
->
+
 > (a) Medical reports from the treating doctor, reviewing doctor and medical specialist;
->
+
 > (b) Certificates for hospitalisation and medical leave;
->
+
 > (c) Bills for medical treatment and evidence of payment;
->
+
 > (d) Income tax notices of assessment and/or other evidence of income and loss thereof;
->
+
 > (e) Supporting documents for all other expenses claimed (if any).
->
+
 > 5.2.3 For CDRs for **industrial accidents** -
->
+
 > (a) The parties' sketches of the accident;
->
+
 > (b) Notice of accident lodged with the Ministry of Manpower;
->
+
 > (c) Ministry of Manpower's investigation reports (if any);
->
+
 > (d) Notice of Assessment from the Occupational Safety and Health Division, Ministry of Manpower (if any);
->
+
 > (e) Outcome of prosecution (if any);
->
+
 > (f) Original, coloured copies or scanned photographs of the accident scene;
->
+
 > (g) Video recording of the accident (if any);
->
+
 > (h) Names and addresses of witnesses (if any);
->
+
 > (i) Any other supporting documents.
->
+
 > 5.2.4 For CDRs for **any personal injury claim not involving motor accidents or industrial accidents** -
->
+
 > (a) The parties' sketches of the accident;
->
+
 > (b) Original, coloured copies or scanned photographs of the accident scene;
->
+
 > (c) Video recording of the accident (if any);
->
+
 > (d) Names and addresses of witnesses (if any);
->
+
 > (e) Any other supporting documents.
->
+
 5.3 ***Documents and instructions***
->
+
 > 5.3.1 Solicitors shall endeavour to obtain from their clients all documents in good time for exchange between the parties before the first CDR session. They should also check that all documents needed for consideration of the claim are ready. If any *additional* documents apart from those referred to in paragraph 5.2 are required, this shall be made known to the other party well before the CDR date. If a re-inspection of the other party's vehicle is required, it shall be conducted and the report exchanged before the first CDR session.
->
+
 > 5.3.2 It is very important that solicitors take *full and complete* instructions from their respective clients before attending the CDR session. Before the CDR session, solicitors should evaluate with their clients the documents and reports and advise their clients on all the relevant aspects of their case.
->
+
 > 5.3.3 Where a party is relying on the factual account of any witness in support of his case, a signed statement or Affidavit of Evidence-in-Chief should be procured from that witness and submitted to the Court at the first CDR session to enable the Court to be fully apprised of all the relevant evidence.
->
+
 > 5.3.4 Insurers should notify their solicitors if, to their knowledge, other claims arising from the same accident have been filed in Court. Solicitors should assist the Court in identifying these related claims so that all the claims may be dealt with together at CDR sessions for a consistent outcome on liability. If an indication on liability has been given or interlocutory judgment has been entered in any related claim(s), solicitors should notify the Court accordingly and endeavour to resolve the remaining claims(s) on the same basis.
->
+
 > 5.3.5 Third party proceedings, if any, should be commenced before the first CDR session.
->
+
 5.4 To make the full use of CDR sessions, it is essential that solicitors be well prepared and familiar with their cases. This also applies to duty solicitors assigned by their firms to deal with the firm’s cases on a particular day. Duty solicitors must receive their files in good time and with clear instructions from the solicitor in charge so that they can familiarise themselves with the cases, understand the basis of instructions (i.e. why a certain position is taken) and to act on them (e.g. to convey the clients’ offer on quantum or liability to the opposing solicitor). Duty solicitors must, after the CDR session, ensure that they convey to the solicitor in charge, the rationale for the Judge’s indication, the discussion at CDR sessions, and the follow-up action to be taken before the date of the next CDR session.
 
 **6. CDR Session**
 
 ***Claims subject to the simplified process under Order 108 of the Rules of Court***
->
+
 6.1 All cases commenced by writ on or after 1st November 2014 in a Magistrate’s Court and any case commenced by writ on or after 1st November 2014 in a District Court (where parties have filed their consent in Form 233 of Appendix A of the Rules of Court for Order 108 to apply) will be subject to the simplified process under Order 108 of the Rules of Court (Cap. 322, R 5).
->
+
 6.2 The requirement for upfront discovery under Order 108 Rule 2(4) of the Rules of Court (Cap. 322, R 5) and Practice Direction 19 (Upfront discovery) apply to such cases.
->
+
 6.3 These claims will continue to be called for CDR within 8 weeks after the filing of the memorandum of appearance. There will be no case management conference convened. The rest of the guidelines in Appendix B also apply to CDRs for these claims.
->
+
 6.4 Where parties are unable to resolve the case through CDR, the Court will manage the case, having regard to the provisions in Order 108 Rule 5 of the Rules of Court, by, inter alia, —
 
 > 6.4.1  giving such directions as the Court thinks fit in order to ensure that the case progresses expeditiously (including directions for the list of witnesses to be called for trial, the appointment of a single joint expert where appropriate, the exchange and filing of Affidavits of Evidence-in-Chief and setting the matter down for trial);
@@ -8204,32 +8204,32 @@ Name of respondent
 > 6.4.3  taking such other action or making such other direction as the Court thinks appropriate in the circumstances including costs sanctions or unless orders.
 
 6.5 Where any question requiring the evidence of an expert witness arises and parties are unable to agree on the expert to be appointed, the Court may, having regard to the provisions in Order 108, Rule 5(3) of the Rules of Court, appoint the expert for the parties at a CDR session. Each party is expected to furnish the following for the determination of the single joint expert:
->
+
 > (a) names and *curriculum vitae* of two experts the party considers suitable to appoint (for which purpose a party may nominate the expert who has conducted an inspection, survey or review for him or provided him with medical treatment);
->
+
 > (b) the fees charged by each nominated expert for preparing the report and attendance in Court;
->
+
 > (c) the estimated time needed to prepare the report; and
->
+
 > (d) whether the parties have complied with the pre-action protocol.
->
+
 > The Court will appoint the single joint expert after hearing submissions on the suitability or unsuitability of the nominated experts to be appointed.
 
 ***Indications on liability and quantum***
 
 6.6 For NIMA and PIMA cases, the Court will provide an indication on liability
 > if —
->
+
 > (a) the factual matrix of the particular motor accident does not correspond substantially with any of the scenarios set out in the *Motor Accident* *Guide* (1<sup>st</sup> Edn., 2014 State Courts, Singapore) (“*Motor Accident* *Guide*”) ; or
->
+
 > (b) despite the parties’ reasonable efforts in resolving the question of liability through negotiation with reference to the *Motor Accident* *Guide* before the CDR session, no settlement has been reached.
->
+
 6.7 Solicitors for all the parties seeking an indication on liability in NIMA and PIMA cases must submit a duly completed “Liability Indication Form (NIMA and PIMA Claims)” (see Form 9A) to the Court at the first CDR session. Except in cases where no corresponding scenario is provided for in the *Motor Accident Guide*, solicitors must specify in the Liability Indication Form the scenario(s) in the *Motor Accident Guide* that is/are relevant to the parties’ factual accounts of the accident and state their respective proposals on liability.
->
+
 6.8 Solicitors for all parties seeking an indication on liability in industrial accident cases must submit a duly completed “Liability Indication Form (Industrial Accident Claims)” (see Form 9A(A)) to the Court at the first CDR session.
->
+
 6.9 In CDR sessions for all personal injury claims, *except PIMA claims*, the Court will provide an indication on *both liability and quantum* of the claim. Solicitors for all the parties shall submit a duly completed “Quantum Indication Form” (see Form 9B) to the Court at the first CDR session.
->
+
 6.10 In respect of PIMA cases, whether or not an indication on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an indication on quantum. Solicitors requesting for an indication on quantum must obtain each other’s consent before the CDR session, and submit the duly completed Quantum Indication Form (i.e. Form 9B) to the Court.
 
 **7. Help and Co-operation of Insurers in facilitating CDR**
@@ -8251,7 +8251,7 @@ Name of respondent
 **8.** **Follow up action after CDR**
 
 8.1 Solicitors must inform their clients of the outcome of a CDR session and render their advice quickly on the liability and/or quantum indications given by the Court. To facilitate settlement, solicitors should obtain their clients' instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR date. Reasons shall be given for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients' mandate at the next CDR session.
->
+
 8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an *Interlocutory Judgment* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is far less costly than a full trial.
 
 **Form 9A(A)**
@@ -8336,9 +8336,9 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 1.2 This protocol applies to actions arising out of non-injury motor accidents occurring on or after —
 
 > (a) 1st April 2016 that are to be lodged with the Financial Industry Disputes Resolution Centre Ltd (“FIDReC”) or to be filed in in the Magistrate’s Court or the District Court, as the case may be; and
->
+
 > (b) 1st December 2016 that are to be filed in the High Court (and subsequently transferred to the District Court).
->
+
 > This protocol governs pre-action conduct and sets out best practices in respect of such claims.
 
 1.3 Any reference to “the potential defendant” in this protocol refers to the potential defendant if he is not claiming under his insurance policy, or to his insurer if he is claiming under his policy.
@@ -8426,11 +8426,11 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 4.6 If the claim is not admitted in full, the potential defendant must:
 
 > (a) give reasons and provide the claimant with a list setting out all the relevant documents;
->
+
 > (b) include in his reply a copy of each of all relevant supporting documents;
->
+
 > (c) confirm/state the identity of the person driving his vehicle at the time of the accident and provide the driver’s identification number and address if this is not already stated in the Singapore Accident Statement;
->
+
 > (d) enclose full and complete Singapore Accident Statements showing the names, identification numbers and addresses of all other persons involved in the accident and typewritten transcripts of their factual accounts of the accident;
 
 > (e) enclose any pre-repair and/or post-repair survey/inspection report(s); and
@@ -8460,9 +8460,9 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 7.1 The potential defendant must compensate the claimant for the loss of use of his vehicle computed from the date of receipt of the claimant’s notice of accident until the date the claimant is notified in writing that —
 
 > (a) the pre-repair survey is completed and he may proceed to repair his vehicle; or
->
+
 > (b) the insurer is waiving the requirement for pre-repair survey and he may proceed to repair his vehicle,
->
+
 > as the case may be, inclusive of any intervening Saturday, Sunday or public holiday.
 
 7.2 Where the insurer fails to respond to the claimant within **2** **working days** of receipt of the notice of accident as to whether he wishes to carry out or waive a pre-repair survey, the claimant may proceed to repair the vehicle and the potential defendant must compensate the claimant for the loss of use of his vehicle computed over 2 working days, inclusive of any intervening Saturday, Sunday or public holiday.
@@ -8514,19 +8514,19 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 > (a) the claimant is a body corporate or partnership;
 
 > (b) one or more of the vehicles involved in the accident is a government, a foreign-registered or diplomatic vehicle;
->
+
 > (c) the potential defendant has a counterclaim of $3,000 or more;
->
+
 > (d) the potential defendant has a counterclaim of less than $3,000 but the claimant is not claiming under his own insurance policy in respect of the counterclaim;
->
+
 > (e) the insurer for the claim or counterclaim has repudiated liability;
->
+
 > (f) an allegation that the claim, counterclaim or defence is tainted by fraud or other conduct constituting a criminal offence in connection with which a police report has been lodged;
->
+
 > (g) proceedings are still ongoing at FIDReC after a lapse of 6 months from the date when all the relevant documents pertaining to the accident that were requested by FIDReC have been submitted or, from the date of the claimant’s first interview at FIDReC, whichever is later; or
->
+
 > (h) there is other good and sufficient reason shown to the Court why the claim ought not to have been lodged at FIDReC or the proceedings ought not to have continued at FIDReC,
->
+
 > the claimant may commence an action in Court directly and all proceedings (if any) before FIDReC shall be abated forthwith, unless the Court otherwise directs.
 
 14. **Costs sanctions for non-compliance with requirement to lodge the claim/continue with proceedings at FIDReC**
@@ -8534,9 +8534,9 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 14.1 Where the claimant in a case to which paragraph 12.1 of this protocol applies, has commenced an action in Court, the Court in exercising its discretion as to costs, shall have regard to the following, where applicable:
 
 > (a) commencement of court proceedings before adjudication of the claim by FIDReC;
->
+
 > (b) a finding by the Court that the quantum of damages before apportionment of liability is below $3,000 excluding survey fees, interests, costs and disbursements and the damages quantified and pleaded in the Statement of Claim is for an amount exceeding $3,000; or
->
+
 > (c) the claimant has failed to obtain a judgment that is more favourable than the award made at the adjudication of the claim by FIDReC.
 
 14.2 The Court will not impose sanctions on the claimant where there are good reasons for non-compliance, for example attempt(s) made to resolve the claim through the Singapore Mediation Centre or the Law Society of Singapore Arbitration Scheme.
@@ -8820,9 +8820,9 @@ And the plaintiff claims:
 6.3 For cases that are subject to the simplified process under Order 108 of the Rules of Court (Magistrate’s Court cases filed on or after 1st November 2014 and by consent, District Court cases filed on or after 1st November 2014), each party is required to file and serve a list of documents together with the relevant pleading on the other party within the time limited for the service of such pleading under Order 108 Rule 2(4) of the Rules of Court.
 
 6.4 For cases that are not subject to the simplified process, if there are documents other than the medical report filed with a claimant's pleading and the medical report that will be filed by a defendant under paragraph 6.2 which are:
->
+
 > (a) documents on which a party relies or will rely; and
->
+
 > (b) documents which could —
 
 >> (i) adversely affect a party's own case;
@@ -8854,7 +8854,7 @@ that party is required to file and serve a list of documents on the other party 
 9.1 In the interest of saving time and costs, claimants are expected to use this protocol as a checklist on the required steps to be taken before commencing court proceedings and during pre-trial proceedings. Parties must comply with the terms of the protocol in substance and spirit. A breach by one party will not exempt the other parties in the claim from following the protocol insofar as they are able.
 
 9.2 In exercising its discretion and powers, the Court will have regard to compliance with this protocol or lack thereof, including staying an action for the party in default to comply with the protocol, and in determining the amount of costs to be awarded under Order 59 Rule 5 of the Rules of Court.
->
+
 9.3 Where there are good reasons for non-compliance, the Court will not impose sanctions against the party in default.
 
 ### Form 1
@@ -8886,11 +8886,11 @@ Please let us have a comprehensive medical report stating:
 > (b) clinical findings;
 
 > (c) diagnosis;
->
+
 > (d) treatment prescribed, whether there are risks in such treatment and if so, when and how those risks were communicated to our client *\[the deceased and/or his next-of-kin\]*;
->
+
 > (e) whether alternatives to the prescribed treatment were disclosed to the claimant *\[the deceased and/or his next-of-kin\]* and if so, why the prescribed treatment was preferred over these alternatives;
->
+
 > (f) assessment of our client’s *\[the deceased*’*s\]* condition at the last consultation and the cause of such condition *\[the cause of the deceased’s death\]*;
 
 > (g) prognosis and recommended future treatment, if available.
@@ -8898,31 +8898,31 @@ Please let us have a comprehensive medical report stating:
 We also request copies of all medical records that are in your hospital’s *\[medical practice’s\]* possession, including but not limited to the following:
 
 > (a) admission records;
->
+
 > (b) medical and clinical notes including letters of our client’s *\[the deceased*’*s\]* referral letters by doctors (from family clinics, polyclinics or other clinics/institutions);
->
+
 > (c) nursing notes;
->
+
 > (d) observation charts and documents on the health of our client *\[the deceased\]* during the treatment or stay in the hospital;
->
+
 > (e) laboratory test results;
->
+
 > (f) radiological scans, images and reports;
->
+
 > (g) consent forms;
->
+
 > (h) surgical records including anaesthetic records;
->
+
 > (i) pharmaceutical records, including fluids intake records and outputs;
->
+
 > (j) histological slides, images and reports;
->
+
 > (k) blood transfusion records;
->
+
 > (l) maternity records and cardiotocography (CTG) records (where claims involve matters relating to maternity and paediatric issues);
->
+
 > (m) physiotherapy and rehabilitative treatment records;
->
+
 > (n) records of family conferences.
 
 Please let us know within 7 days from the receipt of this letter the requisite charges for the medical reports and/or medical records. Upon receipt of the requisite charges by your hospital *\[medical practice\]*, please let us have the medical report within the next 6 weeks as prescribed under the Protocol for Medical Negligence Claims found in Appendix D of the State Courts Practice Directions. The letter authorising the release of the patient’s medical records/medical report to us is enclosed.
@@ -9059,15 +9059,15 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 1.2 This protocol applies to all personal injury claims including —
 
 > (a) all personal injury claims including —
->
+
 > (i) claims arising out of motor accidents and industrial accidents;
->
+
 > (ii) personal injury claims (whether or not involving any claim for property damage arising from the same accident); and
->
+
 > (iii) claims arising from fatal accidents
->
+
 > occurring on or after 1st April 2016 that are to be filed in the Magistrate’s Court or the District Court, as the case may be, but does not apply to medical negligence claims; and
->
+
 > (b) all personal injury claims arising out of motor accidents (whether or not involving any claim for property damage arising out of the same accident) and industrial accidents occurring on or after 1st December 2016 that are to be filed in the High Court (and subsequently transferred to the District Court).
 
 1.3 Any reference to “the potential defendant” in this protocol refers to the potential defendant if he is not claiming under his insurance policy, or to his insurer if he is claiming under his policy.
@@ -9083,7 +9083,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 2.1 For motor accident cases, the provisions of the Pre-Action Protocol for Non-Injury Motor Accident Cases at Appendix C of these Practice Directions relating to —
 
 > (a) the conduct of a pre-repair survey and post repair inspection of the claimant’s vehicle, including the joint selection and appointment by the parties of a motor surveyor as a single joint expert to conduct the pre-repair survey, shall apply to mixed claims for personal injury and property damage arising from the same accident (“mixed claims”); and
->
+
 > (b) the use of the *Motor Accident Guide* in negotiations between the parties to resolve the issue of liability shall apply to mixed claims and to personal injury claims.
 
 **3. Letter of Claim**
@@ -9093,25 +9093,25 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 3.2 The letter of claim must set out the full particulars of his claim, including the following information:
 
 > (a) a brief statement of all the relevant and available facts on which the claim is based;
->
+
 > (b) a brief description of the nature of the injuries suffered;
->
+
 > (c) an estimate of general and special damages with a breakdown of the heads of claim;
->
+
 > (d) the names of all witnesses (where possible to disclose);
->
+
 > (e) the case reference numbers, identity and contact particulars of the officer having charge of any investigations (e.g. the police officer or the relevant officer from the Ministry of Manpower); and
->
+
 > (f) the results of any prosecution or Court proceedings arising from the accident and where the claimant has passed away, the State Coroner’s verdict, where available.
 
 3.3 In respect of claims where —
 
 > (a) the estimated quantum falls within the jurisdiction of a Magistrate’s Court before any apportionment of liability (but excluding interest); and
->
+
 > (b) the claimant intends to appoint one or more experts for the purpose of the proceedings,
->
+
 > the claimant shall include his proposed list of medical expert(s) in each relevant specialty in his letter of claim. The claimant should preferably include the doctors who provided him treatment and/or review of his medical condition in his proposed list.
->
+
 3.4 In respect of claims where the estimated quantum exceeds the jurisdiction of a Magistrate’s Court, the claimant and the potential defendant and/or their respective insurers are encouraged, to follow the procedure set out in paragraph 4.3 of this protocol for the appointment of a mutually agreed medical expert.
 
 3.5 If the claimant is non-resident in Singapore, the letter of claim must further state the date the claimant is required to depart from Singapore once the relevant permits expire or are cancelled and, where available, the date of his intended departure from Singapore. This is to afford the potential defendant or his insurer an opportunity to arrange for a medical examination of the claimant by a medical expert mutually agreed by both parties in each relevant specialty, or where there is no agreement, a medical re-examination of the claimant by a medical expert appointed by the potential defendant or his insurer prior to the claimant’s departure from Singapore.
@@ -9121,47 +9121,47 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 3.7 In respect of the issue of liability, the claimant must enclose with his letter of claim a copy each of all relevant supporting documents, where available, such as the following:
 
 > ***For motor accident cases:***
->
+
 > (a) full and complete Singapore Accident Statements and police reports together with type-written transcripts of all persons involved in the accident;
->
+
 > (b) police sketch plan or, if that is unavailable, the claimant’s sketch of the accident;
->
+
 > (c) results of police investigations or outcome of prosecution for any traffic offence(s) arising from the accident;
->
+
 > (d) police vehicle damage reports;
->
+
 > (e) original, coloured copies or scanned photographs of damage to all vehicles;
->
+
 > (f) original, coloured copies or scanned photographs of the accident scene;
->
+
 > (g) video recording of the accident (if any);
->
+
 > (h) accident reconstruction report (if any); and
->
+
 > (i) any other supporting documents.
->
+
 > ***For industrial accident cases:***
->
+
 > (a) claimant’s sketch of the accident;
->
+
 > (b) original, coloured copies or scanned photographs of the accident scene;
->
+
 > (c) video recording of the accident (if any);
->
+
 > (d) Ministry of Manpower’s investigation reports (if any);
->
+
 > (e) Notice of Assessment from the Occupational Safety and Health Division, Ministry of Manpower (if any); and
->
+
 > (f) any other supporting documents.
->
+
 > ***For personal injury claims not involving motor and industrial accidents:***
->
+
 > (a) claimant’s sketch of the accident;
->
+
 > (b) original, coloured copies or scanned photographs of the accident scene;
->
+
 > (c) video recording of the accident (if any); and
->
+
 > (d) any other supporting documents.
 
 3.8 In respect of the issue of quantum, the claimant must enclose with his letter of claim a copy of each of all relevant supporting documents, where available, such as the following:
@@ -9173,27 +9173,27 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 > (c) bills for medical treatment and evidence of payment;
 
 > (d) income tax notices of assessment and/or other evidence of income and loss thereof; and
->
+
 > (e) supporting documents for all other expenses claimed (if any).
->
+
 > ***For mixed claims***
 
 Where the claim is for both personal injury and property damage, the claimant must in addition, enclose with his letter of claim a copy each of all relevant documents supporting the claim for property damage, such as the following:
 
 > (a) repairer’s bill and evidence of payment;
->
+
 > (b) motor surveyor’s report;
->
+
 > (c) excess bill or receipt;
->
+
 > (d) vehicle registration card;
->
+
 > (e) COE/PARF certificates;
->
+
 > (f) rental agreement, invoice and receipt for rental of replacement vehicle (if any);
->
+
 > (g) correspondences with the insurer relating to pre-repair survey and/or post repair inspection of the claimant’s vehicle; and
->
+
 > (h) supporting documents for all other expenses claimed (if any).
 
 3.9 The letter of claim must also instruct the potential defendant to immediately pass the letter and the documents to his insurer if he wishes to claim under his insurance policy. If the potential defendant’s insurer is known to the claimant, a copy of the letter of claim must be sent directly to the insurer. The letters to any other potential defendants must be copied to the rest of the parties. The letter(s) to the potential defendant(s) must be sent by way of e-mail, fax or certificate of posting. The letters to insurers must be sent by way of e-mail, fax, A.R. Registered mail or by hand (in which case an acknowledgement of receipt should be obtained).
@@ -9213,33 +9213,33 @@ Where the claim is for both personal injury and property damage, the claimant mu
 4.3 In respect of claims where the estimated quantum falls within the jurisdiction of a Magistrate’s Court, within **14 days** of sending the acknowledgment letter to the claimant, the potential defendant shall send a letter to the claimant stating whether he agrees or has any objections to the appointment of any of the medical experts proposed by the claimant for the relevant specialty.
 
 > (a) If the potential defendant agrees to any of the proposed medical experts, the claimant shall send the medical expert in each of the relevant specialty a letter of appointment within **14 days**. The medical expert mutually agreed upon by both parties shall be referred to as the ‘single joint expert’.
->
+
 > (b) The letter of appointment must be copied to the potential defendant. A medical report form (Form 4 or 4A in this protocol, as applicable) may be sent to the single joint expert. Form 4 may be used for higher value and/or more complex claims.
->
+
 > (c) If the potential defendant objects to all the proposed medical experts for any relevant specialty, the potential defendant must state the reasons for his objections and provide the name(s) of one or more medical experts in each relevant specialty whom he considers as suitable to appoint. The claimant shall within **14 days** from the date of receipt of the letter from the potential defendant state if he has any objections to the appointment of any of the medical experts proposed by the potential defendant for the relevant specialty.
->
+
 > (d) If the claimant agrees to any of the proposed medical experts, the claimant shall send the medical expert in each of the relevant specialty a letter of appointment within **14 days.** The medical expert mutually agreed upon by both parties shall be referred to as the ‘single joint expert’.
->
+
 > (e) The letter of appointment must be copied to the potential defendant. A medical report form (Form 4 or 4A in this protocol, as applicable) may be sent to the single joint expert.
->
+
 > (f) If the potential defendant or claimant fails to reply or fails in his reply to object to any of the medical experts listed in the other party’s letter within the timeline stipulated by this protocol, the party who fails to reply or to object is deemed to have agreed to the appointment of any of the medical experts proposed by the other party as a single joint expert.
->
+
 > (g) The costs of the medical examination of the claimant and medical report to be provided by the single joint expert shall be paid first by the claimant who may seek to recover the cost as part of his claim for reasonable disbursements.
->
+
 > (h) Either party may send the single joint expert written questions relevant to the issues or matters on which the medical report is sought. The questions must be copied to the other party.
->
+
 > (i) If the claimant objects to the medical experts proposed by the potential defendant for any relevant specialty, both parties are not precluded from instructing medical experts of their own choice for each relevant specialty that the parties are unable to agree upon. Should the potential defendant wish to arrange for the claimant to undergo a medical examination by his own medical expert, the potential defendant shall within **14 days** from the date of receipt of the claimant’s letter of reply, propose a date and time on which the claimant is to undergo the medical examination. The address at which the claimant must present himself for the medical examination must also be provided. However, if the estimated quantum falls within the jurisdiction of a Magistrate’s Court, parties are to be aware of Order 108, Rule 5(3) of the Rules of Court on the appointment of a single joint expert should the matter be unresolved subsequently and proceed for a simplified trial. Both parties shall in any event not unreasonably withhold consent to the appointment of a single joint expert as far as possible.
->
+
 > ***Substantive reply to claimant***
 
 4.4 If the potential defendant replies to the claimant with only an acknowledgement of receipt, within **8 weeks** from the date of receipt of the letter of claim, the potential defendant must reply to the claimant substantively. For this purpose, the following provisions will apply:
 
 > (a) The reply shall indicate whether the insurer is defending the claim or whether the defendant is defending the claim personally. Reasons for the insurer’s decision not to act must be provided.
->
+
 > (b) Subject to sub-paragraph (d) below, the reply must state the potential defendant’s position on the claim on both liability and quantum (e.g. whether the claim is admitted or denied) or make an offer of settlement. If the claim is not admitted in full, the potential defendant must give reasons and provide a list of documents together with copies of all relevant supporting documents. Singapore Accident Statements and police reports provided by the potential defendant must be full and complete and must reflect the names, identification numbers and addresses of all persons involved in the accident together with type-written transcripts of their factual accounts of the accident.
->
+
 > (c) If the insurer is the party replying to the claimant, the reply must also state the name(s), telephone number(s) and fax number(s) of the insurance officer(s) handling the matter and the insurer’s file reference number(s), to facilitate correspondence.
->
+
 > (d) Pending the receipt of the medical report from the single joint expert or other medical expert appointed under paragraph 4.3 and/or inspection report of the claimant’s vehicle pursuant to the Pre-Action Protocol for Non-Injury Motor Accident Cases (as the case may be), the reply must state the potential defendant’s position on liability and his preliminary position on quantum or, if he is unable to do so, reserve his position on quantum. Within **14 days** of receipt of the medical report from the medical expert and/or the vehicle inspection report, the potential defendant must state his position on quantum (e.g. whether the quantum claimed is admitted or denied) or make an offer of settlement.
 
 4.5 If the claimant does not receive the potential defendant’s substantive reply to his letter of claim within the requisite **8** **weeks** stipulated in paragraph 4.4, he may commence proceedings without any sanction by the Court.
@@ -9277,7 +9277,7 @@ Where the claim is for both personal injury and property damage, the claimant mu
 10.2 If, after reasonable effort has been made to settle the matter, but there are no reasonable prospects of settlement after a time period of **at least 8 weeks** from the date of receipt of the letter of claim, save where paragraphs 4.2 or 4.5 apply, the claimant may commence legal action after giving —
 
 > (a) 2 clear days’ notice (Form 3 in this protocol) by e-mail, fax or certificate of posting to the insurer; or
->
+
 > (b) 7 clear days’ notice (Form 3 in this protocol) by e-mail, fax or certificate of posting to the potential defendant, where the defence is not handled by an insurer.
 
 10.3 Where the claimant has earlier given notice that the offer being made was final, and legal proceedings would be commenced in the event that the potential defendant did not accept the offer within the specified timeframe, Form 3 need not be sent.
@@ -9287,9 +9287,9 @@ Where the claim is for both personal injury and property damage, the claimant mu
 11.1 The claimant may in his letter of claim or in a letter sent at any time subsequent thereto, seek one or more pre-writ interim payment(s) of damages from the potential defendant. The claimant must state in his letter —
 
 > (a) the amount he is seeking as interim payment; or
->
+
 > (b) where the interim payment is sought specifically for anticipated expenses (e.g. surgery or a course of physiotherapy), an estimate of the expenditure to be incurred,
->
+
 > and provide any supporting documents which have not already been furnished to the potential defendant.
 
 11.2 The potential defendant must reply to the claimant within **14 days** of receipt of the letter, stating whether or not the request for interim payment is acceded to and the amount offered. Reasons must be given in the reply if the request is not acceded to in full. Unless the claimant states otherwise, any sum which the potential defendant offers as an interim payment, regardless as to whether the request is acceded to in full or in part, shall be paid to the claimant within **28 days** of the potential defendant’s reply.
@@ -9301,11 +9301,11 @@ Where the claim is for both personal injury and property damage, the claimant mu
 12.2 Where after commencing an action, both liability and quantum are settled by the parties or decided by the Court (as the case may be) and the sum that is —
 
 > (a) settled;
->
+
 > (b) awarded, where the Plaintiff is successful; or
->
+
 > (c) claimed, where the Plaintiff is unsuccessful,
->
+
 > is less than $20,000 (excluding interest, if any), the Court will in general, award costs based on the guidelines below:
 
 | **Stage of proceedings**                          | **Costs allowed (exclusive of disbursements)**   |
@@ -9763,15 +9763,15 @@ GST Reg. No. (1<sup>st</sup> plaintiff): 67890 (20%)
 2<sup>nd</sup> plaintiff: No GST Reg. No. (100%)
 
 > Between
->
+
 > (1) AAA
->
+
 > (2) BBB
 
 ….. Plaintiffs
 
 > And
->
+
 > CCC
 
 ….. Defendant
@@ -10035,7 +10035,7 @@ Basis for taxation: Judgment dated \_\_\_\_\_\_\_\_ ordering the defendant to pa
 Dated this day of 20 .
 
 > Solicitors for
->
+
 > \[*State the party for whom the bill is filed*\].
 
 To:
@@ -10055,15 +10055,15 @@ GST Reg. No. (solicitors for plaintiff): 12345
 GST Reg. No. (Plaintiff): 67890 (20%)
 
 > Between
->
+
 > AAA
 
 ….. Plaintiff
 
 > And
->
+
 > BBB
->
+
 > ….. Defendant
 
 <span id="_Toc243995968" class="anchor"><span id="_Toc418079790" class="anchor"></span></span>***SAMPLE BILL OF COSTS FOR CONTENTIOUS BUSINESS OTHER THAN TRIALS***
@@ -10133,7 +10133,7 @@ Basis for taxation: Judgment dated \_\_\_\_\_\_\_\_ ordering Defendant to pay th
 Dated this day of 20 .
 
 > Solicitors for
->
+
 > \[*State the party for whom the bill is filed*\].
 
 To:
@@ -10209,23 +10209,23 @@ To: 
 1\.  An EPTC can be held for the following non-exhaustive list of common areas in dispute:
 
 > 1.1  In relation to damage to property, the cause, the extent of damage, and costs of replacement or repair.
->
+
 > 1.2 In relation to contracts for the sale and supply of goods and services, the amount of goods and services supplied, the assessment of defects, and the costs of replacement or repair.
->
+
 > 1.3 In relation to injuries or death to persons, the cause, the extent of injuries, and the costs of medical needs.
 
 2\. Expert witnesses commonly appearing in Court include:
 
 > 2.1 Medical experts – personal injuries and medical negligence claims;
->
+
 > 2.2 Architects, engineers, quantity surveyors, building surveyors, land valuers – Property, building and renovation contracts;
->
+
 > 2.3  Accountants and auditors – company and directors claims, claims relating to the taking of accounts;
->
+
 > 2.4 Foreign lawyers – On issues concerning foreign law;
->
+
 > 2.5 Industry professionals – On issues concerning standards and trade practices in specific industries;
->
+
 > 2.6 Handwriting experts – On issues relating to forgery
 
 3\. The letter of request in Form 11 of Appendix A of the State Courts' Practice Directions should be copied to all relevant parties. Within 7 days after receiving the request, the Court will as far as practicable inform all parties of the EPTC hearing date.
@@ -10233,13 +10233,13 @@ To: 
 4\.  The EPTC hearing may be conducted through such video conferencing systems approved for use by the Court. Parties are expected to address the Court on the following issues:
 
 > 4.1 A summary of the facts of the case;
->
+
 > 4.2 The legal issues;
->
+
 > 4.3 The issues requiring expert proof;
->
+
 > 4.4  Relevance of expert evidence; and
->
+
 > 4.5  The type of intended expert.
 
 5\. At the EPTC hearing, the Court may pursuant to Order 34A of the Rules of Court exercise all powers to make orders and give directions for the just, expeditious and economical disposal of proceedings. Such orders may include extensions of time to file and serve pleadings, the appointment of a single joint expert, the appointment of a limited number of experts for each party and such other orders necessary for the effective management of expert issues.
@@ -10252,13 +10252,13 @@ To: 
 **(1) Scope of electronic discovery**
 
 > (a) General discovery of the following class or classes of electronically stored documents shall be given:
->
+
 > \[*eg* Electronic mail, correspondence, letters, *etc*.\]
->
+
 > (b) The party giving discovery shall take reasonable steps to decrypt encrypted files or encrypted storage locations, media or devices in order to identify discoverable electronically stored documents. This may include taking reasonable steps to obtain the decryption code and/or using reasonable technical means to perform decryption of the encrypted files or encrypted storage locations, media or devices.
->
+
 > (c) For the avoidance of doubt, electronically stored documents residing in folders or directories in storage locations, media or devices, including folders or directories where temporarily deleted files are located (for example the Recycle Bin folder or Trash folder) are within the scope of general discovery; deleted files or file fragments containing information which are recoverable through the use of computer forensic tools or techniques during a forensic inspection of the unallocated file space or file slack are **not** within the scope of general discovery.
->
+
 > (d) **Reasonable search**. The search terms or phrases specified in the first column will be used in the conduct of a reasonable search for relevant electronically stored documents. The reasonable search will be limited by the scope described in the second column.
 
 | *Search term or phrase*     | *Scope*                                                                                                                                                                                                                      |
@@ -10268,9 +10268,9 @@ To: 
 **(2) Format of list**
 
 > The list of documents shall categorise and list electronically stored documents separately from documents in printed or other form. The list of documents enumerating electronically stored documents shall include the following columns:
->
+
 > \[*eg* description of the electronically stored document, the name of the corresponding soft copy file, the file format (and its version) of the electronic document, the hash value of the file, *etc*\]
->
+
 > An index of documents enumerated in the list of documents shall be provided in an electronic spreadsheet in the \[*eg* Excel 2007 Binary (.xls), Comma Separated Value (.csv), *etc*\] file format.
 
 **(3) Review for privileged material**
@@ -10280,13 +10280,13 @@ To: 
 **(4) Inspection and copies**
 
 > (a) **Arrangements for inspection**. The place for inspection of discoverable electronic documents should be stated separately if it is different from the place for inspection of other discoverable documents. If the party entitled to inspect intends to inspect through or with the assistance of its appointed computer expert, such computer expert shall provide an undertaking of confidentiality to the party giving inspection before he commences his inspection.
->
+
 > (b) **Supply of copies**. During inspection, copies shall not be taken. If copies are required, a request should be made. Electronic copies of discoverable documents will be supplied in their native format and in read-only optical discs upon request. Electronic copies of discoverable documents where privilege is claimed only with respect to their internally stored metadata information will be supplied in the Tagged Image File Format (or TIFF) with privileged metadata information removed. For each of the read-only optical discs supplied, a further list stating the storage format (and its version) of the optical disc and enumerating the list of electronic documents stored therein shall be provided.
 
 **(5) Inspection of computer databases and electronic media or recording devices**
 
 > Parties agree that the protocol for inspection of computer databases and electronic media or recording devices (Part 2 of Appendix I to these Practice Directions) shall apply for the inspection of the following:
->
+
 > \[List the computer databases, electronic media or recording devices\]
 
 **(6) Inadvertent disclosure of privileged documents**
@@ -10302,93 +10302,93 @@ To: 
 **(1) Appointment of computer experts**
 
 > (a) **Joint appointment.**
->
+
 > The party producing the computer database, electronic medium or recording device for inspection (“**the Producing Party**”) and the party entitled to inspection of the computer database, electronic medium or recording device (“**the Inspecting Party**”), may jointly appoint a computer expert (“**the Joint Expert**”) for the purpose of making a forensic copy of such computer database, electronic medium or recording device (“**the Original Acquired Image**”). The Joint Expert’s role shall be restricted to the acquisition of the Original Acquired Image and the performance of a reasonable search on a copy of the Original Acquired Image in accordance with the terms of this protocol. Before the Joint Expert commences his appointment, he shall provide an undertaking of confidentiality to the Court and to all parties concerned in the inspection. He shall also procure a similar undertaking from each of his employees, representatives, agents or sub-contractors involved in the engagement.
->
+
 > (b) **Costs and expenses of Joint Expert.**
->
+
 > All costs and expenses relating to the appointment of the Joint Expert under this protocol shall initially be borne equally between the Producing Party and the Inspecting Party. Nothing in this protocol is intended to or shall be taken to prevent any party to the cause or matter from seeking the recovery of such costs and expenses in accordance with the Rules of Court.
->
+
 > (c) **Individual appointments.**
->
+
 > Nothing in this protocol shall prevent the Producing Party, the Inspecting Party and any other party concerned in the inspection from appointing his own computer expert.
 
 **(2) Acquisition of the Original Acquired Image**
 
 > (a) **Where Joint Expert appointed.**
->
+
 > The Joint Expert shall acquire the Original Acquired Image under the supervision of all parties concerned in the inspection, their representatives or computer experts. Sufficient copies of the Original Acquired Image shall be made as necessary in order that the Producing Party and each Inspecting Party may be supplied with an electronic copy of the Original Acquired Image. The Joint Expert shall provide sufficient information with the copy of the Original Acquired Image to enable the party’s computer expert to access the copy supplied. The Original Acquired Image shall be sealed and delivered to the custody of the Producing Party, who shall enumerate it in a list of documents to be filed under Order 24 of the Rules of Court.
->
+
 > (b) **Where Joint Expert not appointed**.
->
+
 > The Producing Party’s computer expert shall be responsible for acquiring the Original Acquired Image under the supervision of all parties concerned in the inspection, their representatives or computer experts. Sufficient copies of the Original Acquired Image shall be made as necessary for the purposes of inspection and reasonable search to be provided under this protocol. The Original Acquired Image shall be sealed and delivered to the custody of the Producing Party, who shall enumerate it in a list of documents to be filed under Order 24 of the Rules of Court.
->
+
 > (c)  **Original Acquired Image to be produced when ordered by Court.**
->
+
 > The party to whose custody the sealed Original Acquired Image has been delivered shall not tamper with or break the seal, and shall produce the Original Acquired Image to the Court or such other person(s) as the Court may direct.
 
 **(3) Safeguards for reasonable search**
 
 > This paragraph applies in situations where a reasonable search is conducted on the contents of a copy of the Original Acquired Image.
->
+
 > ***Where Joint Expert appointed***
->
+
 > (a) **Conduct of reasonable search.**
->
+
 > The Inspecting Party shall specify or describe the search terms or phrases to be used in a reasonable search to be conducted on the contents of a copy of the Original Acquired Image to the Producing Party and the Joint Expert.
->
+
 > If the Producing Party does not object to the search terms or phrases so specified or described, he shall communicate his consent to the Joint Expert and the Inspecting Party. The Joint Expert shall make arrangements for the conduct of the reasonable search on a copy of the Original Acquired Image under the supervision of all parties concerned in the inspection, their representatives or computer experts.
->
+
 > If the Producing Party objects to any or all of the search terms or phrases so specified or described, he shall forthwith inform the Joint Expert. The parties shall resolve such objections before any further steps are taken for the conduct of the reasonable search. The Joint Expert shall not take any further steps for the conduct of the reasonable search until:
->
+
 > (i) he is informed by the Producing Party of his consent to the original search terms or phrases; or
->
+
 > (ii) the Inspecting Party specifies or describes a new set of search terms or phrases and to which the Producing Party provides his consent in accordance with this sub-paragraph.
->
+
 > A copy of the documents or records that are the results of the reasonable search (“**the Search Results**”) shall be made and released to the Producing Party.
->
+
 > (b) **Review for privileged material.**
->
+
 > The Producing Party shall be at liberty to review the Search Results for the purpose of claiming privilege. If the Producing Party claims privilege over any document or record from the Search Results, he shall list the electronic documents or records over which privilege is claimed.
->
+
 > (c) **Release for inspection.**
->
+
 > Thereafter, the Joint Expert shall remove copies of any documents or records over which privilege is claimed from the Search Results (“**the Redacted Search Results**”). The Joint Expert may maintain a separate privilege log which records the documents or records which are thus removed and the reasons given for doing so. For the avoidance of doubt, the privilege log shall not be included in the Joint Expert’s report but the Joint Expert shall produce the privilege log to the Court if so directed by the Court. The Redacted Search Results shall be released to the Inspecting Party for inspection together with the list of electronic documents or records over which privilege is claimed.
->
+
 > ***Where Joint Expert not appointed***
->
+
 > (d) **Conduct of reasonable search.**
->
+
 > The Inspecting Party shall specify or describe the search terms or phrases to be used in a reasonable search to be conducted on the contents of a copy of the Original Acquired Image to the Producing Party. If the Producing Party objects to any or all of the search terms or phrases so specified or described, parties shall resolve such objections before any further steps are taken for the conduct of the reasonable search. Upon resolution of any objections or if the Producing Party consents to the specified or described search terms or phrases, he shall make arrangements for his computer expert to conduct the requested reasonable search on a copy of the Original Acquired Image under the supervision of all parties concerned in the inspection, their representatives or computer experts.
->
+
 > (e) **Review for privileged material.**
->
+
 > The Producing Party shall be at liberty to review the Search Results for the purpose of claiming privilege. If the Producing Party claims privilege over any document or record from the Search Results, he shall list the electronic documents or records over which privilege is claimed.
->
+
 > (f) **Release for inspection.**
->
+
 > Thereafter, the Producing Party shall remove copies of any documents or records over which privilege is claimed from the Search Results. The Redacted Search Results shall be released to the Inspecting Party for inspection together with the list of electronic documents or records over which privilege is claimed.
->
+
 > (4) **Safeguards for forensic examination**
->
+
 > This paragraph applies to the forensic examination of a copy of the Original Acquired Image for the purpose of identifying electronically stored documents thereon or for the recovery of deleted files or file fragments from the unallocated file space or file slack using computer forensic tools or techniques. A Joint Expert shall be appointed for the purpose of such forensic examination.
->
+
 > (a) **Conduct of forensic examination.** The Inspecting Party shall specify or describe the search terms or phrases to be used in the forensic examination to be conducted on the contents of a copy of the Original Acquired Image to the Joint Expert. The Joint Expert shall not at any time disclose to the Producing Party the search terms or phrases specified or described by the Inspecting Party and shall not include the search terms or phrases in his report. For the avoidance of doubt, the Joint Expert shall disclose the search terms or phrases to the Court if so directed by the Court. The Joint Expert shall make arrangements for the conduct of the forensic examination on a copy of the Original Acquired Image. Neither the Inspecting Party nor the Producing Party, or any of their solicitors, computer experts, employees, representatives or agents shall be present during the conduct of the forensic examination. A copy of the documents or records that are the results of the reasonable search (“the Search Results”) shall be made and released to the Producing Party. The Producing Party is not entitled to a copy, and shall not request the Joint Expert for a copy, of the search terms or phrases specified or described by the Inspecting Party.
->
+
 > (b) **Review for privileged material.**
->
+
 > The Joint Expert and the Producing Party shall jointly review the Search Results for the purpose of permitting the Producing Party to identify electronically stored documents, deleted files or file fragments over which he claims privilege. If the Producing Party claims privilege over any electronically stored documents, deleted files or file fragments from the Search Results, he shall identify them to the Joint Expert. The Producing Party shall list the electronic documents, deleted files or file fragments over which privilege is claimed.
->
+
 > (c) **Release for inspection.**
->
+
 > Thereafter, the Joint Expert shall remove copies of any electronic documents, deleted files or file fragments over which privilege is claimed from the Search Results (“the Redacted Search Results”). The Joint Expert may maintain a separate privilege log which records the electronic documents, deleted files or file fragments which are thus removed and the reasons provided for the removal. For the avoidance of doubt, the privilege log shall not be included in the Joint Expert’s report but the Joint Expert shall produce the privilege log to the Court if so directed by the Court. The Redacted Search Results shall be released to the Inspecting Party for inspection together with the Producing Party’s list of electronic documents, deleted files or file fragments over which privilege is claimed.
 
 (5) **Inadvertent disclosure of privileged documents**
 
 > Notwithstanding compliance with the procedures in this protocol, nothing in this protocol is intended to be or shall be taken to amount to a waiver of privilege.
->
+
 > (6) **Discovery and production only if necessary**
->
+
 > For the avoidance of doubt, nothing in this protocol shall compel any party to give discovery of any document or produce any document for inspection which is not otherwise discoverable under Order 24, Rules 7 or 13 of the Rules of Court.
 
 ### Part 3: Reasonably Usable Formats
@@ -10775,7 +10775,7 @@ If no, please give reasons.
 Ans: Yes / No
 
 > If no, please give reasons.
->
+
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 1.  Are any of the claims made by the claimant admitted by the defendant?
