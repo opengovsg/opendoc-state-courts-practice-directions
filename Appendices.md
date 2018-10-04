@@ -8093,83 +8093,83 @@ Name of respondent
 
 > 5.2.1 For CDRs for **motor accident claims** -
 
-> (a) Full and complete Singapore Accident Statements and police reports including the names, identity card numbers and addresses of all persons involved in the accident, together with type-written transcripts of their factual accounts of the accident;
+>> (a) Full and complete Singapore Accident Statements and police reports including the names, identity card numbers and addresses of all persons involved in the accident, together with type-written transcripts of their factual accounts of the accident;
 
-> (b) Police sketch plan and if unavailable, the parties' sketches of the accident;
+>> (b) Police sketch plan and if unavailable, the parties' sketches of the accident;
 
-> (c) Results of police investigations or outcome of prosecution for traffic offence(s);
+>> (c) Results of police investigations or outcome of prosecution for traffic offence(s);
 
-> (d) Police vehicle damage reports;
+>> (d) Police vehicle damage reports;
 
-> (e) Original, coloured copies or scanned photographs of damage to all vehicles;
+>> (e) Original, coloured copies or scanned photographs of damage to all vehicles;
 
-> (f) Original, coloured copies or scanned photographs of the accident scene;
+>> (f) Original, coloured copies or scanned photographs of the accident scene;
 
-> (g) Video recording of the accident (if any);
+>> (g) Video recording of the accident (if any);
 
-> (h) Accident reconstruction report (if any);
+>> (h) Accident reconstruction report (if any);
 
-> (i) Names and addresses of witnesses (if any);
+>> (i) Names and addresses of witnesses (if any);
 
-> (j) Repairer’s bill and evidence of payment;
+>> (j) Repairer’s bill and evidence of payment;
 
-> (k) Surveyor’s report;
+>> (k) Surveyor’s report;
 
-> (l) Excess bill or receipt;
+>> (l) Excess bill or receipt;
 
-> (m) Vehicle registration card;
+>> (m) Vehicle registration card;
 
-> (n) COE/PARF certificates;
+>> (n) COE/PARF certificates;
 
-> (o) Rental agreement, invoice and receipt for rental of replacement vehicle (if any);
+>> (o) Rental agreement, invoice and receipt for rental of replacement vehicle (if any);
 
-> (p) Correspondences with the defendant's insurer relating to pre-repair survey and/or post-repair inspection of the plaintiff's vehicle;
+>> (p) Correspondences with the defendant's insurer relating to pre-repair survey and/or post-repair inspection of the plaintiff's vehicle;
 
-> (q) Any other supporting documents.
+>> (q) Any other supporting documents.
 
 > 5.2.2 For CDRs for **personal injury claims** or where **personal injury forms part of the motor accident claim** -
 
-> (a) Medical reports from the treating doctor, reviewing doctor and medical specialist;
+>> (a) Medical reports from the treating doctor, reviewing doctor and medical specialist;
 
-> (b) Certificates for hospitalisation and medical leave;
+>> (b) Certificates for hospitalisation and medical leave;
 
-> (c) Bills for medical treatment and evidence of payment;
+>> (c) Bills for medical treatment and evidence of payment;
 
-> (d) Income tax notices of assessment and/or other evidence of income and loss thereof;
+>> (d) Income tax notices of assessment and/or other evidence of income and loss thereof;
 
-> (e) Supporting documents for all other expenses claimed (if any).
+>> (e) Supporting documents for all other expenses claimed (if any).
 
 > 5.2.3 For CDRs for **industrial accidents** -
 
-> (a) The parties' sketches of the accident;
+>> (a) The parties' sketches of the accident;
 
-> (b) Notice of accident lodged with the Ministry of Manpower;
+>> (b) Notice of accident lodged with the Ministry of Manpower;
 
-> (c) Ministry of Manpower's investigation reports (if any);
+>> (c) Ministry of Manpower's investigation reports (if any);
 
-> (d) Notice of Assessment from the Occupational Safety and Health Division, Ministry of Manpower (if any);
+>> (d) Notice of Assessment from the Occupational Safety and Health Division, Ministry of Manpower (if any);
 
-> (e) Outcome of prosecution (if any);
+>> (e) Outcome of prosecution (if any);
 
-> (f) Original, coloured copies or scanned photographs of the accident scene;
+>> (f) Original, coloured copies or scanned photographs of the accident scene;
 
-> (g) Video recording of the accident (if any);
+>> (g) Video recording of the accident (if any);
 
-> (h) Names and addresses of witnesses (if any);
+>> (h) Names and addresses of witnesses (if any);
 
-> (i) Any other supporting documents.
+>> (i) Any other supporting documents.
 
 > 5.2.4 For CDRs for **any personal injury claim not involving motor accidents or industrial accidents** -
 
-> (a) The parties' sketches of the accident;
+>> (a) The parties' sketches of the accident;
 
-> (b) Original, coloured copies or scanned photographs of the accident scene;
+>> (b) Original, coloured copies or scanned photographs of the accident scene;
 
-> (c) Video recording of the accident (if any);
+>> (c) Video recording of the accident (if any);
 
-> (d) Names and addresses of witnesses (if any);
+>> (d) Names and addresses of witnesses (if any);
 
-> (e) Any other supporting documents.
+>> (e) Any other supporting documents.
 
 5.3 ***Documents and instructions***
 
