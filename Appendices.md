@@ -10138,9 +10138,9 @@ Dated this day of 20 .
 
 To:
 
-<span id="appendix_h_sample_c_htm" class="anchor"><span id="_Toc418079791" class="anchor"><span id="_Toc524012671" class="anchor"><span id="_Toc374698914" class="anchor"></span></span></span></span>Sample C
+Sample C
 
-<span id="_Toc418079792" class="anchor"><span id="_Toc418759492" class="anchor"></span></span>**Sample bill of costs for non-contentious business**
+**Sample bill of costs for non-contentious business**
 
 **IN THE STATE COURTS OF THE REPUBLIC OF SINGAPORE**
 
@@ -10150,7 +10150,7 @@ GST Reg. No. : 12345
 
 In the matter of
 
-<span id="_Toc122854493" class="anchor"><span id="_Toc122854873" class="anchor"><span id="_Toc243995970" class="anchor"><span id="_Toc418079793" class="anchor"></span></span></span></span>***SAMPLE BILL OF COSTS FOR NON-CONTENTIOUS BUSINESS***
+***SAMPLE BILL OF COSTS FOR NON-CONTENTIOUS BUSINESS***
 
 Applicant: Solicitors for ABC
 
@@ -10395,18 +10395,13 @@ To: 
 
 | **File Format**                                      | **Version**                                                                     |
 |------------------------------------------------------|---------------------------------------------------------------------------------|
-|                                                      |                                                                                 |
 | *Office Documents*                                   |                                                                                 |
 | Hypertext Markup Language                            | HTML 4.01 or ISO/IEC 15445:2000                                                 |
 | Extensible Hypertext Markup Language                 | XHTML 2.0                                                                       |
 | Rich Text Format (RTF)                               | RTF 1.9.1                                                                       |
 | Plaintext Format                                     |                                                                                 |
 | Portable Document Format (PDF)                       |                                                                                 |
-| Microsoft Office file Formats                        | Word 97 - 2007 Binary File Format (.doc) Specification                          
-                                                        PowerPoint 97 - 2007 Binary File Format (.ppt) Specification                     
-                                                        Excel 97 - 2007 Binary File Format (.xls) Specification                          
-                                                        Excel 2007 Binary File Format (.xlsb) Specification                              
-                                                        Office Drawing 97 - 2007 Binary Format Specification                             |
+| Microsoft Office file Formats                        | Word 97 - 2007 Binary File Format (.doc) Specification<br/>PowerPoint 97 - 2007 Binary File Format (.ppt) Specification<br/>Excel 97 - 2007 Binary File Format (.xls) Specification<br/>Excel 2007 Binary File Format (.xlsb) Specification<br/>Office Drawing 97 - 2007 Binary Format Specification |
 |                                                      |                                                                                 |
 | *Electronic Mail*                                    |                                                                                 |
 | Multipurpose Internet Mail Extension (MIME)          | RFC 5322                                                                        |
@@ -10572,239 +10567,19 @@ To: 
 
 8.2.  Where there are good reasons for non-compliance, the court will not impose sanctions against the party in default.
 
-**FORM 1:**
+### Forms
+<ul type="*">
+<li><a href="./downloads/Appendix-K-Form-1.pdf" download>Form 1: Letter of Claim</a></li>
 
-**LETTER OF CLAIM**
+<li><a href="./downloads/Appendix-K-Form-2.pdf" download>Form 2: Sample Apology and Undertaking</a></li>
 
-PRIVATE AND CONFIDENTIAL
+<li><a href="./downloads/Appendix-K-Form-3.pdf" download>Form 3: Response to Letter of Claim</a></li>
 
-TO BE OPENED BY ADDRESSEE ONLY
+<li><a href="./downloads/Appendix-K-Form-4.pdf" download>Form 4: Sample Acknowledgment of Receipt</a></li>
 
-To: \[Potential defendant\]
-
-\[Address\]
-
-**SECTION 1 - INTRODUCTION**
-
-State that you are / your client is claiming against the potential defendant in connection with \[*insert nature of publication or broadcast. For example, a letter / an article / a book / an online post*\] which was \[*published / said*\] on \[*date*\].
-
-**SECTION 2 – DETAILS OF PARTIES AND WORDS COMPLAINED OF**
-
-1.  State your / your client’s full name and address.
-
-2.  Identify the publication or occasion where the words complained of were made. Include the date and location of the publication or occasion.
-
-3.  Identify the person(s) to whom the words complained of were published, broadcasted or spoken.
-
-4.  Set out the exact words complained of as a quotation.
-
-5.  Where applicable, set out a translation of the words in the English language.
-
-6.  Include a copy of the publication, a screenshot, or a copy of the transcript of the words complained of.
-
-7.  Set out details of any fact and matter which makes you / your client identifiable from the words complained of.
-
-**SECTION 3 – MEANING OF WORDS COMPLAINED OF AND HOW THEY ARE DEFAMATORY**
-
-1.  Set out the natural and ordinary meaning of the words complained of.
-
-2.  Where applicable, set out the innuendo meaning[^18] of the words complained of and the facts that give rise to the innuendo meaning which are known to the person(s) to whom the words complained of were made.
-
-3.  Provide an explanation as to why the words complained of are inaccurate or unsupportable.
-
-**SECTION 4 – DAMAGE CAUSED AND REMEDIES SOUGHT**
-
-1.  Set out the damage caused to you / your client by the words complained of.
-
-2.  Set out the nature of the remedies you / your client seek(s).
-
-3.  Where applicable, specify the quantum of monetary damages that you / your client seek(s) and as far as possible, refer to relevant case precedents and/or other authorities.
-
-4.  Where applicable, enclose a draft retraction, clarification, apology and/or undertaking (see Form 2 in this Protocol).
-
-**SECTION 5 – ADR OPTIONS AND CONCLUSION**
-
-State your / your client’s preferred mode of ADR:
-
-□ mediation at the Singapore Mediation Centre
-
-□ mediation at the Singapore International Mediation Centre
-
-□ mediation under the Law Society Mediation Scheme
-
-□ others: (Please specify)
-
-If you do not / your client does not wish to propose or engage in ADR, please state the reasons.
-
-Request a response to this letter of claim within 14 days of the potential defendant’s receipt of this letter. State that the timelines and details set out in the Pre-Action Protocol for Defamation Actions apply.
-
-State that if you do not / your client does not receive an acknowledgement or response from the potential defendant within 14 days, you / your client will be entitled to commence Court proceedings against the potential defendant without further compliance with the said Protocol.
-
-Yours faithfully
-
-\[Signed off by claimant / claimant’s solicitors\]
-
-Enclosures.
-
-**FORM 2:**
-
-**SAMPLE APOLOGY AND UNDERTAKING**
-
-To: \[Claimant\]
-
-Dear Sir
-
-On \[*date*\], I published a \[*letter / article / online post*\] **OR** I said words to the effect of \[*set out the substance of the words complained of*\].
-
-I would like to retract what I \[*published / said*\] and withdraw all imputations upon you.
-
-I acknowledge that there was no basis for what I \[*published / said*\] and I apologise to you for having \[*published / said*\] them.
-
-In consideration of you not commencing legal proceedings against me for the abovementioned publication / words complained of:
-
-1.  I extend the above apology to you;
-
-2.  I undertake not to repeat those words or words to that effect in the future;
-
-3.  \[If applicable\] I will pay to you the sum of \_\_\_\_\_\_\_\_\_\_\_ as monetary damages by \[*date*\]; and
-
-4.  (Any other remedy sought by the claimant or offered by the potential defendant).
-
-Yours faithfully
-
-\[Signed off by potential defendant\]
-
-**FORM 3:**
-
-**RESPONSE TO LETTER OF CLAIM**
-
-To: \[Claimant / claimant’s solicitors\]
-
-\[Address\]
-
-**SECTION 1 - INTRODUCTION**
-
-State that you / your client acknowledge(s) receipt of the letter of claim dated \[*date*\] and its enclosures on \[*date of receipt*\].
-
-**SECTION 2 – RESPONSE TO THE LETTER OF CLAIM**
-
-1.  State whether, and to what, extent the claim is accepted, whether more information is required or whether the claim is rejected.
-
-2.  If the claim is fully accepted, state that you / your client accept(s) the claim and the remedies which you are / your client is willing to offer (for example, retraction, clarification, apology, undertaking, offer of amends[^19] and/or monetary payment (in which case, specify the quantum and as far as possible, refer to relevant case precedents and/or other authorities)).
-
-3.  If the claim is partially accepted:
-
-<!-- -->
-
-1.  state the areas of the claim which you / your client accept(s);
-
-2.  state the areas of the claim which you / your client dispute(s) and why;
-
-3.  state the remedies which you are / your client is willing to offer, if any (for example, retraction, clarification, apology, undertaking, offer of amends and/or monetary payment (in which case, specify the quantum and as far as possible, refer to relevant case precedents and/or other authorities)).
-
-<!-- -->
-
-1.  If more information in relation to the claim is required, specify the additional information required and why;
-
-2.  If the claim is rejected:
-
-<!-- -->
-
-1.  state that you / your client reject(s) the claim;
-
-2.  where applicable, state that you / your client disagree(s) with the claimant’s interpretation of the words complained of and identify the meanings which you / your client attribute(s) to those words;
-
-3.  where applicable, indicate which substantive defence you / your client wish(es) to rely on and the relevant facts in support of that defence (for example, the defences of justification, absolute / qualified privilege or fair comment).
-
-<!-- -->
-
-1.  If there is a counterclaim for defamation, provide the information set out at Form 1 in this Protocol.
-
-**SECTION 3 – ADR OPTIONS AND CONCLUSION**
-
-State whether you are / your client is agreeable to any of the ADR options proposed by the claimant in the letter of claim. If you are not / your client is not agreeable to the proposed ADR option(s), counter-propose your / your client’s preferred ADR option(s) as a form of dispute resolution.
-
-If you do not / your client does not wish to engage in ADR, please state the reasons.
-
-Yours faithfully
-
-\[Signed off by potential defendant / potential defendant’s solicitors\]
-
-**FORM 4:**
-
-**SAMPLE ACKNOWLEDGEMENT OF RECEIPT**
-
-To: \[Claimant / claimant’s solicitors\]
-
-\[Address\]
-
-Dear Sir
-
-I acknowledge receipt of your letter dated \[*date*\] in connection with \[*insert publication or broadcast containing words complained of*\].
-
-I am not in a position to fully respond to your allegations within the time limit that you have set.
-
-Please accept this letter as formal notification that I shall respond in full by \[*date*\].
-
-Please defer any proposed action until receipt of my letter on \[*date*\].
-
-Yours faithfully
-
-\[Signed off by potential defendant / potential defendant’s solicitors\]
-
-**FORM 5:**
-
-**PRE-ACTION PROTOCOL CHECKLIST**
-
-**TO BE FILED WITH STATEMENT OF CLAIM**
-
-1.  Has the defendant acknowledged receipt of the claimant’s letter of claim?
-
-> Ans: Yes / No
-
-1.  Have attempts been made to settle the matter?
-
-> Ans: Yes / No
-
-If no, please give reasons.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-1.  Have the parties considered alternative remedies under the Protection from Harassment Act (Cap. 256A)?
-
-Ans: Yes / No
-
-> If no, please give reasons.
-
-> \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-1.  Are any of the claims made by the claimant admitted by the defendant?
-
-> Ans: Yes / No
-
-1.  Has the defendant indicated that he has a counterclaim for defamation?
-
-> Ans: Yes / No
-
-1.  Is that counterclaim or any part thereof admitted by the claimant?
-
-> Ans: Yes / No / Not applicable
-
-1.  The following documents / information have been exchanged between the claimant and defendant:
-
-> *\[Claimant to set out list of documents/information\]*
-
-**I confirm that I have complied with the Pre-Action Protocol for Defamation Actions.**
-
-\[Signed off by claimant\]
-
-*\[This section is to be completed by the claimant’s solicitors\]*
-
-I have provided my client(s) with an estimate of the costs to be incurred if the matter proceeds to trial.
-
-\[Signed off by claimant’s solicitors\]
-
-### Footnotes
+<li><a href="./downloads/Appendix-K-Form-1.pdf" download>Form 5: Pre-Protocol Checklist to be Filed with Statement of Claim</a></li>
+</ul>
+## Footnotes
 
 [^1]: <sup>+</sup> Where a supervising solicitor is ordered.
 
