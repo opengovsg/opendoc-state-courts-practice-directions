@@ -9307,40 +9307,4 @@ is less than $20,000 (excluding interest, if any), the Court will in general, aw
 </ul>
 ## Footnotes
 
-[^1]: <sup>+</sup> Where a supervising solicitor is ordered.
-
-[^2]: <sup>1</sup> This notice is not a substitute for the endorsement of a penal notice.
-
-[^3]: <sup>+</sup> Where a supervising solicitor is ordered.
-
-[^4]: <sup>2</sup> These words are to be included in a case where the premises are likely to be occupied by an unaccompanied woman and the supervising solicitor is a man.
-
-[^5]: <sup>3</sup> These words are to be included in a case where the premises are likely to be occupied by an unaccompanied woman.
-
-[^6]: <sup>+</sup> Where a supervising solicitor is ordered.
-
-[^7]: <sup>+</sup> Where a supervising solicitor is ordered.
-
-[^8]: <sup>+</sup> Where a supervising solicitor is ordered.
-
-[^9]: <sup>4</sup> In appropriate cases.
-
-[^10]: <sup>+</sup> Where a supervising solicitor is ordered.
-
-[^11]: <sup>1</sup> This notice is not a substitute for the endorsement of a penal notice.
-
-[^12]: This notice is not a substitute for the indorsement of a penal notice
-
-[^13]: Pursuant to section 45A(4) of the Evidence Act (Cap. 97).
-
-[^14]: Pursuant to paragraph 3 of the Fees (State Courts – Criminal Jurisdiction) Order 2014, and regulation 2(2) of the Criminal Procedure Code (Prescribed Fees) Regulations 2013, read with section 426(1) of the Criminal Procedure Code (Cap. 68).
-
-[^15]: Pursuant to regulation 2(1)(b) of the Criminal Procedure Code (Prescribed Fees) Regulations 2013, read with section 377(6) of the Criminal Procedure Code (Cap. 68).
-
-[^16]: Ordinary Branch members can have their union represent them for wage negotiations and workplace issues.
-
 [^17]: Please refer to Order 92, Rule 1 of the Rules of Court (Cap. 322 R 5).
-
-[^18]: In their innuendo meaning, *ie*, in some other meaning (apart from the natural and ordinary meaning) which, although not defamatory from the viewpoint of the ordinary reasonable person, is nonetheless defamatory from the viewpoint of person(s) with knowledge of the special meaning of the offending words or the relevant extrinsic facts.
-
-[^19]: Please refer to section 7 of the Defamation Act (Cap. 75).
