@@ -25,7 +25,7 @@ section_order:
   - "Part XXI: Defamation Actions"
   - "Appendices"
 elastic_search:
-  index: intro_index
+  index: state-courts-pd
   doctype: bare
 environment: DEV
 google_analytics: UA-113717369-6
