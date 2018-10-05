@@ -31,83 +31,9 @@
 <li><a href="./downloads/Appendix-A-Form-12.pdf" download>Form 12: Note to Expert Witness</a></li>
 <li><a href="./downloads/Appendix-A-Form-12A.pdf" download>Form 12A: Joint Expert Report</a></li>
 <li><a href="./downloads/Appendix-A-Form-13.pdf" download>Form 13: Index to Agreed Bundle of Documents</a></li>
+<li><a href="./downloads/Appendix-A-Form-14.pdf" download>Form 14: Application to be Registered User of the Electronic Filing Service</a></li>
+<li><a href="./downloads/Appendix-A-Form-15.pdf" download>Form 15: Letter of Authority to act as Authorised Bailiff</a></li>
 </ul>
-
-### Form 14
-
-**APPLICATION TO BE REGISTERED USER OFTHE**
-
-**ELECTRONIC FILING SERVICE**
-
-\[Letterhead *of law firm or organisation*\]
-
-\[Date\]
-
-The Registrar
-
-Supreme Court
-
-1 Supreme Court Lane
-
-Singapore 178879
-
-(Attn: eLitigation Project Director)
-
-Dear Sir
-
-**APPLICATION TO BE REGISTERED USER OF THE ELECTRONIC FILING SERVICE**
-
-> I, \[*name of managing partner of law practice*\]*,* am the managing partner of \[*name of* *law practice*\], \[*law practice UEN*\], and I am duly authorised to make this application on behalf of \[*name of* *law practice*\].
-
-2. The law practice of \[*name of* *law practice*\] hereby applies to be a registered user of the electronic filing service, eLitigation, established under Order 63A of the Rules of Court.
-
-3. As required under Order 63A, I hereby designate (*name of appointed administrator*), NRIC/FIN (*NRIC/FIN number of appointed administrator*), as an authorised user to administer the service on behalf of my law practice. The SingPass identification code of the said authorised user is his NRIC/FIN number.
-
-4. The duly completed application form and subscriber agreement with the designated electronic filing service provider, CrimsonLogic Pte Ltd, for the use of the electronic filing service, eLitigation, and the duly completed application form for interbank GIRO payment facilities for the payment of all fees and charges incurred by my law practice’s use of the electronic filing service are annexed hereto.
-
-Yours faithfully
-
-*\[Signature of authorised signatory\]*
-
-*\[Name and designation of authorised signatory\]*
-
-### Form 15
-
-**LETTER OF AUTHORITY TO ACT AS AUTHORISED BAILIFF**
-
-**(a) Letter of Authority to be filed if the Authorised Bailiff is to be appointed at time of filing of the writ of seizure and sale (WSS) or writ of distress (WD)**
-
-To: (1) (Requesting Law Firm)
-
-(2) (Authorised Bailiff)
-
-**LETTER OF AUTHORITY TO ACT AS AUTHORISED BAILIFF**
-
-This is to certify that (name) (“the Authorised Bailiff”) of (name and address of law firm) is duly authorised by the Registrar of the State Courts of the Republic of Singapore pursuant to Section 15A State Courts Act (Cap. 321) to exercise the powers and perform the duties of a bailiff in the execution proceedings in (to insert title as in action).
-
-\[\*WSS or WD Number: \[\*Seal
-
-Date of issue of WSS or WD: \] Signature of Registrar\]
-
-\* Denotes auto-generation by EFS upon acceptance of WSS or WD for filing.
-
-**(b) Letter of Authority to be submitted if the Authorised Bailiff is to be appointed after the writ of seizure and sale (WSS) or writ of distress (WD) has been issued**
-
-To: (1) (Requesting Law Firm)
-
-(2) (Authorised Bailiff)
-
-(Date of filing)
-
-**LETTER OF AUTHORITY TO ACT AS AUTHORISED BAILIFF**
-
-This is to certify that (name) (“the Authorised Bailiff”) of (name and address of law firm) is duly authorised by the Registrar of the State Courts of the Republic of Singapore pursuant to Section 15A State Courts Act (Cap. 321, 1999 Revised Edition) to exercise the powers and perform the duties of a bailiff in the execution proceedings hereunder (WSS or WD No. in {to insert title in action}) issued on (date).
-
-\[\*Seal
-
-Signature of Registrar\]
-
-\*Denotes auto-generation by EFS upon acceptance of WSS or WD for filing.
 
 ### Form 16
 
