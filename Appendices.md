@@ -117,9 +117,9 @@ Dated this day of 20 .
 
 ***ANNEXURE ‘B’***
 
-| ***NO.*** | ***ISSUES*** | ***PLAINTIFF’S/DEFENDANT’S POSITION***               
+| ***NO.*** | ***ISSUES*** | ***PLAINTIFF’S/DEFENDANT’S POSITION***
 
-                            ***\[Please include references to key documents\]***  | ***APPLICABLE LEGAL PRINCIPLES***                      
+                            ***\[Please include references to key documents\]***  | ***APPLICABLE LEGAL PRINCIPLES***
 
                                                                                    ***\[Please include reference to main authorities\]***  |
 |-----------|--------------|------------------------------------------------------|--------------------------------------------------------|
@@ -136,25 +136,25 @@ Dated this day of 20 .
 
                                                                                                                                                                                                                                                                ***\[Please include pg no. in Bundle of Documents\]***              |
 |-----------|------------------------------------------------|------------------------------------|--------------------------------------------------------------------|--------------------------------------------|-----------------------------------------|--------------------------------------------------------------------|
-| 1         |                                                | $                                  | 1)                                                                 
+| 1         |                                                | $                                  | 1)
 
-                                                                                                   \_\_\_\_\_\_\_\_\_\_\_\_\_                                          
+                                                                                                   \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                   Pg\_\_\_\_\_\_\_\_\_\_\_                                            
+                                                                                                   Pg\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                   2)                                                                  
+                                                                                                   2)
 
-                                                                                                   \_\_\_\_\_\_\_\_\_\_\_\_\_                                          
+                                                                                                   \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                   Pg\_\_\_\_\_\_\_\_\_\_\_                                            |                                            | $                                       | 1)                                                                 
+                                                                                                   Pg\_\_\_\_\_\_\_\_\_\_\_                                            |                                            | $                                       | 1)
 
-                                                                                                                                                                                                                                                               \_\_\_\_\_\_\_\_\_\_\_\_\_                                          
+                                                                                                                                                                                                                                                               \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                               Pg\_\_\_\_\_\_\_\_\_\_\_                                            
+                                                                                                                                                                                                                                                               Pg\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                               2)                                                                  
+                                                                                                                                                                                                                                                               2)
 
-                                                                                                                                                                                                                                                               \_\_\_\_\_\_\_\_\_\_\_\_\_                                          
+                                                                                                                                                                                                                                                               \_\_\_\_\_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                Pg\_\_\_\_\_\_\_\_\_\_\_                                            |
 | 2         |                                                |                                    |                                                                    |                                            |                                         |                                                                    |
@@ -188,7 +188,7 @@ And
 
 Date of accident:
 
-|               | ***Vehicle no. ***      
+|               | ***Vehicle no. ***
 
                  *(N.A. for pedestrian)*  | ***Age at time of accident*** | ***Present Age*** | ***Gender*** | ***Present Occupation*** |
 |---------------|-------------------------|-------------------------------|-------------------|--------------|--------------------------|
@@ -226,35 +226,35 @@ Dated this day of 20 .
 
 ***Annexure (For NIMA matter)***
 
-| ***NO.*** | ***HEAD OF DAMAGES CLAIMED*** | ***PLAINTIFF’S CLAIM FOR AWARD***                         | ***PLAINTIFF’S SUPPORTING***                       
+| ***NO.*** | ***HEAD OF DAMAGES CLAIMED*** | ***PLAINTIFF’S CLAIM FOR AWARD***                         | ***PLAINTIFF’S SUPPORTING***
 
-                                                                                                         ***DOCUMENTS ***                                    
+                                                                                                         ***DOCUMENTS ***
 
-                                                                                                         *\[Please include pg no. in Bundle of Documents\]*  | ***DEFENDANT’S ESTIMATE OF AWARD***                       | ***DEFENDANT’S SUPPORTING DOCUMENTS ***            
+                                                                                                         *\[Please include pg no. in Bundle of Documents\]*  | ***DEFENDANT’S ESTIMATE OF AWARD***                       | ***DEFENDANT’S SUPPORTING DOCUMENTS ***
 
                                                                                                                                                                                                                           *\[Please include pg no. in Bundle of Documents\]*  |
 |-----------|-------------------------------|-----------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------|
-| 1.        | Costs of Repairs              | $                                                         | 1)                                                 
+| 1.        | Costs of Repairs              | $                                                         | 1)
 
-                                                                                                         Pg \_\_\_\_\_                                       
+                                                                                                         Pg \_\_\_\_\_
 
-                                                                                                         2)                                                  
+                                                                                                         2)
 
-                                                                                                         Pg \_\_\_\_\_                                       | $                                                         | 1)                                                 
+                                                                                                         Pg \_\_\_\_\_                                       | $                                                         | 1)
 
-                                                                                                                                                                                                                          Pg \_\_\_\_\_                                       
+                                                                                                                                                                                                                          Pg \_\_\_\_\_
 
-                                                                                                                                                                                                                          2)                                                  
+                                                                                                                                                                                                                          2)
 
                                                                                                                                                                                                                           Pg \_\_\_\_\_                                       |
 | 2.        | Loss of Use                   | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    |
 | 3.        | Costs/Loss of Rental          | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    |
 | 4.        | Loss of Earnings              | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    |
-|           | TOTAL                         
+|           | TOTAL
 
-             (at \_\_\_\_%)                 | $                                                         
+             (at \_\_\_\_%)                 | $
 
-                                             *$*                                                        |                                                    | $                                                         
+                                             *$*                                                        |                                                    | $
 
                                                                                                                                                               *$*                                                        |                                                    |
 
@@ -1041,110 +1041,110 @@ Date:
 | **CDR Date:**    | *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_* | **Defendant’s Counsel/signature:**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_     |
 |                  |                                    | **(Other Party’s Counsel/signature):**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       |
 
-| **(1) Case type**                                                              | □ NIMA; or □ Chain Collision involved                                          
+| **(1) Case type**                                                              | □ NIMA; or □ Chain Collision involved
 
-                                                                                  □ PIMA; or (Use pg 2)                                                           
+                                                                                  □ PIMA; or (Use pg 2)
 
-                                                                                  □ NIMA & PIMA                                                                   | □ Accident involving motor vehicles only                        
+                                                                                  □ NIMA & PIMA                                                                   | □ Accident involving motor vehicles only
 
-                                                                                                                                                                   □ Pedestrian involved                                            
+                                                                                                                                                                   □ Pedestrian involved
 
-                                                                                                                                                                   □ Cyclist involved                                               
+                                                                                                                                                                   □ Cyclist involved
 
                                                                                                                                                                    □ Claim by passenger                                             |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------|
 | **(2) Other relevant details**                                                 |
-| **(a) Quantum of claim (if not agreed)**                                       
+| **(a) Quantum of claim (if not agreed)**
 
- Cost of repair:$\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                        
+ Cost of repair:$\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Loss of use/rental: $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                           
+ Loss of use/rental: $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- General damages: $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                              
+ General damages: $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Special damages: $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                            | **(b) Have all parties been brought in?**                                      
+ Special damages: $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                            | **(b) Have all parties been brought in?**
 
-                                                                                  □ Yes                                                                           
+                                                                                  □ Yes
 
-                                                                                  □ No                                                                            
+                                                                                  □ No
 
-                                                                                  Which party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                         | **(c) Is there a related suit? **                               
+                                                                                  Which party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                         | **(c) Is there a related suit? **
 
-                                                                                                                                                                   □ Yes                                                            
+                                                                                                                                                                   □ Yes
 
-                                                                                                                                                                   Suit No: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    
+                                                                                                                                                                   Suit No: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                   Status/outcome:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_          
+                                                                                                                                                                   Status/outcome:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                    □ No                                                             |
-| **(d) Has police action been taken**?                                          
+| **(d) Has police action been taken**?
 
- □ Yes                                                                           
+ □ Yes
 
- Which party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                         
+ Which party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Type of action: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                        
+ Type of action: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- □ No                                                                            | **(e)(i) Are there scene photographs? **                                       
+ □ No                                                                            | **(e)(i) Are there scene photographs? **
 
-                                                                                  □ Yes □ No                                                                      
+                                                                                  □ Yes □ No
 
-                                                                                  **(ii) Is there a video recording?**                                            
+                                                                                  **(ii) Is there a video recording?**
 
-                                                                                  □ Yes □ No                                                                      
+                                                                                  □ Yes □ No
 
-                                                                                  Have parties exchanged these?                                                   
+                                                                                  Have parties exchanged these?
 
-                                                                                  □ Yes □ No                                                                      | **(f) Is there an independent witness? **                       
+                                                                                  □ Yes □ No                                                                      | **(f) Is there an independent witness? **
 
-                                                                                                                                                                   □ Yes                                                            
+                                                                                                                                                                   □ Yes
 
-                                                                                                                                                                   Witness for: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+                                                                                                                                                                   Witness for: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                   Statement/SD/AEIC available: \_\_\_\_\_\_\_\_\_\_                
+                                                                                                                                                                   Statement/SD/AEIC available: \_\_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                    □ No                                                             |
 | **(3A) PLAINTIFF’S CASE**                                                      | **(3B) DEFENDANT’S / OTHER PARTY’S CASE**                                      |
-| **Is there a relevant scenario in the Motor Accident Guide?**                  
+| **Is there a relevant scenario in the Motor Accident Guide?**
 
- □ Yes                                                                           
+ □ Yes
 
- Page / Serial number in MAG:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    
+ Page / Serial number in MAG:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Plaintiff’s proposal on liability:                                              
+ Plaintiff’s proposal on liability:
 
- Plf: \_\_\_\_\_\_% Def: \_\_\_\_\_\_% Other Party: \_\_\_\_\_\_%                
+ Plf: \_\_\_\_\_\_% Def: \_\_\_\_\_\_% Other Party: \_\_\_\_\_\_%
 
- Date proposal was made: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+ Date proposal was made: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- □ No                                                                            | **Is there a relevant scenario in the Motor Accident Guide? **                 
+ □ No                                                                            | **Is there a relevant scenario in the Motor Accident Guide? **
 
-                                                                                  □ Yes                                                                           
+                                                                                  □ Yes
 
-                                                                                  Page / Serial number in MAG:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    
+                                                                                  Page / Serial number in MAG:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                  Defendant’s proposal on liability:                                              
+                                                                                  Defendant’s proposal on liability:
 
-                                                                                  Plf: \_\_\_\_\_\_% Def: \_\_\_\_\_\_% Other Party: \_\_\_\_\_\_%                
+                                                                                  Plf: \_\_\_\_\_\_% Def: \_\_\_\_\_\_% Other Party: \_\_\_\_\_\_%
 
-                                                                                  Date proposal was made: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+                                                                                  Date proposal was made: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
                                                                                   □ No                                                                            |
-| **The following are enclosed with the indication Form:**                       
+| **The following are enclosed with the indication Form:**
 
- □ GIA or police reports                                                         
+ □ GIA or police reports
 
- □ Scene / damage photographs                                                    
+ □ Scene / damage photographs
 
- □ Witness’ statement/SD/AEIC (delete where inapplicable)                        
+ □ Witness’ statement/SD/AEIC (delete where inapplicable)
 
- **Sketch of accident** (if none in GIA/police report):                          | **The following are enclosed with the indication Form:**                       
+ **Sketch of accident** (if none in GIA/police report):                          | **The following are enclosed with the indication Form:**
 
-                                                                                  □ GIA or police reports                                                         
+                                                                                  □ GIA or police reports
 
-                                                                                  □ Scene / damage photographs                                                    
+                                                                                  □ Scene / damage photographs
 
-                                                                                  □ Witness’ statement/SD/AEIC (delete where inapplicable)                        
+                                                                                  □ Witness’ statement/SD/AEIC (delete where inapplicable)
 
                                                                                   **Sketch of accident** (if none in GIA/police report):                          |
 
@@ -1171,57 +1171,57 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > \[Other Party’s Counsel/Signature\]:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| **(1) Have all parties been brought in?**                                                                                                                 
+| **(1) Have all parties been brought in?**
 
- Yes                                                                                                                                                        
+ Yes
 
- No                                                                                                                                                         
+ No
 
- Which party: \_\_\_\_\_\_\_\_\_                                                                                                                            | **(2) Capacity of Defendant(s) – e.g. Work permit employer / occupier of worksite / sub-contractor etc :**                             
+ Which party: \_\_\_\_\_\_\_\_\_                                                                                                                            | **(2) Capacity of Defendant(s) – e.g. Work permit employer / occupier of worksite / sub-contractor etc :**
 
-                                                                                                                                                             1st Defendant: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                             
+                                                                                                                                                             1st Defendant: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                             2nd Defendant:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                              
+                                                                                                                                                             2nd Defendant:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                             3rd Defendant/3rd Party/4th & Subsequent Party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  | **(3) Has prosecution been instituted?**                          
+                                                                                                                                                             3rd Defendant/3rd Party/4th & Subsequent Party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  | **(3) Has prosecution been instituted?**
 
-                                                                                                                                                                                                                                                                                                      No                                                                 
+                                                                                                                                                                                                                                                                                                      No
 
-                                                                                                                                                                                                                                                                                                      Yes                                                                
+                                                                                                                                                                                                                                                                                                      Yes
 
                                                                                                                                                                                                                                                                                                       Which party: \_\_\_\_\_\_\_\_\_ Outcome: \_\_\_\_\_\_\_\_\_\_\_\_  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| **(4) Was Notice of Accident lodged with MOM?**                                                                                                           
+| **(4) Was Notice of Accident lodged with MOM?**
 
- No                                                                                                                                                         
+ No
 
- Yes                                                                                                                                                        
+ Yes
 
- By which party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                           | **(5) Are there scene / location photographs / video recording? **                                                                     
+ By which party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                           | **(5) Are there scene / location photographs / video recording? **
 
-                                                                                                                                                             Yes                                                                                                                                     
+                                                                                                                                                             Yes
 
-                                                                                                                                                             No                                                                                                                                      | **(6) Is there a witness(es)? **                                  
+                                                                                                                                                             No                                                                                                                                      | **(6) Is there a witness(es)? **
 
-                                                                                                                                                                                                                                                                                                      Yes                                                                
+                                                                                                                                                                                                                                                                                                      Yes
 
-                                                                                                                                                                                                                                                                                                      Witness for: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_          
+                                                                                                                                                                                                                                                                                                      Witness for: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                                                                      Statement/SD/AEIC available: \_\_\_\_\_\_\_                        
+                                                                                                                                                                                                                                                                                                      Statement/SD/AEIC available: \_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                                                       No                                                                 |
 | **Other relevant details**                                                                                                                                |
-| **(7) Nature of Accident:**                                                                                                                               
+| **(7) Nature of Accident:**
 
-  Fall from height, e.g. ladder, scaffoldings, building etc.                                                                                               
+  Fall from height, e.g. ladder, scaffoldings, building etc.
 
-  Lifting / hoisting / crane operations                                                                                                                    
+  Lifting / hoisting / crane operations
 
-  Injuries caused by tools /machinery / equipment                                                                                                          |  Act / omission of co-worker(s) / supervisors                                                                                         
+  Injuries caused by tools /machinery / equipment                                                                                                          |  Act / omission of co-worker(s) / supervisors
 
-                                                                                                                                                              Injuries caused by falling object(s)                                                                                                  
+                                                                                                                                                              Injuries caused by falling object(s)
 
-                                                                                                                                                              Injuries caused by burns / inflammable substances                                                                                     
+                                                                                                                                                              Injuries caused by burns / inflammable substances
 
                                                                                                                                                               Others - Please specify: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                 |
 | **(8) Applicable statutory provision(s):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_­­­­­­\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
@@ -1235,27 +1235,27 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 | Photographs of accident scene/location/video recording
 
  Yes No Not available                                    |
-| Notice of Accident lodged with MOM                     
+| Notice of Accident lodged with MOM
 
  Yes No Not available                                    |
-| MOM Notice of Assessment                               
+| MOM Notice of Assessment
 
  Yes No Not available                                    |
-| Outcome of Prosecution                                 
+| Outcome of Prosecution
 
  Yes No Not available                                    |
-| Statement/AEIC/SD of witness                           
+| Statement/AEIC/SD of witness
 
  Yes No No witness                                       |
-| Medical report(s) of treating doctor(s)                
+| Medical report(s) of treating doctor(s)
 
  Yes No                                                  |
-| Applicable statutory provisions                        
+| Applicable statutory provisions
 
  Yes No None                                             |
-| Other relevant documents:                              
+| Other relevant documents:
 
- Please specify: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_        
+ Please specify: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Yes No Not available                                    |
 
@@ -1265,24 +1265,24 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 | Photographs of accident scene/location/video recording
 
  Yes No Not available                                    |
-| Notice of Accident lodged with MOM                     
+| Notice of Accident lodged with MOM
 
  Yes No Not available                                    |
-| MOM Notice of Assessment                               
+| MOM Notice of Assessment
 
  Yes No Not available                                    |
-| Outcome of Prosecution                                 
+| Outcome of Prosecution
 
  Yes No Not available                                    |
-| Statement/AEIC/SD of witness                           
+| Statement/AEIC/SD of witness
 
  Yes No No witness                                       |
-| Applicable statutory provisions                        
+| Applicable statutory provisions
 
  Yes No None                                             |
-| Other relevant documents:                              
+| Other relevant documents:
 
- Please specify: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_        
+ Please specify: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Yes No Not available                                    |
 
@@ -1293,7 +1293,7 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
 | ***QUANTUM INDICATION FORM***                                                 |
 |-------------------------------------------------------------------------------|
 | ***PORTION TO BE COMPLETED BY SOLICITORS***                                   |
-| Case No: DC / MC \_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       
+| Case No: DC / MC \_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Nature of Claim: PIMA/IA/\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  |
 | **Heads of Claim **                                                           |
@@ -1303,10 +1303,10 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
 | 3.                                                                            |
 | **(II) Loss of future earnings / Loss of earning capacity**                   |
 | **(III) Loss of Dependency **                                                 |
-| **(IV) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**                                   
+| **(IV) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
  **(*other items of claim*)**                                                   |
-| **(V) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**                                    
+| **(V) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
  **(*other items of claim*)**                                                   |
 
@@ -1314,18 +1314,18 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
 
 *Form may be downloaded from http://www.statecourts.gov.sg under “Civil Justice Division – Court Dispute Resolution”*
 
-| **APPLICATION FOR DIRECTIONS UNDER O 37 **                                                                                                                                                                                                                         
+| **APPLICATION FOR DIRECTIONS UNDER O 37 **
 
- **FOR PERSONAL INJURY / NON-INJURY MOTOR ACCIDENT CLAIMS**                                                                                                                                                                                                          
+ **FOR PERSONAL INJURY / NON-INJURY MOTOR ACCIDENT CLAIMS**
 
  *Note: Additional prayers (if any) may be listed in a separate sheet of paper to be attached to this Form.*                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Case number: DC / MC \_\_\_\_\_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                            
+| Case number: DC / MC \_\_\_\_\_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_
 
- Nature of Claim: PIMA / IA / \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                             
+ Nature of Claim: PIMA / IA / \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Date (dd/mm/yy) : \_\_ \_\_ / \_\_ \_\_ / \_\_ \_\_                                                                                                                                                                                                                 |
-| **Directions Sought For By The Plaintiff:- **                                                                                                                                                                                                                      
+| **Directions Sought For By The Plaintiff:- **
 
  **(To be completed by the Plaintiff’s Counsel)**                                                                                                                                                                                                                    |
 |                                                                                                                                                                                                                                                                    |
@@ -1335,14 +1335,14 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
 | -   Plaintiff's witnesses limited to \_\_\_\_\_\_ witness(es) of fact and \_\_\_\_\_\_ expert witnesses.                                                                                                                                                           |
 | -   Defendant's witnesses limited to \_\_\_\_\_\_witness(es) of fact and \_\_\_\_\_\_ expert witnesses.                                                                                                                                                            |
 | -   \_\_\_\_\_\_\_\_\_\_\_witnesses limited to \_\_\_\_\_\_witness(es) of fact and \_\_\_\_\_\_ expert witnesses.                                                                                                                                                  |
-| -   Parties to exchange AEICs of all witnesses within 8 weeks / \_\_\_\_\_\_ weeks i.e. by \_\_ \_\_ /\_\_ \_\_ /\_\_ \_\_.                                                                                                                                        
+| -   Parties to exchange AEICs of all witnesses within 8 weeks / \_\_\_\_\_\_ weeks i.e. by \_\_ \_\_ /\_\_ \_\_ /\_\_ \_\_.
 
  > *(Note: AEICs should be *filed and served* for cases involving litigants-in-person)*                                                                                                                                                                              |
 | -   By consent, AEICs of medical experts shall be dispensed with. The evidence of the medical experts shall be given in the form of their respective medical reports to be exchanged within 8 weeks / \_\_\_\_\_\_weeks i.e. by \_\_ \_\_ / \_\_ \_\_ / \_\_ \_\_. |
-| -   Parties to file and serve Notice of Objections to AEICs within 9 weeks /\_\_\_\_weeks i.e. by                                                                                                                                                                  
+| -   Parties to file and serve Notice of Objections to AEICs within 9 weeks /\_\_\_\_weeks i.e. by
 
  > \_\_ \_\_ /\_\_ \_\_ /\_\_ \_\_                                                                                                                                                                                                                                   |
-| -   Plaintiff to file and serve Notice of Appointment for Assessment of Damages for \_\_\_\_\_\_days of hearing within 10 weeks / \_\_\_\_\_\_weeks i.e. by                                                                                                        
+| -   Plaintiff to file and serve Notice of Appointment for Assessment of Damages for \_\_\_\_\_\_days of hearing within 10 weeks / \_\_\_\_\_\_weeks i.e. by
 
  > \_\_ \_\_ / \_\_ \_\_ / \_\_ \_\_.                                                                                                                                                                                                                                |
 | -   Costs reserved to the Registrar.                                                                                                                                                                                                                               |
@@ -1355,29 +1355,29 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
 
 *Form may be downloaded from http://www.statecourts.gov.sg under “Civil Justice Division – Court Dispute Resolution”*
 
-| **APPLICATION FOR DIRECTIONS UNDER ORDER 37 OF THE RULES OF COURT**                                                                                                                                              
+| **APPLICATION FOR DIRECTIONS UNDER ORDER 37 OF THE RULES OF COURT**
 
- **FOR MAGISTRATE’S COURT CASES FIXED FOR SIMPLIFIED AD**                                                                                                                                                          
+ **FOR MAGISTRATE’S COURT CASES FIXED FOR SIMPLIFIED AD**
 
- **PURSUANT TO ORDER 108**                                                                                                                                                                                         
+ **PURSUANT TO ORDER 108**
 
  *Note: Additional prayers (if any) may be listed in a separate sheet of paper to be attached to this Form.*                                                                                                       |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Case number: DC / MC \_\_\_\_\_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_                                                                                                                                          
+| Case number: DC / MC \_\_\_\_\_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_
 
- Nature of Claim: PIMA / IA / \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                           
+ Nature of Claim: PIMA / IA / \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Date (dd/mm/yy) : \_\_ \_\_ / \_\_ \_\_ / \_\_ \_\_                                                                                                                                                               |
-| **Directions Sought By The Plaintiff:- **                                                                                                                                                                        
+| **Directions Sought By The Plaintiff:- **
 
  **(To be completed by the Plaintiff’s Counsel (PC))**                                                                                                                                                             |
 |                                                                                                                                                                                                                  |
-| -   Supplementary List of documents, if any, to be filed and served within 3 /\_\_\_\_\_\_week(s) i.e.                                                                                                           
+| -   Supplementary List of documents, if any, to be filed and served within 3 /\_\_\_\_\_\_week(s) i.e.
 
  > by \_\_\_\_\_\_\_\_\_\_.                                                                                                                                                                                        |
 | -   Inspection to be done within 4 / \_\_\_\_\_\_ week(s) i.e. by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.                                                                                                                |
 | -   (*For Personal Injury cases)* AEICs of single joint expert (medical) shall be dispensed with. The medical report(s) shall be disclosed within 4/ \_\_\_\_\_\_weeks i.e. by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. |
-| -   Parties to exchange AEICs of all witnesses within 8 / \_\_\_\_\_\_ weeks i.e. by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.                                                                                       
+| -   Parties to exchange AEICs of all witnesses within 8 / \_\_\_\_\_\_ weeks i.e. by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
  > *(Note: AEICs should be *filed and served* for cases involving litigants-in-person)*                                                                                                                            |
 | -   Parties to file and serve Notice of Objections to AEICs within 9 /\_\_\_\_weeks i.e. by \_\_\_\_\_\_\_\_\_\_\_\_\_\_.                                                                                        |
@@ -1386,17 +1386,17 @@ NOTE: Actual Form is in landscape orientation and may be downloaded at [*http://
 | **Directions Sought By The Parties:- **                                                                                                                                                                          |
 | -   Plaintiff's witnesses of fact limited to \_\_\_\_\_\_witness(es).                                                                                                                                            |
 | -   Defendant's witnesses of fact limited to \_\_\_\_\_\_witness(es).                                                                                                                                            |
-| -   \_\_\_\_\_\_\_ Single Joint Expert (SJE) appointed by parties pursuant to O. 108 r. 5(3)(a) as follows:                                                                                                      
+| -   \_\_\_\_\_\_\_ Single Joint Expert (SJE) appointed by parties pursuant to O. 108 r. 5(3)(a) as follows:
 
- > (a)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Area of expertise : )                                                                                                                                                         
- >                                                                                                                                                                                                                 
- > (state name)                                                                                                                                                                                                    
- >                                                                                                                                                                                                                 
- > (b)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Area of expertise : )                                                                                                                                                         
- >                                                                                                                                                                                                                 
- > (state name)                                                                                                                                                                                                    
+ > (a)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Area of expertise : )
+ >
+ > (state name)
+ >
+ > (b)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Area of expertise : )
+ >
+ > (state name)
 
- -   Where parties are unable to agree on expert to be appointed, the Court shall pursuant to O. 108 r. 5(3)(b) appoint the SJE and fix the amount of remuneration payable to the SJE.                             
+ -   Where parties are unable to agree on expert to be appointed, the Court shall pursuant to O. 108 r. 5(3)(b) appoint the SJE and fix the amount of remuneration payable to the SJE.
 
  -   SJE report is to be released by \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                            |
 | -   Costs reserved to the Registrar.                                                                                                                                                                             |
@@ -1465,21 +1465,21 @@ And
 |-----------|-------------------------------|------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------|
 |           |                               |                                          |                                                                                  |                                                                                         |                                          |                                                                                  |                                                           |
 | *(I)*     | PAIN AND SUFFERING            |                                          |                                                                                  |                                                                                         |                                          |                                                                                  |                                                           |
-| 1         | Nature of Injury              | $                                        
+| 1         | Nature of Injury              | $
 
-                                             *Authorities*: (1) Case Name Award Given  
+                                             *Authorities*: (1) Case Name Award Given
 
-                                             (2) Case Name Award Given                 | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_             
+                                             (2) Case Name Award Given                 | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
-                                                                                        2) Medical Report by Dr \_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_                  | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_                               
+                                                                                        2) Medical Report by Dr \_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_                  | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                           2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_                                 | $                                        
+                                                                                                                                                                           2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_                                 | $
 
-                                                                                                                                                                                                                                                                     *Authorities*: (1) Case Name Award Given  
+                                                                                                                                                                                                                                                                     *Authorities*: (1) Case Name Award Given
 
-                                                                                                                                                                                                                                                                     (2) Case Name Award Given                 | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_             
+                                                                                                                                                                                                                                                                     (2) Case Name Award Given                 | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                                                                                2) Medical Report by Dr \_\_\_\_\_\_\_\_\_                                        
+                                                                                                                                                                                                                                                                                                                2) Medical Report by Dr \_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                                                                 Pg \_\_\_\_\_\_\_\_\_                                                             | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
@@ -1487,41 +1487,41 @@ And
 
 1
 
-| 2   | Nature of Injury | $                                        
+| 2   | Nature of Injury | $
 
-                          *Authorities*: (1) Case Name Award Given  
+                          *Authorities*: (1) Case Name Award Given
 
                           (2) Case Name Award Given                 | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
                                                                      2) Medical Report by Dr \_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_      | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                            2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_   | $                                        
+                                                                                                                                            2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_   | $
 
-                                                                                                                                                                                                        *Authorities*: (1) Case Name Award Given  
+                                                                                                                                                                                                        *Authorities*: (1) Case Name Award Given
 
                                                                                                                                                                                                         (2) Case Name Award Given                 | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                   2) Medical Report by Dr \_\_\_\_\_\_\_\_\_                            
+                                                                                                                                                                                                                                                   2) Medical Report by Dr \_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                    Pg \_\_\_\_\_\_\_\_\_                                                 | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                                                                           2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_   |
 |-----|------------------|------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------|
-| 3   | Nature of Injury | $                                        
+| 3   | Nature of Injury | $
 
-                          *Authorities*: (1) Case Name Award Given  
+                          *Authorities*: (1) Case Name Award Given
 
                           (2) Case Name Award Given                 | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
                                                                      2) Medical Report by Dr \_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_      | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                            2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_   | $                                        
+                                                                                                                                            2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_   | $
 
-                                                                                                                                                                                                        *Authorities*: (1) Case Name Award Given  
+                                                                                                                                                                                                        *Authorities*: (1) Case Name Award Given
 
                                                                                                                                                                                                         (2) Case Name Award Given                 | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                   2) Medical Report by Dr \_\_\_\_\_\_\_\_\_                            
+                                                                                                                                                                                                                                                   2) Medical Report by Dr \_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                    Pg \_\_\_\_\_\_\_\_\_                                                 | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
@@ -1529,21 +1529,21 @@ And
 
 2
 
-| *(II)*  | LOSS OF EARNING CAPACITY | $                                                                    
+| *(II)*  | LOSS OF EARNING CAPACITY | $
 
-                                      *Authorities*: (1) Case Name Award Given                              
+                                      *Authorities*: (1) Case Name Award Given
 
                                       (2) Case Name Award Given                                             | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
                                                                                                              2) Medical Report by Dr \_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_      | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                    2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_\_  | $                                                                    
+                                                                                                                                                                                    2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_\_  | $
 
-                                                                                                                                                                                                                                                *Authorities*: (1) Case Name Award Given                              
+                                                                                                                                                                                                                                                *Authorities*: (1) Case Name Award Given
 
                                                                                                                                                                                                                                                 (2) Case Name Award Given                                             | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                                                                                       2) Medical Report by Dr \_\_\_\_\_\_\_\_\_                            
+                                                                                                                                                                                                                                                                                                                       2) Medical Report by Dr \_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                                                                        Pg \_\_\_\_\_\_\_\_\_                                                 | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
@@ -1552,7 +1552,7 @@ And
 |         |                          |                                                                      |                                                                      |                                                           |                                                                      |                                                                      |                                                           |
 | *(III)* | LOSS OF FUTURE EARNINGS  | Multiplier: \_\_\_\_\_\_ years x Multiplicand: $\_\_\_\_\_\_\_\_ = $
 
-                                      *Authorities*: (1) Case Name Award Given                              
+                                      *Authorities*: (1) Case Name Award Given
 
                                       (2) Case Name Award Given                                             | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
@@ -1560,11 +1560,11 @@ And
 
                                                                                                                                                                                     2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_   | Multiplier: \_\_\_\_\_\_ years x Multiplicand: $\_\_\_\_\_\_\_\_ = $
 
-                                                                                                                                                                                                                                                *Authorities*: (1) Case Name Award Given                              
+                                                                                                                                                                                                                                                *Authorities*: (1) Case Name Award Given
 
                                                                                                                                                                                                                                                 (2) Case Name Award Given                                             | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                                                                                       2) Medical Report by Dr \_\_\_\_\_\_\_\_\_                            
+                                                                                                                                                                                                                                                                                                                       2) Medical Report by Dr \_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                                                                        Pg \_\_\_\_\_\_\_\_\_                                                 | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
@@ -1578,7 +1578,7 @@ And
 
                                                                                                                                                        2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_   | $   | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                         2) Medical Report by Dr \_\_\_\_\_\_\_\_\_                            
+                                                                                                                                                                                                                         2) Medical Report by Dr \_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                          Pg \_\_\_\_\_\_\_\_\_                                                 | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
@@ -1591,7 +1591,7 @@ And
 
                                                                                                                                                        2) \_\_\_\_\_\_\_\_\_\_\_\_\_ Pg\_\_\_\_\_\_\_\_\_\_\_\_   | $   | 1) Medical Report by Dr \_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                         2) Medical Report by Dr \_\_\_\_\_\_\_\_\_                            
+                                                                                                                                                                                                                         2) Medical Report by Dr \_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                          Pg \_\_\_\_\_\_\_\_\_                                                 | 1) \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Pg \_\_\_\_\_\_\_\_\_\_\_
 
@@ -1660,35 +1660,35 @@ And
 
 3.  This is a summary table of the Plaintiff’s and Defendant’s respective present positions on quantum.
 
-| ***NO.*** | ***HEAD OF DAMAGES CLAIMED*** | ***PLAINTIFF’S CLAIM FOR AWARD***                         | ***PLAINTIFF’S SUPPORTING***                       
+| ***NO.*** | ***HEAD OF DAMAGES CLAIMED*** | ***PLAINTIFF’S CLAIM FOR AWARD***                         | ***PLAINTIFF’S SUPPORTING***
 
-                                                                                                         ***DOCUMENTS ***                                    
+                                                                                                         ***DOCUMENTS ***
 
-                                                                                                         *\[Please include pg no. in Bundle of Documents\]*  | ***DEFENDANT’S ESTIMATE OF AWARD***                       | ***DEFENDANT’S SUPPORTING DOCUMENTS ***            
+                                                                                                         *\[Please include pg no. in Bundle of Documents\]*  | ***DEFENDANT’S ESTIMATE OF AWARD***                       | ***DEFENDANT’S SUPPORTING DOCUMENTS ***
 
                                                                                                                                                                                                                           *\[Please include pg no. in Bundle of Documents\]*  |
 |-----------|-------------------------------|-----------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------|
-| 1.        | Costs of Repairs              | $                                                         | 1)                                                 
+| 1.        | Costs of Repairs              | $                                                         | 1)
 
-                                                                                                         Pg \_\_\_\_\_                                       
+                                                                                                         Pg \_\_\_\_\_
 
-                                                                                                         2)                                                  
+                                                                                                         2)
 
-                                                                                                         Pg \_\_\_\_\_                                       | $                                                         | 1)                                                 
+                                                                                                         Pg \_\_\_\_\_                                       | $                                                         | 1)
 
-                                                                                                                                                                                                                          Pg \_\_\_\_\_                                       
+                                                                                                                                                                                                                          Pg \_\_\_\_\_
 
-                                                                                                                                                                                                                          2)                                                  
+                                                                                                                                                                                                                          2)
 
                                                                                                                                                                                                                           Pg \_\_\_\_\_                                       |
 | 2.        | Loss of Use                   | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    |
 | 3.        | Costs/Loss of Rental          | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    |
 | 4.        | Loss of Earnings              | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    | $\_\_\_\_ per day for \_\_\_\_ days = *$\_\_\_\_\_\_\_\_* |                                                    |
-|           | TOTAL                         
+|           | TOTAL
 
-             (at \_\_\_\_%)                 | $                                                         
+             (at \_\_\_\_%)                 | $
 
-                                             *$*                                                        |                                                    | $                                                         
+                                             *$*                                                        |                                                    | $
 
                                                                                                                                                               *$*                                                        |                                                    |
 
@@ -1741,25 +1741,25 @@ And
 | ***NO.*** | ***DESCRIPTION OF ITEM CLAIMED BY PLAINTIFF*** | ***QUANTUM CLAIMED BY PLAINTIFF*** | ***PLAINTIFF'S SUPPORTING DOCUMENTS INCLUDING ANY EXPERT REPORT** \[Please include pg no. in Bundle of Documents\]* | ***DEFENDANT’S COMMENTS ON ITEM CLAIMED*** | ***DEFENDANT'S SUBMISSION ON QUANTUM*** | ***DEFENDANT'S SUPPORTING DOCUMENTS INCLUDING ANY EXPERT REPORT** \[Please include pg no. in Bundle of Documents\]* |
 |-----------|------------------------------------------------|------------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 |           |                                                |                                    |                                                                                                                     |                                            |                                         |                                                                                                                     |
-| 1         |                                                | $                                  | 1)                                                                                                                  
+| 1         |                                                | $                                  | 1)
 
-                                                                                                   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                       
+                                                                                                   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                   Pg \_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                        
+                                                                                                   Pg \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                   2)                                                                                                                   
+                                                                                                   2)
 
-                                                                                                   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                       
+                                                                                                   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                   Pg \_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                        |                                            | $                                       | 1)                                                                                                                  
+                                                                                                   Pg \_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                        |                                            | $                                       | 1)
 
-                                                                                                                                                                                                                                                                                                                \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                       
+                                                                                                                                                                                                                                                                                                                \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                                                                                Pg \_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                        
+                                                                                                                                                                                                                                                                                                                Pg \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                                                                                2)                                                                                                                   
+                                                                                                                                                                                                                                                                                                                2)
 
-                                                                                                                                                                                                                                                                                                                \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                       
+                                                                                                                                                                                                                                                                                                                \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                                                                 Pg \_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                        |
 | 2         |                                                |                                    |                                                                                                                     |                                            |                                         |                                                                                                                     |
@@ -1769,38 +1769,38 @@ And
 
 ### Form 9G
 
-| **REQUEST FOR FAST TRACK ADCDR**                                                                                                                                                                                                                                                     
+| **REQUEST FOR FAST TRACK ADCDR**
 
- *AFTER INTERLOCUTORY JUDGMENT HAS BEEN ENTERED BUT*                                                                                                                                                                                                                                   
+ *AFTER INTERLOCUTORY JUDGMENT HAS BEEN ENTERED BUT*
 
- *BEFORE AEICs ARE BEING FILED AND EXCHANGED*                                                                                                                                                                                                                                          
+ *BEFORE AEICs ARE BEING FILED AND EXCHANGED*
 
  **(BY-CONSENT OF BOTH PARTIES ONLY)**                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Case Number DC/MC\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_ Interlocutory judgment entered on \_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                 
+| Case Number DC/MC\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_ Interlocutory judgment entered on \_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Plaintiff’s reference \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date of Application: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                    
+ Plaintiff’s reference \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date of Application: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Defendant’s/Third Party’s reference (D.C/T.P.C) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                  |
-| (Please confirm that parties *have* satisfied the conditions stated below before making the application)                                                                                                                                                                             
+| (Please confirm that parties *have* satisfied the conditions stated below before making the application)
 
- We, counsel acting for the plaintiff and defendant (and Third/Fourth party, where applicable), do confirm as follows:                                                                                                                                                                 
+ We, counsel acting for the plaintiff and defendant (and Third/Fourth party, where applicable), do confirm as follows:
 
- 1.  All medical reports of the Plaintiff \[including any medical re-examination and/or clarification report(s)\] are available for parties to request for an indication on quantum;                                                                                                   
+ 1.  All medical reports of the Plaintiff \[including any medical re-examination and/or clarification report(s)\] are available for parties to request for an indication on quantum;
 
- 2.  The Plaintiff has already attended medical re-examination by the Defendant’s/Third Party’s medical expert or the Defendant/Third Party confirms that no medical re-examination of the Plaintiff is required;                                                                      
+ 2.  The Plaintiff has already attended medical re-examination by the Defendant’s/Third Party’s medical expert or the Defendant/Third Party confirms that no medical re-examination of the Plaintiff is required;
 
- 3.  No indication on quantum for loss of future earnings and/or loss of earning capacity is required; and                                                                                                                                                                             
+ 3.  No indication on quantum for loss of future earnings and/or loss of earning capacity is required; and
 
  4.  All parties consent to this application.                                                                                                                                                                                                                                          |
-| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                          
+| \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Counsel for the Plaintiff Counsel for the Defendant                                                                                                                                                                                                                                   
+ Counsel for the Plaintiff Counsel for the Defendant
 
- Name of law firm: Name of law firm                                                                                                                                                                                                                                                    
+ Name of law firm: Name of law firm
 
  DID fax No.: DID fax no.                                                                                                                                                                                                                                                              |
-| \*NOTE: The Form shall be filed via the Electronic Filing Service in PDF Format.                                                                                                                                                                                                     
+| \*NOTE: The Form shall be filed via the Electronic Filing Service in PDF Format.
 
  A date for a fast track ADCDR session shall generally be given *within 3 weeks* from date of application. Please ensure that parties are ready for indication on the day of the ADCDR hearing with the completed Form 9B under Appendix A of the Practice Directions duly completed.  |
 
@@ -1808,38 +1808,38 @@ And
 
 | **RECORDING SETTLEMENT / ENTERING JUDGMENT BY CONSENT (NIMA/PI/PIMA)**                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Case Number: DC/MC\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_\_ Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                 
+| Case Number: DC/MC\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of \_\_\_\_\_\_\_\_\_\_\_ Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Plaintiff’s Law Firm / Solicitor: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+ Plaintiff’s Law Firm / Solicitor: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- Defendant’s Law Firm / Solicitor : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_     
+ Defendant’s Law Firm / Solicitor : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Other party’s Law Firm(s) / Solicitor(s):\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_       |
-| ***\[I\]***                                                                                                                                                                                            
+| ***\[I\]***
 
- ***Settlement ***                                                                                                                                                                                       
+ ***Settlement ***
 
- **(a)NIMA / PI *AND* **                                                                                                                                                                                 
+ **(a)NIMA / PI *AND* **
 
  **(b)PIMA matters where the “relevant amount” relating to damages for death / bodily injury does not exceed $5,000 **                                                                                   |
 | **Person Under Disability**                                                                                                                                                                            |
-| **(II)**                                                                                                                                                                                               
+| **(II)**
 
  ***Interlocutory Judgment***                                                                                                                                                                            |
-| ***(III) Final Judgment***                                                                                                                                                                             
+| ***(III) Final Judgment***
 
- **(a)NIMA /**                                                                                                                                                                                           
+ **(a)NIMA /**
 
- **PI *AND* (b)PIMA**                                                                                                                                                                                    
+ **PI *AND* (b)PIMA**
 
  **matters where the “relevant amount” relating to damages for death / bodily injury exceeds $5,000**                                                                                                    |
-| ***Usual***                                                                                                                                                                                            
+| ***Usual***
 
- ***Consequential Orders***                                                                                                                                                                              
+ ***Consequential Orders***
 
- **ONLY For PIMA cases**                                                                                                                                                                                 
+ **ONLY For PIMA cases**
 
- **where the “relevant amount” relating to damages for death /**                                                                                                                                         
+ **where the “relevant amount” relating to damages for death /**
 
  **bodily injury exceeds $5,000 **                                                                                                                                                                       |
 | **Public Trustee’s Fee**                                                                                                                                                                               |
@@ -1847,7 +1847,7 @@ And
 | **Judge’s Orders / Directions**                                                                                                                                                                        |
 |                                                                                                                                                                                                        |
 |                                                                                                                                                                                                        |
-| <sup>\#</sup> *This Form may be downloaded from: *http://www.statecourts.gov.sg* under “Civil Justice Division – Court Dispute Resolution”                                                             
+| <sup>\#</sup> *This Form may be downloaded from: *http://www.statecourts.gov.sg* under “Civil Justice Division – Court Dispute Resolution”
  *\*delete where appropriate<sup>.</sup> v. 01.05.2015                                                                                                                                                   |
 
 ### Form 9J\*
@@ -2168,10 +2168,10 @@ Dated this \[-\] day of \[-\] 20\_\_
 
 | **Alleged Defects**                     | **Plaintiff’s evidence**                                                                   | **Defendant’s evidence**          |
 |-----------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------|
-| Uneven floor tiles in kitchen           | Plaintiff’s photo 1 showing satisfactory quality (photos are appended to this statement)   
+| Uneven floor tiles in kitchen           | Plaintiff’s photo 1 showing satisfactory quality (photos are appended to this statement)
 
                                            Plaintiff’s surveyor report pg 3.                                                           | Defendant’s surveyor report pg 2. |
-| Damaged doors for kitchen cabinet       | Plaintiff’s photo 2 showing satisfactory quality (photos are appended to this statement)   
+| Damaged doors for kitchen cabinet       | Plaintiff’s photo 2 showing satisfactory quality (photos are appended to this statement)
 
                                            Plaintiff’s surveyor report pg 4                                                            | Defendant’s surveyor report pg 3. |
 | Defective false wall in living room     | Plaintiff’s photo 3-5 showing satisfactory quality (photos are appended to this statement)
@@ -2185,24 +2185,24 @@ Dated this \[-\] day of \[-\] 20\_\_
 
 | **Alleged item of defect**              | **Plaintiff’s evidence for cost of rectification** | **Defendant’s evidence for cost of rectification** |
 |-----------------------------------------|----------------------------------------------------|----------------------------------------------------|
-| Uneven floor tiles in kitchen           | $3,000                                             
+| Uneven floor tiles in kitchen           | $3,000
 
-                                           Plaintiff’s surveyor report pg 3.                   | $10,000                                            
+                                           Plaintiff’s surveyor report pg 3.                   | $10,000
 
                                                                                                 Defendant’s surveyor report pg 2.                   |
-| Damaged doors for kitchen cabinet       | $2,000                                             
+| Damaged doors for kitchen cabinet       | $2,000
 
-                                           Plaintiff’s surveyor report pg 4.                   | $8,000                                             
+                                           Plaintiff’s surveyor report pg 4.                   | $8,000
 
                                                                                                 Defendant’s surveyor report pg 3.                   |
-| Defective false wall in living room     | $2,000                                             
+| Defective false wall in living room     | $2,000
 
-                                           Plaintiff’s surveyor report pg 6                    | $5,000                                             
+                                           Plaintiff’s surveyor report pg 6                    | $5,000
 
                                                                                                 Defendant’s surveyor report pg 5.                   |
-| Defective design for study room cabinet | $5,000                                             
+| Defective design for study room cabinet | $5,000
 
-                                           Plaintiff’s surveyor report pg 8                    | $12,000                                            
+                                           Plaintiff’s surveyor report pg 8                    | $12,000
 
                                                                                                 Defendant’s surveyor report pg 7.                   |
 
@@ -2391,9 +2391,9 @@ Dated this ( )
 
 ***LIST OF AGREED EXPERT ISSUES***
 
-| ***NO.*** | ***ISSUE*** | ***REASON(S)***                                                                        
+| ***NO.*** | ***ISSUE*** | ***REASON(S)***
 
-                           *\[Include cross-referencing to relevant section of relevant report, if appropriate\]*  | ***SUPPORTING DOCUMENT***                                                    
+                           *\[Include cross-referencing to relevant section of relevant report, if appropriate\]*  | ***SUPPORTING DOCUMENT***
 
                                                                                                                     *\[Include cross-referencing to relevant section of document, if relevant\]*  |
 |-----------|-------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -2410,21 +2410,21 @@ Dated this ( )
 
 ***LIST OF DISPUTED EXPERT ISSUES***
 
-|     | ***ISSUE*** | ***PLAINTIFF*** | ***DEFENDANT***                                                                               | ***REASON FOR***                                                                                        
+|     | ***ISSUE*** | ***PLAINTIFF*** | ***DEFENDANT***                                                                               | ***REASON FOR***
 
-                                                                                                                                       ***DIFFERENCE IN***                                                                                      
+                                                                                                                                       ***DIFFERENCE IN***
 
-                                                                                                                                       ***OPINION ***                                                                                           
+                                                                                                                                       ***OPINION ***
 
                                                                                                                                        *\[E.g. Whether difference is due to different factual assumptions, or different conclusions reached\]*  |
 |-----|-------------|-----------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 |     |             | ***EXPERT’S***
 
-                     ***POSITION***   | ***REASON(S)***                                                                               
+                     ***POSITION***   | ***REASON(S)***
 
-                                       *\[Include cross-referencing to relevant section of Plaintiff’s expert report, if relevant\]*  | ***SUPPORTING***                                                                                        
+                                       *\[Include cross-referencing to relevant section of Plaintiff’s expert report, if relevant\]*  | ***SUPPORTING***
 
-                                                                                                                                       ***DOCUMENTS***                                                                                          
+                                                                                                                                       ***DOCUMENTS***
 
                                                                                                                                        *\[Include cross-referencing to relevant section of document, if relevant\]*                             |
 | 1.  |             |                 |                                                                                               |                                                                                                         |
@@ -2441,7 +2441,7 @@ Dated this ( )
 
 |                               |                 |               |                        |          |
 |-------------------------------|-----------------|---------------|------------------------|----------|
-| **No.**                       
+| **No.**
 
  **(To be numbered serially)**  | **Description** | **Original/**
 
@@ -2588,7 +2588,7 @@ You may therefore wish to contact the solicitor for the judgment creditor (name 
 
 **Particulars of your Debtors**
 
-| 10. | Please state whether you have any debtors.              
+| 10. | Please state whether you have any debtors.
 
        Yes / No. If yes, please provide the details in Annex A  |
 |-----|---------------------------------------------------------|
@@ -2601,7 +2601,7 @@ You may therefore wish to contact the solicitor for the judgment creditor (name 
 | (b) | the names of joint-owners (if any); and                                           |
 | (c) | the names of mortgagee/chargee (if any) and the amount outstanding.               |
 
-| 12. | Please state if you are leasing any immovable property.                                        
+| 12. | Please state if you are leasing any immovable property.
 
        Yes / No. If yes, please provide the details in Annex B.                                        |
 |-----|------------------------------------------------------------------------------------------------|
@@ -2611,7 +2611,7 @@ You may therefore wish to contact the solicitor for the judgment creditor (name 
 
 **Particulars of your motor vehicles**
 
-| 14. | Please state if you own a motor vehicle.               
+| 14. | Please state if you own a motor vehicle.
 
        Yes/No. If yes, please provide the details in Annex B.  |
 |-----|--------------------------------------------------------|
@@ -2628,17 +2628,17 @@ You may therefore wish to contact the solicitor for the judgment creditor (name 
 
 **Particulars of your other assets**
 
-| 16. | Please state if you have any insurance policies.                                                                                          
+| 16. | Please state if you have any insurance policies.
 
        Yes/No. If yes, please provide details in Annex C                                                                                          |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------|
-| 17. | Please state if you own any shares and/or unit trusts.                                                                                    
+| 17. | Please state if you own any shares and/or unit trusts.
 
        Yes/No. If yes, please provide details in Annex C                                                                                          |
-| 18. | Please state if you are a beneficiary under any trust, will or estate in intestacy.                                                       
+| 18. | Please state if you are a beneficiary under any trust, will or estate in intestacy.
 
        Yes/No. If yes, please provide details in Annex C                                                                                          |
-| 19. | Please state if you are a member (whether in Singapore or overseas) of any country clubs, timeshare holiday clubs.                        
+| 19. | Please state if you are a member (whether in Singapore or overseas) of any country clubs, timeshare holiday clubs.
 
        Yes/No. If yes, please provide details in Annex C                                                                                          |
 | 20. | Please state if you own any other assets, savings or investments not listed thus far (e.g. antiques, collectibles, jewellery, paintings).
@@ -2824,7 +2824,7 @@ You may therefore wish to contact the solicitor for the judgment creditor (name 
 | (ii)  | the present location of the Company’s business operations; and |
 | (iii) | whether the Company is making trading profits or losses.       |
 
-| 8.  | Please state whether the Company declared any dividends this year or the last year:        
+| 8.  | Please state whether the Company declared any dividends this year or the last year:
 
        Yes/ No. If yes, please state when the dividends were declared, and how much was declared.  |
 |-----|--------------------------------------------------------------------------------------------|
@@ -2845,7 +2845,7 @@ You may therefore wish to contact the solicitor for the judgment creditor (name 
 
 **Particulars of the Company’s Debtors**
 
-| 13. | Please state whether anyone owes the Company money.                                                                                                                                                        
+| 13. | Please state whether anyone owes the Company money.
 
        Yes / No. If yes, please provide the details in Annex A                                                                                                                                                     |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2873,7 +2873,7 @@ You may therefore wish to contact the solicitor for the judgment creditor (name 
 
 **Particulars of the Company’s motor vehicles**
 
-| 18. | Please state if the Company owns any motor vehicle.    
+| 18. | Please state if the Company owns any motor vehicle.
 
        Yes/No. If yes, please provide the details in Annex B.  |
 |-----|--------------------------------------------------------|
@@ -2890,7 +2890,7 @@ You may therefore wish to contact the solicitor for the judgment creditor (name 
 
 **Particulars of the Company’s other assets**
 
-| 20. | Please state if the Company has any insurance policies.         
+| 20. | Please state if the Company has any insurance policies.
 
        Yes/No. If yes, please provide details in Annex C                |
 |-----|-----------------------------------------------------------------|
@@ -3096,57 +3096,57 @@ Basis for taxation: Judgment dated \_\_\_\_\_\_\_\_ ordering \[*set out the orde
 | 9.1                                   | Counsel and solicitors                                                                          | \[*List all the lawyers acting for each party and their seniority.*\]                                                                                                                                         |                                                                                                                                                                      |
 | 9.2                                   | Certificate of more than 2 counsel                                                              | \[*Indicate if the court has certified that the costs of more than two counsel are allowed.*\]                                                                                                                |                                                                                                                                                                      |
 | **10.**                               | **Costs claimed **                                                                              |
-| 10.1                                  | Amount claimed                                                                                  | **Amount claimed for \[***specify name of counsel or solicitor*\]**: $ \[***insert amount***\]. **                                                                                                            
+| 10.1                                  | Amount claimed                                                                                  | **Amount claimed for \[***specify name of counsel or solicitor*\]**: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out in relation to each counsel or solicitor, the amount of costs claimed for Section 1, with a breakdown of – *                                                                                        
+                                                                                                                                           \[*Set out in relation to each counsel or solicitor, the amount of costs claimed for Section 1, with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for work done by the counsel or solicitor; *                                                                                                                                           
+                                                                                                                                           1.  *the amount claimed for work done by the counsel or solicitor; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                                                                                                        
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                                                                                                         
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
-                                                                                                                                           4.  *the GST claimed for work done,*                                                                                                                                                                           
+                                                                                                                                           4.  *the GST claimed for work done,*
 
                                                                                                                                            *in relation to the periods for which different rates of GST are applicable.*\]                                                                                                                                |                                                                                                                                                                      |
 | **Section 2: Work done for taxation** |
 | *No.*                                 | *Item*                                                                                          | *Description*                                                                                                                                                                                                 | *Remarks*                                                                                                                                                            |
 | 11.                                   | Work done                                                                                       | \[*Describe the work done for the preparation of the bill of costs and the taxation of the bill.*\]                                                                                                           |                                                                                                                                                                      |
-| 12.                                   | Amount claimed                                                                                  | **Total amount claimed: $ \[***insert amount***\]. **                                                                                                                                                         
+| 12.                                   | Amount claimed                                                                                  | **Total amount claimed: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the amount of costs claimed for Section 2, with a breakdown of – *                                                                                                                                  
+                                                                                                                                           \[*Set out the amount of costs claimed for Section 2, with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for work done for Section 2; *                                                                                                                                                         
+                                                                                                                                           1.  *the amount claimed for work done for Section 2; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                                                                                                        
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                                                                                                         
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
                                                                                                                                            4.  *the GST claimed for work done.*\]                                                                                                                                                                         |                                                                                                                                                                      |
 | **Section 3: Disbursements **         |
 | *No.*                                 | *Date*                                                                                          | *Description and amount claimed*                                                                                                                                                                              | *Remarks *                                                                                                                                                           |
-| 13.                                   | \[*Set out in different rows the dates or period of time when each disbursement is incurred.*\] | *Disbursements on which GST is not chargeable*                                                                                                                                                                
+| 13.                                   | \[*Set out in different rows the dates or period of time when each disbursement is incurred.*\] | *Disbursements on which GST is not chargeable*
 
-                                                                                                                                           \[*Set out the amount of each disbursement claimed.*\]                                                                                                                                                         
+                                                                                                                                           \[*Set out the amount of each disbursement claimed.*\]
 
-                                                                                                                                           *Disbursements on which GST is chargeable *                                                                                                                                                                    
+                                                                                                                                           *Disbursements on which GST is chargeable *
 
                                                                                                                                            \[*Set out the amount of each disbursement claimed.*\]                                                                                                                                                         |                                                                                                                                                                      |
-| \[ \]                                 | -                                                                                               | **Total amount claimed for disbursements on which GST is not chargeable: $ \[***insert amount***\]. **                                                                                                        
+| \[ \]                                 | -                                                                                               | **Total amount claimed for disbursements on which GST is not chargeable: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is not chargeable.*\]                                                                                                          
+                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is not chargeable.*\]
 
-                                                                                                                                           **Total amount claimed for disbursements on which GST is chargeable: $ \[***insert amount***\]. **                                                                                                             
+                                                                                                                                           **Total amount claimed for disbursements on which GST is chargeable: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is chargeable with a breakdown of – *                                                                                          
+                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is chargeable with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for disbursements for Section 3; *                                                                                                                                                     
+                                                                                                                                           1.  *the amount claimed for disbursements for Section 3; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                                                                                                        
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                                                                                                         
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
-                                                                                                                                           4.  *the GST claimed for disbursements,*                                                                                                                                                                       
+                                                                                                                                           4.  *the GST claimed for disbursements,*
 
                                                                                                                                            *in relation to the periods for which different rates of GST are applicable.*\]                                                                                                                                |                                                                                                                                                                      |
 
@@ -3238,57 +3238,57 @@ Basis for taxation: Judgment dated \_\_\_\_\_\_\_\_ ordering \[*set out the orde
 | 8.1                                   | Counsel and solicitors                                                                          | \[*List all the lawyers acting for each party and their seniority.*\]                                                                                                                                         |                                                                                                                                                                      |
 | 8.2                                   | Certificate of more than 2 counsel                                                              | \[*Indicate if the court has certified that the costs of more than two counsel are allowed.*\]                                                                                                                |                                                                                                                                                                      |
 | **9.**                                | **Costs claimed **                                                                              |
-| 9.1                                   | Amount claimed                                                                                  | **Amount claimed for \[***specify name of counsel or solicitor*\]**: $ \[***insert amount***\]. **                                                                                                            
+| 9.1                                   | Amount claimed                                                                                  | **Amount claimed for \[***specify name of counsel or solicitor*\]**: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out in relation to each counsel or solicitor, the amount of costs claimed for Section 1, with a breakdown of – *                                                                                        
+                                                                                                                                           \[*Set out in relation to each counsel or solicitor, the amount of costs claimed for Section 1, with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for work done by the counsel or solicitor; *                                                                                                                                           
+                                                                                                                                           1.  *the amount claimed for work done by the counsel or solicitor; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                                                                                                        
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                                                                                                         
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
-                                                                                                                                           4.  *the GST claimed for work done,*                                                                                                                                                                           
+                                                                                                                                           4.  *the GST claimed for work done,*
 
                                                                                                                                            *in relation to the periods for which different rates of GST are applicable.*\]                                                                                                                                |                                                                                                                                                                      |
 | **Section 2: Work done for taxation** |
 | *No.*                                 | *Item*                                                                                          | *Description*                                                                                                                                                                                                 | *Remarks*                                                                                                                                                            |
 | 10.                                   | Work done                                                                                       | \[*Describe the work done for the preparation of the bill of costs and the taxation of the bill.*\]                                                                                                           |                                                                                                                                                                      |
-| 11.                                   | Amount claimed                                                                                  | **Total amount claimed: $ \[***insert amount***\]. **                                                                                                                                                         
+| 11.                                   | Amount claimed                                                                                  | **Total amount claimed: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the amount of costs claimed for Section 2, with a breakdown of – *                                                                                                                                  
+                                                                                                                                           \[*Set out the amount of costs claimed for Section 2, with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for work done for Section 2; *                                                                                                                                                         
+                                                                                                                                           1.  *the amount claimed for work done for Section 2; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                                                                                                        
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                                                                                                         
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
                                                                                                                                            4.  *the GST claimed for work done.*\]                                                                                                                                                                         |                                                                                                                                                                      |
 | **Section 3: Disbursements **         |
 | *No.*                                 | *Date*                                                                                          | *Description and amount claimed*                                                                                                                                                                              | *Remarks *                                                                                                                                                           |
-| 12.                                   | \[*Set out in different rows the dates or period of time when each disbursement is incurred.*\] | *Disbursements on which GST is not chargeable *                                                                                                                                                               
+| 12.                                   | \[*Set out in different rows the dates or period of time when each disbursement is incurred.*\] | *Disbursements on which GST is not chargeable *
 
-                                                                                                                                           \[*Set out the amount of each disbursement claimed.*\]                                                                                                                                                         
+                                                                                                                                           \[*Set out the amount of each disbursement claimed.*\]
 
-                                                                                                                                           *Disbursements on which GST is chargeable *                                                                                                                                                                    
+                                                                                                                                           *Disbursements on which GST is chargeable *
 
                                                                                                                                            \[*Set out the amount of each disbursement claimed.*\]                                                                                                                                                         |                                                                                                                                                                      |
-| \[ \]                                 | -                                                                                               | **Total amount claimed for disbursements on which GST is not chargeable: $ \[***insert amount***\]. **                                                                                                        
+| \[ \]                                 | -                                                                                               | **Total amount claimed for disbursements on which GST is not chargeable: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is not chargeable.*\]                                                                                                          
+                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is not chargeable.*\]
 
-                                                                                                                                           **Total amount claimed for disbursements on which GST is chargeable: $ \[***insert amount***\]. **                                                                                                             
+                                                                                                                                           **Total amount claimed for disbursements on which GST is chargeable: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is chargeable with a breakdown of – *                                                                                          
+                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is chargeable with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for disbursements for Section 3; *                                                                                                                                                     
+                                                                                                                                           1.  *the amount claimed for disbursements for Section 3; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                                                                                                        
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                                                                                                         
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
-                                                                                                                                           4.  *the GST claimed for disbursements,*                                                                                                                                                                       
+                                                                                                                                           4.  *the GST claimed for disbursements,*
 
                                                                                                                                            *in relation to the periods for which different rates of GST are applicable.*\]                                                                                                                                |                                                                                                                                                                      |
 
@@ -3356,57 +3356,57 @@ Basis for taxation: \[*Set out the basis under which the bill of costs may be ta
 | **4.**                                | **Counsel and solicitors involved**                                                             |
 | 4.1                                   | Solicitor                                                                                       | \[*List all the lawyers acting for each party and their seniority.*\]                                                      |            |
 | **5.**                                | **Costs claimed **                                                                              |
-| 5.1                                   | Amount claimed                                                                                  | **Amount claimed for \[***specify name of counsel or solicitor*\]**: $ \[***insert amount***\]. **                         
+| 5.1                                   | Amount claimed                                                                                  | **Amount claimed for \[***specify name of counsel or solicitor*\]**: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out in relation to each counsel or solicitor, the amount of costs claimed for Section 1, with a breakdown of – *     
+                                                                                                                                           \[*Set out in relation to each counsel or solicitor, the amount of costs claimed for Section 1, with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for work done by the counsel or solicitor; *                                                        
+                                                                                                                                           1.  *the amount claimed for work done by the counsel or solicitor; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                     
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                      
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
-                                                                                                                                           4.  *the GST claimed for work done,*                                                                                        
+                                                                                                                                           4.  *the GST claimed for work done,*
 
                                                                                                                                            *in relation to the periods for which different rates of GST are applicable.*\]                                             |            |
 | **Section 2: Work done for taxation** |
 | *No.*                                 | *Item*                                                                                          | *Description*                                                                                                              | *Remarks*  |
 | 6.                                    | Work done                                                                                       | \[*Describe the work done for the preparation of the bill of costs and the taxation of the bill.*\]                        |            |
-| 7.                                    | Amount claimed                                                                                  | **Total amount claimed: $ \[***insert amount***\]. **                                                                      
+| 7.                                    | Amount claimed                                                                                  | **Total amount claimed: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the amount of costs claimed for Section 2, with a breakdown of – *                                               
+                                                                                                                                           \[*Set out the amount of costs claimed for Section 2, with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for work done for Section 2; *                                                                      
+                                                                                                                                           1.  *the amount claimed for work done for Section 2; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                     
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                      
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
                                                                                                                                            4.  *the GST claimed for work done.*\]                                                                                      |            |
 | **Section 3: Disbursements **         |
 | *No.*                                 | *Date*                                                                                          | *Description and amount claimed*                                                                                           | *Remarks * |
-| 8.                                    | \[*Set out in different rows the dates or period of time when each disbursement is incurred.*\] | *Disbursements on which GST is not chargeable *                                                                            
+| 8.                                    | \[*Set out in different rows the dates or period of time when each disbursement is incurred.*\] | *Disbursements on which GST is not chargeable *
 
-                                                                                                                                           \[*Set out the amount of each disbursement claimed.*\]                                                                      
+                                                                                                                                           \[*Set out the amount of each disbursement claimed.*\]
 
-                                                                                                                                           *Disbursements on which GST is chargeable *                                                                                 
+                                                                                                                                           *Disbursements on which GST is chargeable *
 
                                                                                                                                            \[*Set out the amount of each disbursement claimed.*\]                                                                      |            |
-| \[ \]                                 | -                                                                                               | **Total amount claimed for disbursements on which GST is not chargeable: $ \[***insert amount***\]. **                     
+| \[ \]                                 | -                                                                                               | **Total amount claimed for disbursements on which GST is not chargeable: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is not chargeable.*\]                       
+                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is not chargeable.*\]
 
-                                                                                                                                           **Total amount claimed for disbursements on which GST is chargeable: $ \[***insert amount***\]. **                          
+                                                                                                                                           **Total amount claimed for disbursements on which GST is chargeable: $ \[***insert amount***\]. **
 
-                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is chargeable with a breakdown of – *       
+                                                                                                                                           \[*Set out the total amount of disbursements claimed for Section 3 on which GST is chargeable with a breakdown of – *
 
-                                                                                                                                           1.  *the amount claimed for disbursements for Section 3; *                                                                  
+                                                                                                                                           1.  *the amount claimed for disbursements for Section 3; *
 
-                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *                     
+                                                                                                                                           2.  *the percentage of input tax for which a party entitled to claim costs is not entitled to credit; *
 
-                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*                      
+                                                                                                                                           3.  *the amount of input tax for which a party entitled to claim costs is not entitled to credit; and*
 
-                                                                                                                                           4.  *the GST claimed for disbursements,*                                                                                    
+                                                                                                                                           4.  *the GST claimed for disbursements,*
 
                                                                                                                                            *in relation to the periods for which different rates of GST are applicable.*\]                                             |            |
 
@@ -3452,17 +3452,17 @@ Take notice that the solicitors for the intend to dispute the bill of costs No. 
 |     |                          |     |                                                                                                                     |
 |-----|--------------------------|-----|---------------------------------------------------------------------------------------------------------------------|
 |     | ITEM                     | P/Q | GROUNDS OF DISPUTE                                                                                                  |
-| 1.  | *Section 1*              
+| 1.  | *Section 1*
 
-       (Party & Party)           
+       (Party & Party)
 
        \[List items disputed\]   |     | \[Specify ***grounds*** of dispute for each item - Stating that \`amount claimed is excessive' is not sufficient.\] |
-| 2.  | *Section 2*              
+| 2.  | *Section 2*
 
        (Work done for taxation)  |     |                                                                                                                     |
-| 3.  | *Section 3*              
+| 3.  | *Section 3*
 
-       (Disbursements)           
+       (Disbursements)
 
        \[List items disputed\]   |     | \[Specify ***grounds*** of dispute for each item - Stating that \`amount claimed is excessive' is not sufficient.\] |
 
@@ -3480,7 +3480,7 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|----------------------------------------------------------|-----|
 |     | ORIGINAL                                                                                                                                                                    | MEDICAL CERTIFICATE                | Serial No.                                               |     |
 |     | Name                                                                                                                                                                        | NRIC No.                           |                                                          |
-|     | \*This is to certify that the abovenamed is unfit for duty for a period of ..........................................................................                       
+|     | \*This is to certify that the abovenamed is unfit for duty for a period of ..........................................................................
 
        ..................................................................... days from ...................................... to ...................................... inclusive.  |                                    |
 |     | **Type of medical leave granted —**                                                                                                                                         |                                    |
@@ -3490,10 +3490,10 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 |     | This Certificate is \*valid/not valid for absence from court attendance.                                                                                                    |                                    |
 |     | Diagnosis                                                                                                                                                                   | Surgical Operation (if applicable) |                                                          |
 |     | \*Fit for normal/light duty from ....................................................... to ........................................................                        |                                    |
-|     | \*The abovenamed patient attended my clinic at ................................. am/pm and left at ................................. am/pm.                                 
+|     | \*The abovenamed patient attended my clinic at ................................. am/pm and left at ................................. am/pm.
 
        No medical leave is necessary                                                                                                                                                |                                    |
-|     | Hospital/Clinic                                                                                                                                                             | Ward No.                           | Signature, Name (In BLOCK LETTERS)                       
+|     | Hospital/Clinic                                                                                                                                                             | Ward No.                           | Signature, Name (In BLOCK LETTERS)
 
                                                                                                                                                                                                                           and Designation                                           |     |
 |     |                                                                                                                                                                             | Date                               |                                                          |     |
@@ -3544,10 +3544,10 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 |-----------------------------------|
 | **STATE COURTS COURT NO: \_\_\_** |
 | Case No:                          |
-| Advocate's Name/                  
+| Advocate's Name/
 
  Prosecutor's Name                  |
-| Advocate 's Firm/                 
+| Advocate 's Firm/
 
  Prosecutor's Department            |
 | Telephone No.:                    |
@@ -3558,99 +3558,99 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 
 **APPLICATION FOR RECORDS OF CRIMINAL PROCEEDINGS FOR NON-ICMS CASES**
 
-| Name of Applicant / Solicitor’s Firm : ………………………………………………………………………………………                                                                                                                                                                                                                                                                                                                                                                                  
+| Name of Applicant / Solicitor’s Firm : ………………………………………………………………………………………
 
- NRIC No. : ………………………………………………………………………………………                                                                                                                                                                                                                                                                                                                                                                                                               
+ NRIC No. : ………………………………………………………………………………………
 
- Address : ………………………………………………………………………………………                                                                                                                                                                                                                                                                                                                                                                                                                
+ Address : ………………………………………………………………………………………
 
- : ………………………………………………………………………………………                                                                                                                                                                                                                                                                                                                                                                                                                        
+ : ………………………………………………………………………………………
 
- File Reference No: ……………………………………………………. Email: …………………………………………………….                                                                                                                                                                                                                                                                                                                                                                                      
+ File Reference No: ……………………………………………………. Email: …………………………………………………….
 
  Telephone No: ……………………………………………………. Facsimile No: ………………………………………………….                                                                                                                                                                                                                                                                                                                                                                                     | *Date of Application*                    |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                           | *Solicitor Acting For :-*                
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                           | *Solicitor Acting For :-*
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             *( where applicable)*                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             *( where applicable)*
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             >  Complainant                           
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             >                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             >  Respondent                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             >                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             >  Others:                               
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             >                                         
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             > …………………………………                           
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             >                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             >  Complainant
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             >
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             >  Respondent
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             >
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             >  Others:
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             >
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             > …………………………………
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             >
                                                                                                                                                                                                                                                                                                                                                                                                                                                              > *(please specify)*                      |
 | **DOCUMENTS APPLIED FOR**                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **CRIMINAL JUSTICE DIVISION **                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ***NRIC/ Name of Accused / Complainant / Respondent / Deceased:***                                                                                                                                                                                                                                                                                                                                                                                        
- >                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+| ***NRIC/ Name of Accused / Complainant / Respondent / Deceased:***
+ >
  > ……………………………………………………………………………………………………………………………………………………………………………………………………………………….....                                                                                                                                                                                                                                                                                                                                                                   |
-| Case No: ………………………………………………………………………………………………………………………………………………………………………………………………………………                                                                                                                                                                                                                                                                                                                                                                   
- >                                                                                                                                                                                                                                                                                                                                                                                                                                                          
- > *(Please specify Case Reference No.)*                                                                                                                                                                                                                                                                                                                                                                                                                    
- >                                                                                                                                                                                                                                                                                                                                                                                                                                                          
- > DAC/MAC No(s): …………………………………………………………………………………………………………………………………………………………………………………………………….                                                                                                                                                                                                                                                                                                                                                               
- >                                                                                                                                                                                                                                                                                                                                                                                                                                                          
- > Coroner’s Inquiry No: ………………………………………………………………………………………………………………………………………………………………………………………………..                                                                                                                                                                                                                                                                                                                                                         
- >                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+| Case No: ………………………………………………………………………………………………………………………………………………………………………………………………………………
+ >
+ > *(Please specify Case Reference No.)*
+ >
+ > DAC/MAC No(s): …………………………………………………………………………………………………………………………………………………………………………………………………….
+ >
+ > Coroner’s Inquiry No: ………………………………………………………………………………………………………………………………………………………………………………………………..
+ >
  > Others: ………………………………………………………………………………………………………………………………………………………………………………………………………………...                                                                                                                                                                                                                                                                                                                                                                |
-| *Type of Document ( where applicable)*                                                                                                                                                                                                                                                                                                                                                                                                                   
+| *Type of Document ( where applicable)*
 
- -   Charges                                                                                                                                                                                                                                                                                                                                                                                                                                                
+ -   Charges
 
- -   Complaint Form                                                                                                                                                                                                                                                                                                                                                                                                                                         
+ -   Complaint Form
 
- -   Notes of Evidence: ……………………………………………………………………………………………………………………………………………………………………………………………                                                                                                                                                                                                                                                                                                                                                             
+ -   Notes of Evidence: ……………………………………………………………………………………………………………………………………………………………………………………………
 
- *(please specify hearing dates)*                                                                                                                                                                                                                                                                                                                                                                                                                           
+ *(please specify hearing dates)*
 
- -   Registrar’s Certificate                                                                                                                                                                                                                                                                                                                                                                                                                                
+ -   Registrar’s Certificate
 
- -   Statement of Facts                                                                                                                                                                                                                                                                                                                                                                                                                                     
+ -   Statement of Facts
 
- -   Others: …………………………………………………………………………………………………………………………………………………………………………………………………………                                                                                                                                                                                                                                                                                                                                                                   
+ -   Others: …………………………………………………………………………………………………………………………………………………………………………………………………………
 
  > *(please specify)*                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ***Reasons For Application (** **where applicable)***                                                                                                                                                                                                                                                                                                                                                                                                    |
-| -   Misplaced Original Copy of the Order/Charge/Others                                                                                                                                                                                                                                                                                                                                                                                                    
+| -   Misplaced Original Copy of the Order/Charge/Others
 
- > ………………………………………………………………………………………….                                                                                                                                                                                                                                                                                                                                                                                                                      
+ > ………………………………………………………………………………………….
 
  -   For reference                                                                                                                                                                                                                                                                                                                                                                                                                                          | -   To seek legal advice/ representation
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             -   Others :                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             -   Others :
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             > ………………………………………………………………………………………….     
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             > ………………………………………………………………………………………….
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                              *(please specify)*                        |
 | 1.  I understand that I am to pay the required fees for the above in accordance with regulation 2(1)(a) (ii), (1)(b) and (2) of the Criminal Procedure Code (Prescribed Fees) Regulations 2013 or paragraph 3 of the Fees (State Courts – Criminal Jurisdiction) Order 2014, as applicable, upon submission of the application Form. I also understand that the document(s) applied for can only be collected after the stipulated payment has been made.
 
- 2.  I also understand that the Court, upon approval of the application, will only release the document(s) applied for to parties named in the action or their solicitors.                                                                                                                                                                                                                                                                                  
+ 2.  I also understand that the Court, upon approval of the application, will only release the document(s) applied for to parties named in the action or their solicitors.
 
- 3.  I also understand that my application will be deemed as lapsed if the document(s) applied for is/are not collected within 21 days from the date I am informed on the availability thereof. I also understand that I am required to provide a **Letter of Authorisation** for another person to collect the requested document(s) on my behalf if I am unable to collect them personally.                                                               
+ 3.  I also understand that my application will be deemed as lapsed if the document(s) applied for is/are not collected within 21 days from the date I am informed on the availability thereof. I also understand that I am required to provide a **Letter of Authorisation** for another person to collect the requested document(s) on my behalf if I am unable to collect them personally.
 
- > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                                                                                                                                                                        
+ > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  Signature of Applicant Date                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **FOR OFFICIAL USE ONLY**                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **The application is:**                                                                                                                                                                                                                                                                                                                                                                                                                                   
+| **The application is:**
 
  *( where applicable)*                                                                                                                                                                                                                                                                                                                                                                                                                                     | -   Approved                             |
-| *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*                                                                                                                                                                                                                                                                                                                        
+| *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
  *Name and Signature of District Judge/Magistrate/Deputy Registrar*                                                                                                                                                                                                                                                                                                                                                                                         |                                          |
-| -   Total Fees payable : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                                                                                                                                                               
+| -   Total Fees payable : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
  -   Minimum Fees payable ($15 x no. of document types applied): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                                                                                                                                                                                           | No. of documents collected:              |
 | -   Paid on: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Receipt No: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                                                                                                                                                              | Document(s) collected by:                |
-| -   Balance Fees payable ($0.50 per page, where applicable): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                                                                                                                                                                                         
+| -   Balance Fees payable ($0.50 per page, where applicable): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
- -   Paid on: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Receipt No: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                                                                                                                                                               | Name & Signature of Collector            
+ -   Paid on: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Receipt No: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                                                                                                                                                                                                                                               | Name & Signature of Collector
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                             NRIC/Passport/ FIN No:                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                             NRIC/Passport/ FIN No:
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                              Date:                                     |
 
@@ -3671,10 +3671,10 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 | **Document Type**                                                                                                                              | **Fee Amount**                                                                                                                  | **Remarks**                                                                                               |
 |------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Registrar’s Certificate[^13]                                                                                                                    | $20                                                                                                                             | Payable upon Application                                                                                  |
-| All other documents (including a copy of any Judgment, Sentence, Order, Deposition or other part of the record of any criminal proceedings[^14] | $5 for each type of document requested in the application and $0.50 per page thereof, subject to a minimum of $15 per document. | Minimum of $15 (per document) payable upon Application                                                    
+| All other documents (including a copy of any Judgment, Sentence, Order, Deposition or other part of the record of any criminal proceedings[^14] | $5 for each type of document requested in the application and $0.50 per page thereof, subject to a minimum of $15 per document. | Minimum of $15 (per document) payable upon Application
 
                                                                                                                                                                                                                                                                                     \**Any additional amount (based on number of pages) may be payable before collection of the document(s).*  |
-| Application for an additional copy of the record of any criminal proceedings or the Grounds of Decision[^15]                                    | $0.50 for each page thereof, subject to a minimum of $10 for each copy of the record of proceedings and grounds of decision     | Minimum of $10 (per document) payable upon Application                                                    
+| Application for an additional copy of the record of any criminal proceedings or the Grounds of Decision[^15]                                    | $0.50 for each page thereof, subject to a minimum of $10 for each copy of the record of proceedings and grounds of decision     | Minimum of $10 (per document) payable upon Application
 
                                                                                                                                                                                                                                                                                     \**Any additional amount (based on number of pages) may be payable before collection of the document(s).*  |
 
@@ -3712,18 +3712,18 @@ SPECIMEN GOVERNMENT MEDICAL CERTIFICATE
 
 **MENTION SLIP**
 
-| **Case No.:**                              
+| **Case No.:**
 
  **PIC / DAC / MAC / PS**                    |                                                   |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------|
-| **Solicitor’s Name / **                    
+| **Solicitor’s Name / **
 
  **Prosecutor’s Name**                       |                                                   |
 | **Telephone No.:**                         |                                                   |
 | **Fax No.:**                               |                                                   |
 | 1.
 
-                                                                                             2.  
+                                                                                             2.
 
                                                                                              3.  |
 | **Accused on bail/ Remanded at \***        |                                                   |
@@ -3748,9 +3748,9 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
- **READ EXPLANATORY NOTE TO THE PLAINTIFF ON PAGE 4 BEFORE COMPLETING IT.**                                                  
+ **READ EXPLANATORY NOTE TO THE PLAINTIFF ON PAGE 4 BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -3869,7 +3869,7 @@ Name of plaintiff
 **
 EXPLANATORY NOTE TO THE PLAINTIFF**
 
-| **IMPORTANT: You must provide the *full name of your neighbour* and his / her address. **                                                                
+| **IMPORTANT: You must provide the *full name of your neighbour* and his / her address. **
 
  **Please fill in all the fields in the form. An incomplete form and / or incomplete supporting evidence will delay the processing of your application.**  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -3978,9 +3978,9 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
- **READ EXPLANATORY NOTE TO THE RESPONDENT ON PAGE 4 BEFORE COMPLETING IT.**                                                 
+ **READ EXPLANATORY NOTE TO THE RESPONDENT ON PAGE 4 BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -4126,9 +4126,9 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
- **READ EXPLANATORY NOTE TO THE APPLICANT ON PAGE 4 BEFORE COMPLETING IT.**                                                  
+ **READ EXPLANATORY NOTE TO THE APPLICANT ON PAGE 4 BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -4282,9 +4282,9 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                                                                                                                     
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
- **You may make an application for a Compliance Bond *only if* you are also applying for OR have applied for a Special Direction for the respondent to obey an Order which was previously issued by the Tribunal. **  
+ **You may make an application for a Compliance Bond *only if* you are also applying for OR have applied for a Special Direction for the respondent to obey an Order which was previously issued by the Tribunal. **
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -4389,9 +4389,9 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
- **READ EXPLANATORY NOTE TO THE RESPONDENT ON PAGE 4 BEFORE COMPLETING IT.**                                                 
+ **READ EXPLANATORY NOTE TO THE RESPONDENT ON PAGE 4 BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -4455,7 +4455,7 @@ Name of respondent
 
 **EXPLANATORY NOTE TO THE RESPONDENT IN AN APPLICATION FOR SPECIAL DIRECTION**
 
-| **IMPORTANT: Please fill in all the fields in the form. **                                                   
+| **IMPORTANT: Please fill in all the fields in the form. **
 
  **An incomplete form and / or incomplete supporting evidence will delay the processing of your submission.**  |
 |--------------------------------------------------------------------------------------------------------------|
@@ -4504,9 +4504,9 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
- **READ EXPLANATORY NOTE TO THE RESPONDENT ON PAGE 4 BEFORE COMPLETING IT.**                                                 
+ **READ EXPLANATORY NOTE TO THE RESPONDENT ON PAGE 4 BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -4613,9 +4613,9 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
- **READ EXPLANATORY NOTE TO THE APPLICANT ON PAGE 4 BEFORE COMPLETING IT.**                                                  
+ **READ EXPLANATORY NOTE TO THE APPLICANT ON PAGE 4 BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -4700,7 +4700,7 @@ Name of applicant
 
 **EXPLANATORY NOTE TO THE APPLICANT FOR AN EXCLUSION ORDER**
 
-| **IMPORTANT: Please fill up all the fields in the form. **                                                    
+| **IMPORTANT: Please fill up all the fields in the form. **
 
  **An incomplete form and / or incomplete supporting evidence will delay the processing of your application.**  |
 |---------------------------------------------------------------------------------------------------------------|
@@ -4749,9 +4749,9 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
- **READ EXPLANATORY NOTE TO THE RESPONDENT ON PAGE 4 BEFORE COMPLETING IT.**                                                 
+ **READ EXPLANATORY NOTE TO THE RESPONDENT ON PAGE 4 BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -4862,7 +4862,7 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -4932,7 +4932,7 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                            
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
  **It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |----------------------------------------------------------------------------------------------------------------------------|
@@ -5048,7 +5048,7 @@ And
 
 *(name of Respondent)*
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.                                                                             
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.
  It is an offence to give information or to produce any document to the Tribunal which you know or believe to be false.**  |
 |--------------------------------------------------------------------------------------------------------------------------|
 
@@ -5695,7 +5695,7 @@ State Courts
 
 Singapore
 
-| **SECTION 30(3) COMMUNITY DISPUTES RESOLUTION ACT 2015**                                                                                                                                                                              
+| **SECTION 30(3) COMMUNITY DISPUTES RESOLUTION ACT 2015**
 
  **Any person who fails to comply with the Registrar’s or tribunal judge’s order made under subsection (2) commits contempt of court and action may be taken against that person under section 8 of the State Courts Act (Cap. 321).**  |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6014,9 +6014,9 @@ And
 
 **CLAIM**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
- **READ THE EXPLANATORY NOTE BELOW BEFORE COMPLETING IT.**                                                                                      
+ **READ THE EXPLANATORY NOTE BELOW BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6046,10 +6046,10 @@ And
 | Start date of employment *(DD / MM / YYYY)*                                                        |
 | End date of employment *(DD / MM / YYYY) (if applicable)*                                          |
 | Basic salary per month / day / hour\*                                                              |
-| Total monthly fixed allowance                                                                      
+| Total monthly fixed allowance
 
  *e.g. fixed food or housing allowances*                                                             |
-| Total monthly variable payment                                                                     
+| Total monthly variable payment
 
  *e.g. bonus or commission (average over 6 months or the duration of employment whichever is less)*  |
 | Written employment contract or Key Employment Terms (KETs)                                         |
@@ -6114,7 +6114,7 @@ Dated this day of , 20
 
 **EXPLANATORY NOTE TO THE CLAIMANT**
 
-| **IMPORTANT: You must provide the *full name* of the respondent and his / her address. **                                                                
+| **IMPORTANT: You must provide the *full name* of the respondent and his / her address. **
 
  **Please fill in all the fields in the form. An incomplete form and / or incomplete supporting evidence will delay the processing of your application.**  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6184,9 +6184,9 @@ And
 
 **RESPONSE**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
- **READ THE EXPLANATORY NOTE BELOW BEFORE COMPLETING IT.**                                                                                      
+ **READ THE EXPLANATORY NOTE BELOW BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6287,9 +6287,9 @@ And
 
 **COUNTERCLAIM**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
- **READ THE EXPLANATORY NOTE BELOW BEFORE COMPLETING IT.**                                                                                      
+ **READ THE EXPLANATORY NOTE BELOW BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6414,7 +6414,7 @@ And
 
 **DECLARATION OF SERVICE**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6475,7 +6475,7 @@ And
 
 **NOTICE OF DISCONTINUANCE / WITHDRAWAL (BEFORE SERVICE)**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6522,7 +6522,7 @@ And
 
 **NOTICE OF DISCONTINUANCE / WITHDRAWAL (AFTER SERVICE)**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6646,9 +6646,9 @@ And
 
 **APPLICATION FOR AN AUTHORISED REPRESENTATIVE**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
- **READ THE EXPLANATORY NOTE BELOW BEFORE COMPLETING IT.**                                                                                      
+ **READ THE EXPLANATORY NOTE BELOW BEFORE COMPLETING IT.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6656,14 +6656,14 @@ And
 | **Name of Applicant:**                                                                                                                                                                                                               |                                                                                                                                                                                     |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **NRIC / ID / UEN No.:**                                                                                                                                                                                                             |                                                                                                                                                                                     |
-| **Type of application: Tick () where applicable**                                                                                                                                                                                    | For a member of the union (Ordinary Branch[^16]) to be represented by the union.                                                                                                     
+| **Type of application: Tick () where applicable**                                                                                                                                                                                    | For a member of the union (Ordinary Branch[^16]) to be represented by the union.
 
-                                                                                                                                                                                                                                        For a party below the age of 18 years old to be represented by a parent or guardian.                                                                                                 
+                                                                                                                                                                                                                                        For a party below the age of 18 years old to be represented by a parent or guardian.
 
                                                                                                                                                                                                                                         For a person who is unable to present his own case by reason of illiteracy or infirmity of mind or body, to be represented by any other person who is authorised by him in writing.  |
 | **Name of Proposed Representative:**                                                                                                                                                                                                 |                                                                                                                                                                                     |
 | **NRIC / FIN No. of Proposed Representative:**                                                                                                                                                                                       |                                                                                                                                                                                     |
-| ***Declaration***                                                                                                                                                                                                                    
+| ***Declaration***
 
  **I declare that the proposed representative is not an advocate and solicitor, or an agent whether paid or otherwise, and has sufficient knowledge of the case and is authorised to bind the represented party in the proceedings.**  |
 
@@ -6765,7 +6765,7 @@ And
 
 **DECISION, DIRECTION OR ORDER GIVEN IN ABSENCE OF PARTY**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6825,7 +6825,7 @@ And
 
 **DECISION, DIRECTION OR ORDER GIVEN IN ABSENCE OF PARTY**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6881,7 +6881,7 @@ And
 
 **APPLICATION TO CORRECT ORDER OF TRIBUNAL**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6932,7 +6932,7 @@ And
 
 **RESPONSE TO APPLICATION TO CORRECT ORDER OF TRIBUNAL**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -6993,7 +6993,7 @@ And
 
 **NOTICE OF APPEAL AGAINST DECISION, DIRECTION, OR ORDER OF REGISTRAR**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7043,7 +7043,7 @@ And
 
 **UNDER SECTION 23(2) OF THE EMPLOYMENT CLAIMS ACT**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7117,7 +7117,7 @@ And
 
 **RESPONSE TO APPLICATION FOR LEAVE TO APPEAL UNDER SECTION 23(2) OF EMPLOYMENT CLAIMS ACT**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7178,7 +7178,7 @@ And
 
 **NOTICE OF APPEAL TO THE HIGH COURT**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE WRITTEN**                                                                                                 
+| **IMPORTANT: THIS FORM MUST BE TYPE WRITTEN**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7284,7 +7284,7 @@ And
 
 **NOTICE OF PAYMENT INTO COURT**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7368,7 +7368,7 @@ And
 
 **APPLICATION FOR AN ORDER FOR THE REFUND OF SECURITY FOR COSTS**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7482,7 +7482,7 @@ And
 
 Dated this day of , 20
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7568,7 +7568,7 @@ And
 
 > **APPLICATION FOR STAY OF EXECUTION**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7610,7 +7610,7 @@ And
 
 **APPLICATION FOR REGISTRATION OF SETTLEMENT AGREEMENT**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7713,7 +7713,7 @@ And
 
 **APPLICATION TO RENEW REGISTRATION OF SETTLEMENT AGREEMENT**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**                                                                                                
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN.**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7761,7 +7761,7 @@ And
 
 **APPLICATION TO SET ASIDE REGISTRATION OF SETTLEMENT AGREEMENT**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **                                                                                               
+| **IMPORTANT: THIS FORM MUST BE TYPE-WRITTEN. **
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -7896,23 +7896,23 @@ Name of applicant
 **
 **
 
-| **Form 96**                                                          
+| **Form 96**
 
- **EMPLOYMENT CLAIMS TRIBUNALS**                                       
+ **EMPLOYMENT CLAIMS TRIBUNALS**
 
- \*Claim / Counterclaim No.                                            
+ \*Claim / Counterclaim No.
 
- Between                                                               
+ Between
 
- *(Name of Claimant / Counterclaimant)……..Claimant / Counterclaimant*  
+ *(Name of Claimant / Counterclaimant)……..Claimant / Counterclaimant*
 
- *NRIC / Fin No. / UEN No.*                                            
+ *NRIC / Fin No. / UEN No.*
 
- And                                                                   
+ And
 
- *(Name of Respondent)……..Respondent*                                  
+ *(Name of Respondent)……..Respondent*
 
- *NRIC / Fin No. / UEN No.*                                            
+ *NRIC / Fin No. / UEN No.*
 
  ***REQUEST TO SEARCH / INSPECT / FOR COPIES OF DOCUMENTS***           |
 |----------------------------------------------------------------------|
@@ -7928,17 +7928,17 @@ Name of applicant
 
 \*Please delete accordingly.
 
-| **NOTES**                                                                                                                                 
+| **NOTES**
 
- -   This form may be used to apply for any of the following requests, with the corresponding fee depending on the nature of your request:  
+ -   This form may be used to apply for any of the following requests, with the corresponding fee depending on the nature of your request:
 
- | **Request Type**                                                            | **Cost**                          |                        
- |-----------------------------------------------------------------------------|-----------------------------------|                        
- | Request to take a certified copy of the record, excluding order of tribunal | $8 per document plus $5 per page  |                        
- | Request to search or inspect the record.                                    | $20                               |                        
- | Request for a second or subsequent copy of an order of the tribunal         | $10                               |                        
- | Request to search the register of settlement agreements                     | $20                               |                        
- | Request for a copy of a settlement agreement                                | $10                               |                        
+ | **Request Type**                                                            | **Cost**                          |
+ |-----------------------------------------------------------------------------|-----------------------------------|
+ | Request to take a certified copy of the record, excluding order of tribunal | $8 per document plus $5 per page  |
+ | Request to search or inspect the record.                                    | $20                               |
+ | Request for a second or subsequent copy of an order of the tribunal         | $10                               |
+ | Request to search the register of settlement agreements                     | $20                               |
+ | Request for a copy of a settlement agreement                                | $10                               |
  | Request for a second or subsequent copy of a settlement agreement           | $5 per doc plus 15 cents per page |                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
 
@@ -7948,14 +7948,14 @@ Name of applicant
 
 |                                                  |
 |--------------------------------------------------|
-| **FOR INTERNAL USE ONLY**                        
+| **FOR INTERNAL USE ONLY**
 
- Decision on Request: **APPROVED** / **REJECTED**  
+ Decision on Request: **APPROVED** / **REJECTED**
 
- Reason for Decision: *(Mandatory for Rejection)*  
+ Reason for Decision: *(Mandatory for Rejection)*
 
- …………………………                                        
- *Registrar *                                      
+ …………………………
+ *Registrar *
 
  *Employment Claims Tribunals*                     |
 
@@ -7981,7 +7981,7 @@ And
 
 **GENERAL APPLICATION FORM**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE WRITTEN**                                                                                                 
+| **IMPORTANT: THIS FORM MUST BE TYPE WRITTEN**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8028,7 +8028,7 @@ And
 
 **GENERAL RESPONSE FORM**
 
-| **IMPORTANT: THIS FORM MUST BE TYPE WRITTEN**                                                                                                 
+| **IMPORTANT: THIS FORM MUST BE TYPE WRITTEN**
 
  **It is an offence to give information or to produce any document to the Employment Claims Tribunals which you know or believe to be false.**  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8267,59 +8267,59 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > \[Other Party’s Counsel/Signature\]: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| (1) Have all parties been brought in?                                                                                                                 
+| (1) Have all parties been brought in?
 
- Yes                                                                                                                                                    
+ Yes
 
- No                                                                                                                                                     
+ No
 
- If no, which party is missing? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                          | (2) Capacity of Defendant(s) – e.g. Work permit employer / occupier of worksite / sub-contractor etc :             
+ If no, which party is missing? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                          | (2) Capacity of Defendant(s) – e.g. Work permit employer / occupier of worksite / sub-contractor etc :
 
-                                                                                                                                                         1st Defendant:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                
+                                                                                                                                                         1st Defendant:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                         2nd Defendant: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                 
+                                                                                                                                                         2nd Defendant: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                         3rd Defendant/3rd Party/4th & Subsequent Party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  | (3) Has prosecution been instituted?                          
+                                                                                                                                                         3rd Defendant/3rd Party/4th & Subsequent Party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  | (3) Has prosecution been instituted?
 
-                                                                                                                                                                                                                                                                              No                                                             
+                                                                                                                                                                                                                                                                              No
 
-                                                                                                                                                                                                                                                                              Yes                                                            
+                                                                                                                                                                                                                                                                              Yes
 
-                                                                                                                                                                                                                                                                              Against which party? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+                                                                                                                                                                                                                                                                              Against which party? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                               Outcome: \_\_\_\_\_\_\_\_\_\_\_\_                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| (4) Was Notice of Accident lodged with MOM?                                                                                                           
+| (4) Was Notice of Accident lodged with MOM?
 
- No                                                                                                                                                     
+ No
 
- Yes                                                                                                                                                    
+ Yes
 
- By which party? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                       | (5) Are there scene / location photographs / video recording?                                                      
+ By which party? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                       | (5) Are there scene / location photographs / video recording?
 
-                                                                                                                                                         Yes                                                                                                                 
+                                                                                                                                                         Yes
 
-                                                                                                                                                         No                                                                                                                  | (6) Is there a witness(es)?                                   
+                                                                                                                                                         No                                                                                                                  | (6) Is there a witness(es)?
 
-                                                                                                                                                                                                                                                                              Yes                                                            
+                                                                                                                                                                                                                                                                              Yes
 
-                                                                                                                                                                                                                                                                              Witness for:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_     
+                                                                                                                                                                                                                                                                              Witness for:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                                                                                                                                                                                                                                                                              Statement/SD/AEIC available: \_\_\_\_\_\_\_                    
+                                                                                                                                                                                                                                                                              Statement/SD/AEIC available: \_\_\_\_\_\_\_
 
                                                                                                                                                                                                                                                                               No                                                             |
 | Other relevant details                                                                                                                                |
-| (7) Nature of Accident:                                                                                                                               
+| (7) Nature of Accident:
 
-  Fall from height, e.g. ladder, scaffoldings, building etc.                                                                                           
+  Fall from height, e.g. ladder, scaffoldings, building etc.
 
-  Lifting / hoisting / crane operations                                                                                                                
+  Lifting / hoisting / crane operations
 
-  Injuries caused by tools /machinery / equipment                                                                                                      |  Act / omission of co-worker(s) / supervisors                                                                     
+  Injuries caused by tools /machinery / equipment                                                                                                      |  Act / omission of co-worker(s) / supervisors
 
-                                                                                                                                                          Injuries caused by falling object(s)                                                                              
+                                                                                                                                                          Injuries caused by falling object(s)
 
-                                                                                                                                                          Injuries caused by burns / inflammable substances                                                                 
+                                                                                                                                                          Injuries caused by burns / inflammable substances
 
                                                                                                                                                           Others - Please specify: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                               |
 | (8) Applicable statutory provision(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_­­­­­­\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
@@ -9014,26 +9014,26 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > \[Other Party’s Counsel/Signature\]:  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-| **Alleged negligent act(s) or omission(s) by the Defendant **                              | **Details of alleged negligent act(s) or omission(s):**                                                                                  
+| **Alleged negligent act(s) or omission(s) by the Defendant **                              | **Details of alleged negligent act(s) or omission(s):**
 
                                                                                               **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  |
 |--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                            | **Date(s) of occurrence:**                                                                                                               
+|                                                                                            | **Date(s) of occurrence:**
 
                                                                                               **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  |
-|                                                                                            | **Alleged adverse outcome(s):**                                                                                                          
+|                                                                                            | **Alleged adverse outcome(s):**
 
                                                                                               **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  |
-|                                                                                            | **Time of discovery of alleged adverse outcome(s):**                                                                                     
+|                                                                                            | **Time of discovery of alleged adverse outcome(s):**
 
                                                                                               **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  |
 | **Did the Plaintiff receive other relevant treatment(s) by other healthcare provider(s)?**
 
  Yes                                                                                         |
-| **Name(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**          | **Type of treatment(s): **                                                                                                               
+| **Name(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**          | **Type of treatment(s): **
 
                                                                                               **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  |
-|                                                                                            | **Date(s) of treatment(s):**                                                                                                             
+|                                                                                            | **Date(s) of treatment(s):**
 
                                                                                               **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**  |
 | No                                                                                         |
@@ -9052,7 +9052,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 ## Appendix E: Pre-Action Protocol for Personal Injury Claims
 
-**1. Application**
+### 1. Application
 
 1.1 The object of this protocol is to streamline the management of personal injury claims and promote early settlement of such claims. It prescribes a framework for pre-writ negotiation and exchange of information.
 
@@ -9078,7 +9078,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 1.6 This protocol encourages the parties to jointly select medical experts before proceedings commence.
 
-2. **Application of the Pre-Action Protocol for Non-Injury Motor Accident Cases**
+### 2. Application of the Pre-Action Protocol for Non-Injury Motor Accident Cases
 
 2.1 For motor accident cases, the provisions of the Pre-Action Protocol for Non-Injury Motor Accident Cases at Appendix C of these Practice Directions relating to —
 
@@ -9086,7 +9086,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > (b) the use of the *Motor Accident Guide* in negotiations between the parties to resolve the issue of liability shall apply to mixed claims and to personal injury claims.
 
-**3. Letter of Claim**
+### 3. Letter of Claim
 
 3.1 The claimant must send a letter of claim (Form 1 in this protocol) to every potential defendant and his insurer.
 
@@ -9120,7 +9120,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 3.7 In respect of the issue of liability, the claimant must enclose with his letter of claim a copy each of all relevant supporting documents, where available, such as the following:
 
-> ***For motor accident cases:***
+#### For motor accident cases:
 
 > (a) full and complete Singapore Accident Statements and police reports together with type-written transcripts of all persons involved in the accident;
 
@@ -9140,7 +9140,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > (i) any other supporting documents.
 
-> ***For industrial accident cases:***
+#### For industrial accident cases:
 
 > (a) claimant’s sketch of the accident;
 
@@ -9154,7 +9154,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > (f) any other supporting documents.
 
-> ***For personal injury claims not involving motor and industrial accidents:***
+#### For personal injury claims not involving motor and industrial accidents:
 
 > (a) claimant’s sketch of the accident;
 
@@ -9176,7 +9176,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > (e) supporting documents for all other expenses claimed (if any).
 
-> ***For mixed claims***
+#### For mixed claims
 
 Where the claim is for both personal injury and property damage, the claimant must in addition, enclose with his letter of claim a copy each of all relevant documents supporting the claim for property damage, such as the following:
 
@@ -9200,15 +9200,15 @@ Where the claim is for both personal injury and property damage, the claimant mu
 
 3.10 Where it is not possible to comply with any of the above requirements in notifying the relevant persons or providing documents, the claimant must provide his explanation in the letter of claim.
 
-**4. Potential Defendant’s response**
+### 4. Potential Defendant’s response
 
-***Acknowledgment letter***
+#### Acknowledgment letter
 
 4.1 The potential defendant must send an acknowledgement letter (Form 2 or Form 2A in this protocol) to the claimant within **14 days** from the date of receipt of the letter of claim. If he is ready to take a position on the claim, he must state his position. If not, he must first send an acknowledgement.
 
 4.2 If the claimant does not receive an acknowledgement letter from the potential defendant within the requisite **14 days**, he may commence proceedings without any sanction by the Court.
 
-***Joint selection of medical experts***
+#### Joint selection of medical experts
 
 4.3 In respect of claims where the estimated quantum falls within the jurisdiction of a Magistrate’s Court, within **14 days** of sending the acknowledgment letter to the claimant, the potential defendant shall send a letter to the claimant stating whether he agrees or has any objections to the appointment of any of the medical experts proposed by the claimant for the relevant specialty.
 
@@ -9230,7 +9230,7 @@ Where the claim is for both personal injury and property damage, the claimant mu
 
 > (i) If the claimant objects to the medical experts proposed by the potential defendant for any relevant specialty, both parties are not precluded from instructing medical experts of their own choice for each relevant specialty that the parties are unable to agree upon. Should the potential defendant wish to arrange for the claimant to undergo a medical examination by his own medical expert, the potential defendant shall within **14 days** from the date of receipt of the claimant’s letter of reply, propose a date and time on which the claimant is to undergo the medical examination. The address at which the claimant must present himself for the medical examination must also be provided. However, if the estimated quantum falls within the jurisdiction of a Magistrate’s Court, parties are to be aware of Order 108, Rule 5(3) of the Rules of Court on the appointment of a single joint expert should the matter be unresolved subsequently and proceed for a simplified trial. Both parties shall in any event not unreasonably withhold consent to the appointment of a single joint expert as far as possible.
 
-> ***Substantive reply to claimant***
+#### Substantive reply to claimant
 
 4.4 If the potential defendant replies to the claimant with only an acknowledgement of receipt, within **8 weeks** from the date of receipt of the letter of claim, the potential defendant must reply to the claimant substantively. For this purpose, the following provisions will apply:
 
@@ -9244,7 +9244,7 @@ Where the claim is for both personal injury and property damage, the claimant mu
 
 4.5 If the claimant does not receive the potential defendant’s substantive reply to his letter of claim within the requisite **8** **weeks** stipulated in paragraph 4.4, he may commence proceedings without any sanction by the Court.
 
-**5. Counterclaim**
+### 5. Counterclaim
 
 5.1 If the potential defendant has a counterclaim, he must include it in his reply, giving full particulars of the counterclaim together with all relevant supporting documents. If the potential defendant is pursuing his counterclaim separately, i.e. his insurer is only handling his defence but not his counterclaim, the potential defendant must send a letter to the claimant giving full particulars of the counterclaim together with all relevant supporting documents within **8 weeks** from receipt of the letter of claim. If the potential defendant has already furnished particulars in a separate letter of claim, he need only refer to that letter of claim in his reply.
 
@@ -9252,25 +9252,25 @@ Where the claim is for both personal injury and property damage, the claimant mu
 
 5.3 The letter of claim and the responses are not intended to have the effect of pleadings in the action.
 
-**6. Third parties**
+### 6. Third parties
 
 6.1 Where a potential defendant wishes to bring in a third party, he must inform the claimant and the other potential defendants by letter within **14 days** of receipt of the claimant’s letter of claim. The potential defendant shall send to the third party and his insurer a letter each setting out full particulars of his claim against the third party together with a copy each of the claimant’s letter of claim and all relevant supporting documents within the same period. The potential defendant’s letter to the third party must also expressly instruct the third party to immediately pass the letter and the documents to his insurer if he wishes to claim under his insurance policy. This letter must be copied to the claimant.
 
 6.2 The protocol set out in paragraphs 2, 3, 4 and 5 is applicable to the third party or, if he is claiming under his insurance policy, his insurer, as though the potential defendant were the claimant and the third party, or his insurer as the case may be, were the potential defendant.
 
-**7. Fourth parties**
+### 7. Fourth parties
 
 7.1 Paragraph 6 shall apply with the necessary modifications to fourth party proceedings and so on. All correspondences between the parties must be copied to all the other parties involved in the accident.
 
-**8. Medical reports**
+### 8. Medical reports
 
 8.1 Subject to any litigation privilege, any party who receives a medical report from his medical expert or the single joint expert must within **7 days** of its receipt send a copy of the report to every other party. For the avoidance of doubt, these are medical reports which the parties intend to rely on for the purpose of litigation and neither party need disclose to the other medical reports (if any) that he is not relying on.
 
-**9. Other information and documents**
+### 9. Other information and documents
 
 9.1 Any party who subsequently receives any information or document that was previously unknown or unavailable must, within **7 days** of the receipt, provide every other party with that information or document.
 
-**10. Negotiation**
+### 10. Negotiation
 
 10.1 After all the relevant information and documents have been exchanged or as soon as it is practicable, the parties shall negotiate with a view to settling the matter at the earliest opportunity on both liability and quantum. Litigation should not be commenced prematurely if there are reasonable prospects for a settlement.
 
@@ -9282,7 +9282,7 @@ Where the claim is for both personal injury and property damage, the claimant mu
 
 10.3 Where the claimant has earlier given notice that the offer being made was final, and legal proceedings would be commenced in the event that the potential defendant did not accept the offer within the specified timeframe, Form 3 need not be sent.
 
-**11. Interim payment**
+### 11. Interim payment
 
 11.1 The claimant may in his letter of claim or in a letter sent at any time subsequent thereto, seek one or more pre-writ interim payment(s) of damages from the potential defendant. The claimant must state in his letter —
 
@@ -9290,11 +9290,11 @@ Where the claim is for both personal injury and property damage, the claimant mu
 
 > (b) where the interim payment is sought specifically for anticipated expenses (e.g. surgery or a course of physiotherapy), an estimate of the expenditure to be incurred,
 
-> and provide any supporting documents which have not already been furnished to the potential defendant.
+and provide any supporting documents which have not already been furnished to the potential defendant.
 
 11.2 The potential defendant must reply to the claimant within **14 days** of receipt of the letter, stating whether or not the request for interim payment is acceded to and the amount offered. Reasons must be given in the reply if the request is not acceded to in full. Unless the claimant states otherwise, any sum which the potential defendant offers as an interim payment, regardless as to whether the request is acceded to in full or in part, shall be paid to the claimant within **28 days** of the potential defendant’s reply.
 
-**12. Costs Guidelines**
+### 12. Costs Guidelines
 
 12.1 Where parties have settled both liability and quantum before any action is commenced, a claimant who has sought legal representation to put forward his claim will have incurred costs. As a guide, where the sum settled (excluding interest if any) is less than $20,000, the pre-trial costs should be between $1,500 and $2,500, exclusive of disbursements.
 
@@ -9306,7 +9306,7 @@ Where the claim is for both personal injury and property damage, the claimant mu
 
 > (c) claimed, where the Plaintiff is unsuccessful,
 
-> is less than $20,000 (excluding interest, if any), the Court will in general, award costs based on the guidelines below:
+is less than $20,000 (excluding interest, if any), the Court will in general, award costs based on the guidelines below:
 
 | **Stage of proceedings**                          | **Costs allowed (exclusive of disbursements)**   |
 |---------------------------------------------------|--------------------------------------------------|
@@ -9314,435 +9314,37 @@ Where the claim is for both personal injury and property damage, the claimant mu
 | Upon signing of affidavits of evidence-in-chief   | $2,500-$4,200                                    |
 | Upon setting down for trial                       | $3,000-$4,500                                    |
 | 1<sup>st</sup> day of trial or part thereof       | $4,000-$5,000                                    |
-| Subsequent day of trial or part thereof/          
- >                                                  
- > Assessment of damages                            | Up to $1,000 per day or part thereof             |
+| Subsequent day of trial or part thereof/Assessment of damages | Up to $1,000 per day or part thereof |
 
-**13. Exceptions**
+### 13. Exceptions
 
 13.1 The Court will not impose sanctions where there are good reasons for non-compliance with the provisions of this protocol, for example attempt(s) made to resolve the claim through the Singapore Mediation Centre or the Law Society of Singapore Arbitration Scheme.
 
 13.2. The protocol prescribes the timelines to be given to a potential defendant to investigate and respond to a claim before proceedings are commenced. This may not always be possible where a claimant only consults his lawyer close to the end of any relevant limitation period. In such a case, the claimant must give as much notice of the intention to commence proceedings as practicable and the parties shall consider whether the Court might be invited to extend time for service of the pleadings or alternatively, to stay the proceedings while the requirements of this protocol are being complied with.
 
-**14. Early agreement on liability**
+### 14. Early agreement on liability
 
 14.1 Where parties have agreed on the issue of liability prior to the commencement of proceedings and wish to issue a writ in order for damages to be assessed, the plaintiff must file a writ endorsed with a simplified statement of claim. If no appearance is entered after the writ is served, the plaintiff may, in the manner prescribed under the Rules of Court, proceed to enter default interlocutory judgment and take out a summons for directions for the assessment of damages. If an appearance is entered, the plaintiff may take out a summons for interlocutory judgment to be entered and for directions for the assessment of damages.
 
-**
-**<span id="_Toc418759478" class="anchor"><span id="_Toc467084248" class="anchor"></span></span>**Form 1**
+### Forms
 
-**Sample Letter of Claim to Potential Defendant**
+<ul type="*">
+<li><a href="./downloads/Appendix-E-Form-2.pdf" download>Form 1: Sample Letter of Claim to Potential Defendant</a></li>
 
-To: \[Potential Defendant’s Name\]
-\[Address\]
+<li><a href="./downloads/Appendix-E-Form-2.pdf" download>Form 2: Sample Acknowledgement Letter of Claim</a></li>
 
-Dear Sir
+<li><a href="./downloads/Appendix-E-Form-2A.pdf" download>Form 2A: Sample Letter of Offer</a></li>
 
-\[Claimant’s full name\]
-\[Claimant’s address\]
+<li><a href="./downloads/Appendix-E-Form-3.pdf" download>Form 3: Sample Letter by Claimant before issue of Writ of Summons</a></li>
 
-We are instructed by the abovenamed Claimant, who is our client, to claim damages against you in connection with \[provide brief details of all relevant facts upon which claim is based. (E.g. a road traffic accident on \[date\] at about \[time\] at \[place of accident, which must be sufficiently detailed to establish location)\], involving our client \[our client’s vehicle registration number\] and vehicle registration number \[ \] driven by you at the material time.\]
+<li><a href="./downloads/Appendix-E-Form-4.pdf" download>Form 4: Letter of Instruction to Medical Expert (where estimated quantum exceeds the jurisdiction of a Magistrate’s court before apportionment of liability and excluding interest)</a></li>
 
-We are instructed that the accident was caused by your negligence \[provide details. (E.g. negligent driving and/or management of your vehicle)\]. As a result of the accident, our client has suffered personal injuries. His injuries are set out in the medical report\[s\] annexed to this letter.
+<li><a href="./downloads/Appendix-E-Form-4A.pdf" download>Form 4A: Medical Report</a></li>
+</ul>
 
-\[Provide brief description of nature of injuries.\]
+## Appendix F - Benchmark Rates for Cost of Rental and Loss of Use
 
-He has been put to loss and expense, particulars of which are as follows:
-
-\[Set out the quantification of general damages and special damages, wherever possible, and the loss and expenses claimed.\]
-
-\[Provide names of all witnesses where possible to disclose.\]
-
-\[Provide details of any officer in charge of investigation, or result of any prosecution concerning the same accident.\]
-
-A copy each of the following supporting documents is enclosed:
-
-\[List the documents as required in the pre-action protocol.\]
-
-\[We have also sent a letter of claim to \[name of other defendant\] and a copy of that letter is enclosed. We understand that his insurer is \[name and address of insurer, if known\].\]
-
-In compliance with the pre-action protocol under the State Courts’ Practice Direction 38, we propose using one of the following medical experts as a single joint expert:
-
-\[List names of proposed medical experts including the Claimant’s treating and reviewing doctors and their relevant specialties.\]
-
-Please note that if you are insured and you wish to claim under your insurance policy, you should immediately pass this letter and all the enclosed documents to your insurer.
-
-Please note that you or your insurer should send to us an acknowledgement of receipt to us within 14 days of your receipt of this letter. Please also inform us, within 14 days of your acknowledgement of receipt of this letter, whether you have any objections to our proposed medical experts or whether you wish to propose other medical experts.
-
-\[The Claimant plans to depart from Singapore by \[ \] as his work permit would be expiring or cancelled.\]
-
-Should you fail to acknowledge receipt of this letter within 14 days, our client may commence Court proceedings against you without further notice to you or your insurer.
-
-Please also note that if you have a counterclaim against our client arising out of the accident, you are required to send to us a letter giving full particulars of the counterclaim together with all relevant supporting documents within 8 weeks of your receipt of this letter.
-
-Yours faithfully
-
-encs
-
-cc \[Potential Defendant’s insurer\]
-\[Other potential defendant and his insurer\]
-
-(Note: This sample letter, with the necessary modifications, can also be used as a sample letter to the potential defendant’s insurer.)
-
-**
-**<span id="_Toc467084249" class="anchor"><span id="_Toc418759479" class="anchor"></span></span>**Form 2**
-
-**Sample Acknowledgement of Letter of Claim**
-
-(To be sent within 14 days of date of receipt of letter of claim)
-
-To: \[Claimant\]
-\[Address\]
-
-Dear Sir,
-
-\[Heading e.g. as per letter of claim\]
-
-We acknowledge receipt of your letter dated \[ \] and the enclosures on \[date of receipt\].
-
-We are investigating your/your client’s claim and will reply to you substantively soon.
-
-\[or, if the defendant is ready to take a position on the claim, to state his position, (e.g.
-
-We admit both liability and quantum and will be making full payment of your/your client’s claim within 14 days.
-
-or
-
-We admit liability and are investigating quantum and will reply to you on quantum soon.
-
-or
-
-We admit quantum and are investigating liability and will reply to you on liability soon.
-
-\[To state if a third party is being brought into the proceedings.\]
-
-We agree to use Dr XX as single joint expert. You may proceed to send Dr XX a letter of appointment.
-
-\[or
-
-We object to all the listed medical experts in your letter of claim. We propose using one of the following medical experts:
-
-\[Set out proposed list of medical experts and their relevant specialties.\]
-
-Please notify us within 14 days of receipt of this letter if you have any objections to the above list.\]
-
-Yours faithfully
-
-cc \[Other potential defendants and their insurers\]
-
-**
-**<span id="_Toc418759480" class="anchor"><span id="_Toc467084250" class="anchor"></span></span>**Form 2A**
-
-**Sample Letter of Offer**
-
-**(including Offer on Liability with reference to the *Motor Accident Guide* for Personal Injury Claims arising from Motor Vehicle Accidents)**
-
-To: \[Claimant\]
-\[Address\] **WITHOUT PREJUDICE SAVE AS TO COSTS**
-
-Dear Sir,
-
-\[Heading as per Letter of Claim\]
-
-We acknowledge receipt of your letter dated \[ \] and the enclosures on \[date of receipt\].
-
-*Or*
-
-We refer to your letter dated \[ \] and our acknowledgement dated \[ \].
-
-We offer to settle your/your client’s claim on the following terms:
-
-\[Set out the offer, \[e.g. We propose that liability be resolved at \[ \]% in your/your client’s favour.\]
-
-We are of the view that Scenario \[serial number of scenario\] on page \[ \] of the *Motor Accident Guide* applies to the facts of the accident because \[state reasons\]. A copy of the relevant page of the *Motor Accident Guide* is enclosed.\]
-
-\[To state if a third party is being brought into the proceedings.\]
-
-We agree to use Dr XX as a single joint expert. You may proceed to send Dr XX a letter of appointment.
-
-\[Or,
-
-We object to all the listed medical experts in your letter of claim. We propose using one of the following medical experts:
-
-\[Set out proposed list of medical experts and their relevant specialties.\]
-
-\[Please notify us within 14 days of receipt of this letter if you have any objections to the above list.\]
-
-Yours faithfully,
-
-Cc \[other potential defendants and their insurers\]
-
-**
-**<span id="_Toc418759481" class="anchor"><span id="_Toc467084251" class="anchor"></span></span>**Form 3**
-
-**Sample Letter by Claimant before issue of Writ of Summons**
-
-To: \[Potential Defendant or his insurer as the case may be\]
-
-\[Address\]
-
-Dear Sir
-
-\[Heading e.g. as per letter of claim\]
-
-We regret that despite reasonable effort having been made to settle our client’s claim, there does not appear to be any reasonable prospect of settlement and/or we have not obtained an acknowledgement of our letter of claim within 14 days from the service of our letter of claim and/or we have not obtained a substantive reply to our letter of claim within 8 weeks of service of our letter of claim.
-
-We hereby give you \[7 / 2 clear days’\] notice that our client intends to proceed with the issue of a writ of summons against \[you/your insured\]. In this regard, please let us know if you are instructing solicitors to accept service of process on \[your/your insured’s\] behalf.
-
-\[Please note that our client will also be joining \[names of other potential defendants\] as co-defendants in the intended action.\]
-
-Yours faithfully
-
-cc \[Other potential defendants and their insurers\]
-
-**
-**
-
-<span id="_Toc467084252" class="anchor"></span>**Form 4**
-
-**Letter of Instruction to Medical Expert
-(where estimated quantum exceeds the jurisdiction of a Magistrate’s court before apportionment of liability and excluding interest )**
-
-Dear Sir,
-
-Re: (Name and IC No. of Claimant)
-
-D.O.B. –
-
-Date of Accident –
-
-We are acting for the abovenamed Claimant in connection with injuries sustained in an accident which occurred on the above date. (Name of Insurer) are the insurers for the potential defendant. The main injuries appear to have been (description of main injuries).
-
-We should be obliged if you would examine our Client and let us have a full and detailed report dealing with any relevant pre-accident medical history, the injuries sustained, treatment received and present condition, dealing in particular with the capacity to work and giving a prognosis. In the prognosis section we request that you specifically comment on any areas of continuing complaint or disability or impact on daily living. If there is such continuing disability, please comment upon the level of suffering or inconvenience caused and, if you are able, please give your view as to when or if the complaint or disability is likely to resolve.
-
-Please fix an appointment for our Client to see you for this purpose. We confirm that we shall be responsible for your reasonable fees.
-
-We are obtaining the notes and records from our Client’s GP and/or Hospitals attended and shall forward them to you as soon as they are available to us. (Or when they have been obtained: We have obtained the notes and records from our Client’s GP and/or Hospitals attended and have enclosed them herewith for your reference).
-
-In order to comply with Order 40A rule 3 of the Rules of Court, we would be grateful if your report could contain the following:
-
-> (a) details of your professional qualifications;
-
-> (b) details of any literature or other material which you have relied on in making the report;
-
-> (c) a statement setting out the issues which you have been asked to consider and the basis upon which the evidence was given;
-
-> (d) where applicable, the name and qualifications of the person who carried out any test or experiment which you have used for the report and whether or not such test or experiment has been carried out under your supervision;
-
-> (e) where there is a range of opinions on the matters dealt with in the report — a summary of the range of opinions and the reasons for your opinion;
-
-> (f) a summary of the conclusions reached;
-
-> (g) a statement of belief of correctness of your opinion; and
-
-> (h) a statement that you understand that in giving your report, your duty is to the Court and that you have complied with that duty.
-
-In order to avoid further correspondence, we can confirm that on the evidence we have there is no reason to suspect we may be pursuing a claim against a doctor, hospital or their staff.
-
-We look forward to receiving your report within \_\_\_\_\_\_\_ weeks. If you will not be able to prepare your report within this period please contact us upon receipt of these instructions.
-
-When acknowledging these instructions, it would assist us if you could give an estimate as to the likely time scale for the provision of your report and also an indication as to your fee.
-
-Please copy to the potential defendant and/or his insurer any correspondence from you to us.
-
-Yours faithfully
-
-cc Potential defendant and/or his insurer
-
-<span id="_Toc467084253" class="anchor"></span>**Form 4A**
-
-***Medical Report***
-
-<span id="_Toc418079780" class="anchor"></span>*(where estimated quantum falls within the jurisdiction of a Magistrate’s Court*
-
-<span id="_Toc418079781" class="anchor"></span>*before apportionment of liability and excluding interest)*
-
-| **Section A: Claimant’s Details **                                                                                                                                                     |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| (i) Full Name                                                                                                                                                                          |
-| (ii) NRIC / Passport No                                                                                                                                                                |
-| (iii) Date of Report                                                                                                                                                                   |
-| **Section B: Background History**                                                                                                                                                      |
-| (i) The Claimant’s injuries were sustained on \_\_\_\_\_ / \_\_\_\_\_ / \_\_\_\_\_\_\_\_ (dd/mm/yyyy) through a:                                                                       |
-| road traffic accident                                                                                                                                                                  |
-| (ii) Brief description of the accident and manner/mechanism of injuries (where possible):                                                                                              
-
- *(Please state the dates seen and the source(s) of the information e.g. Claimant’s, eyewitness’s account(s), police, accident report(s), clinical notes etc, where applicable)*         |
-| (iii) Symptoms reported by the Claimant immediately after the accident:                                                                                                                
-
- *(if the symptoms were reported by another person on behalf of the Claimant, please state by whom \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_)*                    
-
- (a)                                                                                                                                                                                     
-
- (b)                                                                                                                                                                                     
-
- (c)                                                                                                                                                                                     |
-| **Section C: Claimant’s Medical Condition On Physical Examination**                                                                                                                    |
-| (i) On examination, the observations were:                                                                                                                                             
-
- (*Each injury to be described with site, type and functional impact, even if normal. Number each injury separately.) *                                                                  
-
- (a)                                                                                                                                                                                     
-
- (b)                                                                                                                                                                                     
-
- (c)                                                                                                                                                                                     |
-| (ii) Results of relevant investigations carried out:                                                                                                                                   |
-| (iii) My diagnosis(es) of the Claimant’s injuries:                                                                                                                                     
-
- (a)                                                                                                                                                                                     
-
- (b)                                                                                                                                                                                     
-
- (c)                                                                                                                                                                                     |
-| (iv) Treatments administered on the Claimant are as follows:                                                                                                                           
-
- *(Including types of medication prescribed and procedures carried out)*                                                                                                                 
-
- (a)                                                                                                                                                                                     
-
- (b)                                                                                                                                                                                     
-
- (c)                                                                                                                                                                                     |
-| (v) The Claimant was given:                                                                                                                                                            
-
- \_\_\_\_\_\_ days of medical / hospitalisation leave from \_\_\_\_\_\_\_\_\_\_\_\_ to \_\_\_\_\_\_\_\_\_\_\_                                                                            
-
- \_\_\_\_\_\_ days leave for light duty from \_\_\_\_\_\_\_\_\_\_\_\_\_ to \_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                    |
-| **\[SECTION D SHOULD ONLY BE COMPLETED BY SPECIALISTS, IF AVAILABLE\]**                                                                                                                
-
- **Section D: Prognosis / Outcomes, if known **                                                                                                                                          
-
- **(***Include opinion on whether the Claimant requires future treatment and if so, what kind)*                                                                                          |
-| I would recommend the Claimant to:                                                                                                                                                     
-
- <span id="Check1" class="anchor"></span> Return for follow up on \_\_\_\_\_\_\_ / \_\_\_\_\_\_\_ / \_\_\_\_\_\_\_\_ (dd/mm/yy)                                                          
-
- Obtain a further medical report from a specialist medical practitioner of a different discipline i.e. \_\_\_\_\_\_\_\_\_\_                                                              
-
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ For the following reason(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                          |
-| **Section E: Whether injuries sustained are consistent with the mechanism of assault / injury as described by the Claimant **                                                          
-
- *(include other concluding remark, if any) *                                                                                                                                            |
-|                                                                                                                                                                                        |
-| **Section F: Details of Registered Medical Practitioner Completing The Form **                                                                                                         |
-| Name \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_        
-
- Qualifications\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_              
-
- Appointment \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_            
-
- Hospital / Department /Medical Clinic \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                          
-
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-
- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      
-
- Signature \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                 |
-
-**EXPLANATORY NOTES FOR DOCTORS PREPARING MEDICAL REPORT FOR THE PURPOSE OF / IN CONTEMPLATION OF COURT PROCEEDINGS**
-
-**The doctor as an independent medical expert**
-
-In conducting the physical examination and writing the medical report for a claimant in any proceedings before the Court, the doctor undertakes the role of an independent medical expert. He is to conduct an independent examination and give an independent opinion on the claimant as to the nature and extent of the injury as well as the prognosis of recovery.
-
-**The doctor as a single joint expert**
-
-The claimant and the opposing party may by mutual agreement, appoint one doctor as a single joint expert, instead of each appointing their own separate medical experts. They may choose to appoint the doctor who had treated or reviewed the claimant’s injury as the single joint expert. Where the claimant’s injury has been managed by doctors of different specialties, the parties may by mutual agreement, appoint one doctor in each of the relevant specialties as a single joint expert. It is intended that by the appointment of a single joint expert, the parties will find common ground that will enable the claim to be amicably resolved as early as possible without the need for doctors to give expert testimony in court hearings.
-
-The duty of the single joint expert, like any other medical expert, is similarly to give an independent opinion as to the nature and extent of the injury, as well as the prognosis of recovery. Additionally, the single joint expert may be requested to provide answers to questions from the claimant and/or the opposing party pertaining to the claimant’s medical condition and/or causation of injury.
-
-**Duties and requirements pertaining to the doctor’s medical report**
-
-> (a) As an independent medical expert, the doctor’s paramount duty is to assist the Court on matters within his expertise. This duty overrides any obligation to the person from whom the doctor has received instructions or by whom he is paid.
-
-> (b) If, notwithstanding the appointment of the doctor as a single joint expert, the matter proceeds for a contested hearing in court, the doctor may be required to give evidence on the stand and answer questions posed to him by ***both*** the claimant’s lawyer and the potential defendant’s lawyer.
-
-> (c) The doctor will have fulfilled his duty to be independent and unbiased in the formation of his opinion if he would have given the same opinion if given the same instructions by the opposing party.
-
-> (d) In expressing his opinion, the doctor should consider all relevant and material facts, including those which might detract from his opinion.
-
-> (e) A doctor may only provide opinions in relation to matters that lie within his own expertise and make it clear when a question or issue falls outside his expertise. In the case when he is not able to reach a definite opinion, for example, because he has insufficient information, he should state the extent to which any opinion given by him is provisional or qualified by further information or facts.
-
-Appendix F
-
-
-**BENCHMARK RATES FOR COST OF RENTAL AND LOSS OF USE**
-
-The benchmark rates in this Appendix shall apply to claims for rental and loss of use of a motor vehicle made in writs filed in the Magistrate’s Court and the District Court on or after 1st April 2016 and to writs filed in the High Court on or after 1st December 2016 and transferred to the District Court.
-
-| **TYPE**                          | **BENCHMARK RATES** | **FACTORS TO BE CONSIDERED** |
-|-----------------------------------|---------------------|------------------------------|
-|                                   | **RENTAL**          
-
-                                     **(Per day)**        
-
-                                     **$**                | **LOSS OF USE**              
-
-                                                           **(Per day)**                 
-
-                                                           **$**                         |
-| ***PRIVATE CARS ***               |                     |                              |
-| Up to 1,600cc *and* 97kW (130bhp)
-
- \[Category A of COE\]              | 100-120             | 60-80                        |
-| Above 1,600cc *or* 97kW (130bhp)  
-
- \[Category B of COE\]              | 120-180             | 100-120                      |
-| Luxury Cars                       
-
- (including Super cars)             | 220 or more         | 150-240                      |
-| ***MOTORCYCLES***                 
-
- \[Category D of COE\]              |                     | 20-50                        |
-
-| **TYPE**                   | **BENCHMARK RATES** | **FACTORS TO BE CONSIDERED** |
-|----------------------------|---------------------|------------------------------|
-|                            | **RENTAL**          
-
-                              **(Per day)**        
-
-                              **$**                | **LOSS OF USE**              
-
-                                                    **(Per day)**                 
-
-                                                    **$**                         |
-| ***TAXIS***                |                     |                              |
-| Normal Taxis               | Included            | 110-150                      |
-| Limousine Taxis            | Included            | 150-220                      |
-| **TYPE**                   | **BENCHMARK RATES** | **FACTORS TO BE CONSIDERED** |
-|                            | **RENTAL**          
-
-                              **(Per day)**        
-
-                              **$**                | **LOSS OF USE**              
-
-                                                    **(Per day)**                 
-
-                                                    **$**                         |
-| ***COMMERCIAL OPERATORS*** |                     |                              |
-| Vans + pick ups            | 80-150              | 60-120                       |
-| Private Non hire Bus       | 200-350             | 90-180                       |
-| Lorry                      | 200-350             | 90-180                       |
-
-| **TYPE**                       | **BENCHMARK RATES** | **FACTORS TO BE CONSIDERED** |
-|--------------------------------|---------------------|------------------------------|
-|                                | **RENTAL**          
-
-                                  **(Per day)**        
-
-                                  **$**                | **LOSS OF USE**              
-
-                                                        **(Per day)**                 
-
-                                                        **$**                         |
-| ***SMRT / SBS Transit BUSES*** |                     |                              |
-| Bendy Bus                      | -                   | 325-350                      |
-| Single deck                    | -                   | 250-275                      |
-| Double deck                    | -                   | 200-350                      |
-| Bus Plus                       | -                   | 150                          |
-
- 
+<a href="./downloads/Appendix-F.pdf" download>Appendix F - Benchmark Rates for Cost of Rental and Loss of Use</a>
 
 ## Appendix G: Sample Bill of Costs
 
