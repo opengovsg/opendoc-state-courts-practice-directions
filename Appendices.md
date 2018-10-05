@@ -8053,7 +8053,7 @@ Name of respondent
 
 ## Appendix B: Guidelines for Court Dispute Resolution for Non-Injury Motor Accident Claims and Personal Injury Claims
 
-**1. Introduction**
+### 1. Introduction
 
 1.1 The State Courts Centre for Dispute Resolution provides Court Dispute Resolution (CDR) services for all civil matters. Two main processes – mediation and neutral evaluation – are used.
 
@@ -8061,11 +8061,11 @@ Name of respondent
 
 1.3 Neutral evaluation will be used in the CDR sessions for these cases. This Appendix sets out the guidelines to be followed by solicitors.
 
-**2. Application**
+### 2. Application
 
 2.1 The guidelines in this Appendix shall apply to all writs for non-injury motor accident and personal injury claims that are filed in Court on or after 1st April 2016 and to all motor accident cases (whether or not involving any claim for personal injuries) and actions for personal injuries arising out of an industrial accident that are commenced in the High Court on or after 1<sup>st</sup> December 2016 and transferred to the District Court.
 
-**3. Date of CDR**
+### 3. Date of CDR
 
 3.1 As stated in Practice Directions 37(2) and 38(2), solicitors in these cases will receive a notice from the Court fixing the first CDR session.
 
@@ -8079,13 +8079,13 @@ Name of respondent
 
 3.6 A CDR session from which one or all parties are absent without good reason will be counted as one CDR session.
 
-**4. Attendance at CDR**
+### 4. Attendance at CDR
 
 4.1 Only solicitors are required to attend CDR sessions. Their clients need not be present unless the Judge directs their attendance.
 
 4.2 In certain cases, the Judge may direct the parties to attend subsequent CDR sessions. For instance, the drivers of the vehicles involved in a motor accident and eyewitnesses may be asked to be present at a later CDR session for the purpose of a more accurate neutral evaluation or to facilitate in negotiating a settlement.
 
-**5. Preparation for CDR**
+### 5. Preparation for CDR
 
 5.1 In all non-injury motor accident and personal injury claims, solicitors should exchange before the first CDR session, a list of all the relevant documents relating to both liability and quantum.
 
@@ -8185,9 +8185,9 @@ Name of respondent
 
 5.4 To make the full use of CDR sessions, it is essential that solicitors be well prepared and familiar with their cases. This also applies to duty solicitors assigned by their firms to deal with the firm’s cases on a particular day. Duty solicitors must receive their files in good time and with clear instructions from the solicitor in charge so that they can familiarise themselves with the cases, understand the basis of instructions (i.e. why a certain position is taken) and to act on them (e.g. to convey the clients’ offer on quantum or liability to the opposing solicitor). Duty solicitors must, after the CDR session, ensure that they convey to the solicitor in charge, the rationale for the Judge’s indication, the discussion at CDR sessions, and the follow-up action to be taken before the date of the next CDR session.
 
-**6. CDR Session**
+### 6. CDR Session
 
-***Claims subject to the simplified process under Order 108 of the Rules of Court***
+#### Claims subject to the simplified process under Order 108 of the Rules of Court
 
 6.1 All cases commenced by writ on or after 1st November 2014 in a Magistrate’s Court and any case commenced by writ on or after 1st November 2014 in a District Court (where parties have filed their consent in Form 233 of Appendix A of the Rules of Court for Order 108 to apply) will be subject to the simplified process under Order 108 of the Rules of Court (Cap. 322, R 5).
 
@@ -8215,14 +8215,14 @@ Name of respondent
 
 > The Court will appoint the single joint expert after hearing submissions on the suitability or unsuitability of the nominated experts to be appointed.
 
-***Indications on liability and quantum***
+#### Indications on liability and quantum
 
 6.6 For NIMA and PIMA cases, the Court will provide an indication on liability
 > if —
 
-> (a) the factual matrix of the particular motor accident does not correspond substantially with any of the scenarios set out in the *Motor Accident* *Guide* (1<sup>st</sup> Edn., 2014 State Courts, Singapore) (“*Motor Accident* *Guide*”) ; or
+> (a) the factual matrix of the particular motor accident does not correspond substantially with any of the scenarios set out in the *Motor Accident Guide* (1<sup>st</sup> Edn., 2014 State Courts, Singapore) (“*Motor Accident Guide*”) ; or
 
-> (b) despite the parties’ reasonable efforts in resolving the question of liability through negotiation with reference to the *Motor Accident* *Guide* before the CDR session, no settlement has been reached.
+> (b) despite the parties’ reasonable efforts in resolving the question of liability through negotiation with reference to the *Motor Accident Guide* before the CDR session, no settlement has been reached.
 
 6.7 Solicitors for all the parties seeking an indication on liability in NIMA and PIMA cases must submit a duly completed “Liability Indication Form (NIMA and PIMA Claims)” (see Form 9A) to the Court at the first CDR session. Except in cases where no corresponding scenario is provided for in the *Motor Accident Guide*, solicitors must specify in the Liability Indication Form the scenario(s) in the *Motor Accident Guide* that is/are relevant to the parties’ factual accounts of the accident and state their respective proposals on liability.
 
@@ -8232,7 +8232,7 @@ Name of respondent
 
 6.10 In respect of PIMA cases, whether or not an indication on liability is given, the Court may, at its own discretion in appropriate cases or at solicitors’ request, provide an indication on quantum. Solicitors requesting for an indication on quantum must obtain each other’s consent before the CDR session, and submit the duly completed Quantum Indication Form (i.e. Form 9B) to the Court.
 
-**7. Help and Co-operation of Insurers in facilitating CDR**
+### 7. Help and Co-operation of Insurers in facilitating CDR
 
 7.1 Insurers play a key role in the success of CDR. CDR sessions are intended for substantive discussion of the issues. A CDR is unproductive if:
 
@@ -8248,88 +8248,19 @@ Name of respondent
 
 > 7.1.3 parties are still negotiating or are awaiting instructions upon a counter-offer.
 
-**8.** **Follow up action after CDR**
+### 8. Follow up action after CDR
 
 8.1 Solicitors must inform their clients of the outcome of a CDR session and render their advice quickly on the liability and/or quantum indications given by the Court. To facilitate settlement, solicitors should obtain their clients' instructions and make the necessary proposals or offers of settlement early to enable the other party to consider their position or proposal and respond before the next CDR date. Reasons shall be given for the position taken on liability and/or quantum so that the solicitors can inform the Court of the basis for their clients' mandate at the next CDR session.
 
 8.2 Rather than refraining from taking a position on liability or insisting that agreement on liability is *contingent* on quantum being settled at a particular sum (as is sometimes the case), parties who are able to agree on the issue of liability but not quantum shall consider allowing an *Interlocutory Judgment* to be recorded for liability and proceed for assessment of damages. A hearing to assess damages is far less costly than a full trial.
 
-**Form 9A(A)**
+### Form 9A(A) - Liability Indication Form (Industrial Accident Claims)
 
-**LIABILITY INDICATION FORM
-(INDUSTRIAL ACCIDENT CLAIMS)**
-
-Instructions: *Where liability indication is required*, this form is to be completed *before* the CDR session by *all solicitors* having conduct of the case.
-
-Case Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Plaintiff’s Counsel/Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s Counsel/Signature: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-> \[Other Party’s Counsel/Signature\]: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-| (1) Have all parties been brought in?
-
- Yes
-
- No
-
- If no, which party is missing? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                          | (2) Capacity of Defendant(s) – e.g. Work permit employer / occupier of worksite / sub-contractor etc :
-
-                                                                                                                                                         1st Defendant:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-                                                                                                                                                         2nd Defendant: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-                                                                                                                                                         3rd Defendant/3rd Party/4th & Subsequent Party: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  | (3) Has prosecution been instituted?
-
-                                                                                                                                                                                                                                                                              No
-
-                                                                                                                                                                                                                                                                              Yes
-
-                                                                                                                                                                                                                                                                              Against which party? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-                                                                                                                                                                                                                                                                              Outcome: \_\_\_\_\_\_\_\_\_\_\_\_                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| (4) Was Notice of Accident lodged with MOM?
-
- No
-
- Yes
-
- By which party? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                                                                                       | (5) Are there scene / location photographs / video recording?
-
-                                                                                                                                                         Yes
-
-                                                                                                                                                         No                                                                                                                  | (6) Is there a witness(es)?
-
-                                                                                                                                                                                                                                                                              Yes
-
-                                                                                                                                                                                                                                                                              Witness for:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-                                                                                                                                                                                                                                                                              Statement/SD/AEIC available: \_\_\_\_\_\_\_
-
-                                                                                                                                                                                                                                                                              No                                                             |
-| Other relevant details                                                                                                                                |
-| (7) Nature of Accident:
-
-  Fall from height, e.g. ladder, scaffoldings, building etc.
-
-  Lifting / hoisting / crane operations
-
-  Injuries caused by tools /machinery / equipment                                                                                                      |  Act / omission of co-worker(s) / supervisors
-
-                                                                                                                                                          Injuries caused by falling object(s)
-
-                                                                                                                                                          Injuries caused by burns / inflammable substances
-
-                                                                                                                                                          Others - Please specify: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_                                               |
-| (8) Applicable statutory provision(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_­­­­­­\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
-| Plaintiff’s Case                                                                                                                                      | Defendant’s/Other Party’s Case                                                                                     |
-| *Date and brief description of the Accident *                                                                                                         |
-|                                                                                                                                                       |                                                                                                                    |
+<a href="./downloads/Appendix-B-Form-9A(A).pdf" download>Form 9A(A): Liability Indication Form (Industrial Accident Claims)</a>
 
 ## Appendix C: Pre-action Protocol for Non-Injury Motor Accident Cases
 
-1. **Application**
+### 1. Application
 
 1.1 The object of this protocol is to prescribe reasonable conduct for non-injury motor accident claims. It prescribes a framework for pre-writ negotiation and exchange of information. In exercising its discretion and powers, the court will have regard to compliance with this protocol or lack thereof; see, for example, Order 25, Rules 1, 1A and 8, Order 34A, Rule 1, Order 59, Rule 5, and Order 59 Appendix 2, of the Rules of Court (Cap. 322, R 5).
 
@@ -8349,7 +8280,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 1.6 The Court will not impose sanctions where there are good reasons for non-compliance with the provisions of this protocol.
 
-2. **Notice of Accident and Pre-repair Survey**
+### 2. Notice of Accident and Pre-repair Survey
 
 2.1 Time is of the essence in the joint selection of a motor surveyor and the conduct of a pre-repair survey of the claimant’s vehicle.
 
@@ -8373,7 +8304,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 2.11 If parties are unable to come to an agreement on the cost of repairing the vehicle after negotiations, the claimant may proceed to repair his vehicle. The insurer may wish to request for an opportunity to conduct a post repair inspection once the vehicle has been repaired. The request should be made as soon as possible and before the repaired vehicle is returned to the claimant.
 
-3. **Letter of Claim**
+### 3. Letter of Claim
 
 3.1 The claimant must send a letter of claim (Form 3 in this protocol) to every potential defendant and his insurer. The letter of claim must set out the full particulars of his claim and enclose a list of all the relevant documents relating to both liability and quantum. The claimant must also include in his letter of claim a copy each of all relevant supporting documents, where available, such as:
 
@@ -8411,7 +8342,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 3.4 The letter of claim must also instruct the potential defendant to immediately pass the letter and documents to his insurer if he wishes to claim under his insurance policy. The letters to any other potential defendants must be copied to the rest of the parties. The letter(s) to the potential defendant(s) must be sent by e-mail, fax or certificate of posting. The letters to insurers must be sent by e-mail, fax, A.R. Registered mail or by hand (in which case an acknowledgement of receipt should be obtained).
 
-4. **Potential** **Defendant’s response**
+### 4. Potential Defendant’s response
 
 4.1 If the insurer wishes to conduct a post-repair inspection of the claimant’s vehicle not conducted previously, he must make the request to the claimant within **7 days** of receipt of the letter of claim. The insurer must state in the letter of request why a post-repair inspection is now sought, especially if the opportunity for pre-repair survey and/or post-repair inspection had earlier been waived.
 
@@ -8445,17 +8376,17 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 4.10 The letter of claim and the responses are not intended to have the effect of pleadings in an action.
 
-5. **Third parties**
+### 5. Third parties
 
 5.1 Where a potential defendant wishes to bring in a third party, he must inform the claimant and the other potential defendants by letter within **14 days** of receipt of the claimant’s letter of claim. The potential defendant shall send to the third party and his insurer a letter each setting out full particulars of his claim against the third party together with a copy each of the claimant’s letter of claim and all relevant supporting documents within the same period. The potential defendant’s letter to the third party must also instruct the third party to immediately pass the letter and the documents to his insurer if he wishes to claim under his insurance policy. This letter must be copied to the claimant.
 
 5.2 The protocol set out in paragraphs 2, 3 and 4 is applicable to the third party or, if he is claiming under his insurance policy, his insurer, as though the potential defendant were the claimant, and the third party or his insurer as the case may be, were the potential defendant.
 
-6. **Fourth parties**
+### 6. Fourth parties
 
 6.1 Paragraph 5 shall apply with the necessary modifications to fourth party proceedings and so on. All correspondences between the parties must be copied to all the other parties involved in the accident.
 
-7. **Potential defendant to bear claimant’s loss of use arising from pre-repair survey and/or post-repair inspection**
+### 7. Potential defendant to bear claimant’s loss of use arising from pre-repair survey and/or post-repair inspection
 
 7.1 The potential defendant must compensate the claimant for the loss of use of his vehicle computed from the date of receipt of the claimant’s notice of accident until the date the claimant is notified in writing that —
 
@@ -8463,7 +8394,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > (b) the insurer is waiving the requirement for pre-repair survey and he may proceed to repair his vehicle,
 
-> as the case may be, inclusive of any intervening Saturday, Sunday or public holiday.
+as the case may be, inclusive of any intervening Saturday, Sunday or public holiday.
 
 7.2 Where the insurer fails to respond to the claimant within **2** **working days** of receipt of the notice of accident as to whether he wishes to carry out or waive a pre-repair survey, the claimant may proceed to repair the vehicle and the potential defendant must compensate the claimant for the loss of use of his vehicle computed over 2 working days, inclusive of any intervening Saturday, Sunday or public holiday.
 
@@ -8471,7 +8402,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 7.4 Where an insurer requests for post-repair inspection pursuant to paragraph 4.1, the potential defendant must compensate the claimant for the loss of use of his vehicle for the day that the inspection is conducted.
 
-8. **Negotiation**
+### 8. Negotiation
 
 8.1 Where the claimant’s position on liability differs from the potential defendant’s, the claimant must within **2 weeks** from the date of receipt of the potential defendant’s reply to the letter of claim, make a counter-offer on liability. The claimant must specify the particular scenario in the *Motor Accident Guide* that is applicable to his account of the accident and enclose a copy of the relevant page of the *Motor Accident Guide* (Form 4A in this protocol may be used with the necessary modifications).
 
@@ -8479,7 +8410,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 8.3 If, after reasonable effort has been made to settle the matter, but there are no reasonable prospects of settlement after a time period of **at least 8 weeks** from the date of receipt of the letter of claim, save where paragraph 4.4 or 4.9 of this protocol applies, the claimant must give **10 clear days**’ notice (Form 5 in this protocol), by e-mail, fax or certificate of posting to the potential defendant of his intention to proceed with a writ. He must also inform the potential defendant of the names of all the parties he is suing.
 
-9. **Pre-action costs**
+### 9. Pre-action costs
 
 9.1 Where parties have settled both liability and quantum before any action is commenced, a claimant who has sought legal representation to put forward his claim will have incurred legal costs. A guide to the costs to be paid is as follows:
 
@@ -8489,17 +8420,17 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 | $1,000 to $9,999                        | $300 to $700                               |
 | $10,000 and above                       | $500 to $1,000                             |
 
-10. **Costs sanctions in relation to pre-repair survey and post repair inspection**
+### 10. Costs sanctions in relation to pre-repair survey and post repair inspection
 
 10.1 Where the claimant has without good reason repaired or caused repairs to be carried out to his vehicle without first complying with paragraph 2 of this protocol in relation to pre-repair survey, then on account of the omission, the court may impose costs sanctions against the claimant.
 
 10.2 Where the defendant disputes the damage to the claimant’s vehicle and after the commencement of Court proceedings requests for an inspection of the claimant’s vehicle without good reason, the Court may impose costs sanctions against the defendant.
 
-11. **Early agreement on liability**
+### 11. Early agreement on liability
 
 11.1 Where parties have agreed on the issue of liability prior to the commencement of proceedings and wish to issue a writ in order for damages to be assessed, the plaintiff must file a writ endorsed with a simplified statement of claim (Form 6 in this protocol). If no appearance is entered after the writ is served, the plaintiff may, in the manner prescribed under the Rules of Court, proceed to enter default interlocutory judgment and take out a summons for directions for the assessment of damages. If an appearance is entered, the plaintiff may take out a summons for interlocutory judgment to be entered and for directions for the assessment of damages.
 
-12. **Lodgement of claims below $3,000 with FIDReC**
+### 12. Lodgement of claims below $3,000 with FIDReC
 
 12.1 This paragraph applies to non-injury motor accident claims where the damages claimed before apportionment of liability is below $3,000 excluding survey fees, interests, costs and disbursements.
 
@@ -8507,7 +8438,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 12.3 Notwithstanding that the claim is to be lodged with FIDReC, the claimant and potential defendant shall comply with the requirements of this protocol. In this connection, references to the “Court”, writ/Court action and proceedings in this protocol shall refer to “FIDReC”, the lodgement of a claim at FIDReC and proceedings at FIDReC respectively.
 
-13. **Exceptions to FIDReC proceedings**
+### 13. Exceptions to FIDReC proceedings
 
 13.1 In any case where –
 
@@ -8529,7 +8460,7 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 > the claimant may commence an action in Court directly and all proceedings (if any) before FIDReC shall be abated forthwith, unless the Court otherwise directs.
 
-14. **Costs sanctions for non-compliance with requirement to lodge the claim/continue with proceedings at FIDReC**
+### 14. Costs sanctions for non-compliance with requirement to lodge the claim/continue with proceedings at FIDReC
 
 14.1 Where the claimant in a case to which paragraph 12.1 of this protocol applies, has commenced an action in Court, the Court in exercising its discretion as to costs, shall have regard to the following, where applicable:
 
@@ -8543,207 +8474,29 @@ CDR Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Defendant’s C
 
 14.3 Where the claimant has commenced Court proceedings before adjudication of the claim by FIDReC, the Court may stay the action under Order 34A of the Rules of Court to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
 
-15. **Application of the Limitation Act (Cap. 163)**
+### 15. Application of the Limitation Act (Cap. 163)
 
 15.1 For the avoidance of doubt, the lodgement of a claim and/or continuation of proceedings at FIDReC shall not be construed to operate as a stay of the time limited for the doing of any act as prescribed by the Limitation Act (Cap. 163).
 
 15.2 Should Court proceedings be commenced to prevent the operation of the time bar under the Limitation Act (Cap.163), the Court may nevertheless stay the action thereafter to enable the claimant to lodge his claim and/or complete the proceedings at FIDReC.
 
-**Form 1**
+### Forms
 
-**Sample Notice of Accident (To Be Copied to the Insurer)**
+<ul type="*">
+<li><a href="./downloads/Appendix-C-Form-1.pdf" download>Form 1: Sample Notice of Accident (To Be Copied to the Insurer)</a></li>
 
-**\[Can be sent by workshop on behalf of claimant\]**
+<li><a href="./downloads/Appendix-C-Form-2.pdf" download>Form 2: Sample Insurer’s Reply to Notice of Accident</a></li>
 
-To: \[Defendant’s Name\]
+<li><a href="./downloads/Appendix-C-Form-3.pdf" download>Form 3: Sample Letter of Claim to Defendant</a></li>
 
-\[Address\]
+<li><a href="./downloads/Appendix-C-Form-4.pdf" download>Form 4: Sample Acknowledgement of Letter of Claim</a></li>
 
-Dear Sir
+<li><a href="./downloads/Appendix-C-Form-4.pdf" download>Form 4A: Sample Letter of Offer</a></li>
 
-We are instructed by \[name of claimant\] to notify you of a road traffic accident on \[date\] at about \[time\] at \[place of accident which must be sufficiently detailed to establish location\] involving our client’s/customer’s vehicle registration number \[ \] and vehicle registration number \[ \] driven by you at the material time. A copy of the Singapore accident statement /traffic police report filed is enclosed.
+<li><a href="./downloads/Appendix-C-Form-5.pdf" download>Form 5: Sample Letter by Claimant before Issue of Writ of Summons</a></li>
 
-As a result of the accident, our client’s /customer’s vehicle has been damaged. Before our client/we proceed to repair the damaged vehicle, please let us know within 2 working days of your receipt of this notice whether you or your insurer would like to conduct a pre-repair survey of the vehicle. If we do not receive any reply from you within the stipulated timeline, our client/we shall proceed to repair the vehicle without further reference to you.
-
-Yours faithfully
-
-encs
-
-cc \[Defendant’s insurer\]
-
-\[Other defendant and his insurer\]
-
-(*Note*: This sample letter, with the necessary modifications, can also be used as a sample letter to the defendant’s insurer.)
-
-**Form 2**
-
-**Sample Insurer’s Reply to Notice of Accident**
-
-To: \[Name of Claimant’s solicitor/Claimant’s motor workshop\]
-
-\[Address\]
-
-Dear Sir
-
-We refer to your Notice of Accident dated \[ \].
-
-\[We do not wish to conduct a pre-repair survey of the damage to your client’s/your customer’s vehicle. Your client/your customer may proceed to repair the vehicle.\]
-
-*Or*
-
-\[We intend to conduct a pre-repair survey of the damage to your client’s/your customer’s vehicle jointly with your client/your motor workshop. We propose to use one of the motor surveyors named in the attached list to conduct the joint pre-repair survey as a single joint expert:
-
-\[Attach a list showing the names of at least 10 motor surveyors\]
-
-Please let us know within two (2) working days whether you agree to the appointment of any of these motor surveyors as a single joint expert. You may select one or more of the listed motor surveyors. We will bear the cost of the pre-repair survey carried out by the single joint expert.\]
-
-Yours faithfully,
-
-**Form 3**
-
-**Sample Letter of Claim to Defendant**
-
-To: \[Defendant’s Name\]
-\[Address\]
-
-Dear Sir
-
-\[Claimant’s full name\]
-\[Claimant’s address\]
-
-We are instructed by the above named to claim damages against you in connection with a road traffic accident on \[date\] at \[place of accident which must be sufficiently detailed to establish location\] involving our client’s vehicle registration number \[ \] and vehicle registration number \[ \] driven by you at the material time.
-
-We are instructed that the accident was caused by your negligent driving and/or management of your vehicle. As a result of the accident, our client’s vehicle was damaged and our client has been put to loss and expense, particulars of which are as follows:
-
-\[Set out the loss and expenses claimed.\]
-
-A copy each of the following supporting documents is enclosed:
-
-\[List the documents as required in the pre-action protocol.\]
-
-We have \[have not\] on \[date of notification\] notified your insurer \[name of insurer\] of the accident and \[a pre-repair survey of our client’s vehicle was carried out on \[date\]\] \[to the best of our knowledge, your insurer had waived the requirement for pre-repair inspection\]. \[Our client’s claim for cost of repairs is based on the amount negotiated and agreed with your insurer after the pre-repair survey was completed.\]
-
-\[We have also sent a letter of claim to \[name of the other defendant\] and a copy of that letter is enclosed. We understand that his insurer is \[name and address of insurer if known\].\]
-
-Please note that if you are insured and you wish to claim under your insurance policy, you should immediately pass this letter and all the enclosed documents to your insurer.
-
-Please note that you or your insurer should send to us an acknowledgement of receipt within 14 days of your receipt of this letter, failing which our client will have no alternative but to commence proceedings against you without further notice to you or your insurer.
-
-Please also note that if you have a counterclaim against our client arising out of the accident, you are also required to send to us a letter giving full particulars of the counterclaim together with all relevant supporting documents within 8 weeks of your receipt of this letter.
-
-Yours faithfully,
-
-encs
-
-\[Defendant’s insurer\]
-\[Other defendant and his insurer\]
-
-(Note: This sample letter, with the necessary modifications, can also be used as a sample letter to the defendant’s insurer.)
-
-**Form 4**
-
-**Sample Acknowledgement of Letter of Claim**
-
-To: \[Claimant\]
-\[Address\]
-
-Dear Sir,
-
-\[Heading e.g. as per letter of claim\]
-
-We acknowledge receipt of your letter dated \[ \] and the enclosures on \[date of receipt\].
-
-\[We are investigating your/your client’s claim and will reply to you substantively soon.\]
-
-\[or, if the defendant is ready to take a position on the claim, to state his position, e.g. We admit both liability and quantum and will be making full payment of your/your client’s claim within 14 days.
-
-or
-
-We admit liability and are investigating quantum and will reply to you on quantum soon.
-
-or
-
-We admit quantum and are investigating liability and will reply to you on liability soon.\]
-
-Yours faithfully,
-
-cc \[Other defendants and their insurers\]
-
-**Form 4A**
-
-**Sample Letter of Offer**
-
-**(For Offer on Liability with reference to the *Motor Accident Guide)***
-
-To: \[Claimant\]
-\[Address\] ***WITHOUT PREJUDICE SAVE AS TO COSTS***
-
-Dear Sir,
-
-\[Heading e.g. as per letter of claim\]
-
-We acknowledge receipt of your letter dated \[ \] and the enclosures on \[date of receipt\].
-
-*Or*
-
-We refer to your letter dated \[ \] and our letter of acknowledgement dated \[ \].
-
-We offer to settle your/your client’s claim on the following terms:
-
-\[Set out the offer, \[e.g. We propose that liability be resolved at \[ \]% in your/your client’s favour.\] We are of the view that Scenario \[serial number of scenario\] on page \[ \] of the *Motor Accident* *Guide* applies to the facts of the accident because \[state reasons\]. A copy of the relevant page of the *Motor Accident Guide* is enclosed.\]
-
-Yours faithfully,
-
-Cc \[Other defendants and their insurers\]
-
-
-
-**Form 5**
-
-**Sample Letter by Claimant before Issue of Writ of Summons**
-
-To: \[Defendant or his insurer as the case may be\]
-\[Address\]
-
-Dear Sir
-
-\[Heading e.g. as per letter of claim\]
-
-We regret that despite reasonable effort having been made to settle our client’s claim, there does not appear to be any reasonable prospects of settlement.
-
-We hereby give you 10 clear days’ notice that our client intends to proceed with the issue of a writ of summons against you/your insured. In this regard, please let us know if you are instructing solicitors to accept service of process on your/your insured’s behalf.
-
-\[Please note that our client will also be joining \[names of other defendants\] as co-defendants in the intended action.\]
-
-Yours faithfully,
-
-cc. \[Other defendants and their insurers\]
-
-**Form 6**
-
-**WRIT OF SUMMONS**
-
-(As per the form prescribed in the Rules of Court)
-
-Sample Statement of Claim
-
-1. On \[date\] at about \[time\] at \[place of accident\], the motor vehicle registration number \[ \] was involved in a collision with the motor vehicle registration number \[ \] driven by the defendant. \[If there are other defendants joined, for example on grounds of contributory negligence or vicarious liability, to give brief particulars, without giving particulars of negligence.\]
-
-2. \[On \[date\], the plaintiff and the defendant agreed that the defendant will bear \[full liability\] for the accident.\]
-
-3. As a result of the accident, the plaintiff’s vehicle was damaged and the plaintiff was put to loss and expense.
-
-Particulars
-
-\[set out the loss and expenses claimed.\]
-
-And the plaintiff claims:
-
-(1) damages to be assessed;
-
-(2) interest;
-
-(3) costs; etc.
+<li><a href="./downloads/Appendix-C-Form-6.pdf" download>Form 6: Writ of Summons</a></li>
+</ul>
 
 ## Appendix D: Protocol for Medical Negligence Claims
 
