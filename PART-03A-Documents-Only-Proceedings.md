@@ -1,6 +1,6 @@
-# Part IIIA: "DOCUMENTS-ONLY" Proceedings
+# Part IIIA: “Documents-Only” Proceedings
 
-## 22A. “Documents-only” Civil Trials and Assessments of Damages 
+## 22A. “Documents-Only” Civil Trials and Assessments of Damages 
 
 (1)	This Practice Direction applies when parties **elect** to apply for a “Documents-Only” Civil Trial or Assessment of Damages (“Assessment”).
  
@@ -46,7 +46,9 @@
 if —
 
 > (a)	all parties consent to the adoption of this mode of conduct of the Civil Trial or Assessment;
+
 > (b)	all parties personally execute and file the Request Forms recording their consent; and
+
 > (c)	the CMC/PTC/ADCDR/AD-PTC/AD-CMC judicial officer deems the case to be suitable for a “Documents-Only” Civil Trial or Assessment.
 
 (10)	Where requested by the parties, a hearing date will be fixed for them to make oral submissions in support of their respective cases before a decision is delivered. This request for a hearing date can be made in the Request Form. In the case of Trials, such submissions will be made in Open Court before the Trial Judge and in the case of Assessments, such submissions will be made in Chambers before the judicial officer hearing the Assessment.
@@ -66,6 +68,7 @@ if —
 (14)	In certain cases, where necessary, the Trial Judge or the judicial officer hearing the Assessment may issue further directions for the fair and effective conduct of the Civil Trial or Assessment, including directions for the following matters: 
 
 > (a)	that a further PTC be convened for counsel to address the Court on certain issues;
+
 > (b)	that further submissions and/or authorities be submitted by counsel/parties in writing or in person; 
 >
 > (c)	that the Civil Trial or Assessment not be conducted on a documents-only basis as it appears on a review of the documents submitted that certain factual or expert witnesses will need to be called; and/or
