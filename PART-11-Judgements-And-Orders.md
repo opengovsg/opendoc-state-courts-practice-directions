@@ -1,4 +1,4 @@
-# Part XI: Judgements and Orders
+# Part XI: Judgments and Orders
 
 ## 74. Draft orders of Court
 
