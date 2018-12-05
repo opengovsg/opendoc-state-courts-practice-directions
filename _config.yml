@@ -1,5 +1,8 @@
 title: State Courts Practice Directions
 remote_theme: opendocsg/opendoc-theme
+plugins:
+  - jekyll-seo-tag
+  - jekyll-include-cache
 section_order:
   - State Courts Practice Directions
   - "Part I: Introduction"
